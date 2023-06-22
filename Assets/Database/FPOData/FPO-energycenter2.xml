@@ -1,0 +1,1462 @@
+<?xml version="1.0"?>
+<FPONode xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <flags>0</flags>
+  <name>root</name>
+  <pos>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </pos>
+  <up>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </up>
+  <dir>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </dir>
+  <meshes />
+  <children>
+    <FPONode>
+      <flags>0</flags>
+      <name>STUB! id FF5F5C6C</name>
+      <parentName>root</parentName>
+      <pos>
+        <x>9.866619</x>
+        <y>-1.2338351</y>
+        <z>30.3049717</z>
+      </pos>
+      <up>
+        <x>2.98023224E-08</x>
+        <y>-2.98023259E-08</y>
+        <z>1</z>
+      </up>
+      <dir>
+        <x>1</x>
+        <y>-2.98023259E-08</y>
+        <z>-2.98023224E-08</z>
+      </dir>
+      <meshes>
+        <FPOmesh>
+          <meshName>energycenter2_Img0_Lod0</meshName>
+          <lod>0</lod>
+          <variant>0</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>energycenter2_Img0_Lod1</meshName>
+          <lod>1</lod>
+          <variant>0</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>energycenter2_Img0_Lod2</meshName>
+          <lod>2</lod>
+          <variant>0</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>energycenter2_Img1_Lod0</meshName>
+          <lod>0</lod>
+          <variant>1</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>energycenter2_Img1_Lod1</meshName>
+          <lod>1</lod>
+          <variant>1</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>energycenter2_Img1_Lod2</meshName>
+          <lod>2</lod>
+          <variant>1</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>energycenter2_Img2_Lod0</meshName>
+          <lod>0</lod>
+          <variant>2</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>energycenter2_Img2_Lod1</meshName>
+          <lod>1</lod>
+          <variant>2</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>energycenter2_Img2_Lod2</meshName>
+          <lod>2</lod>
+          <variant>2</variant>
+        </FPOmesh>
+      </meshes>
+      <children>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 9AEB5DAE</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>19.3015747</x>
+            <y>15.3212843</y>
+            <z>30.281599</z>
+          </pos>
+          <up>
+            <x>1</x>
+            <y>1.49011585E-08</y>
+            <z>-1.4901163E-08</z>
+          </up>
+          <dir>
+            <x>-1.49011585E-08</x>
+            <y>1</y>
+            <z>1.99840123E-15</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>energycenter2_D-9aeb5dae_Img2_Lod0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id EDEC6D38</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-14.3400583</x>
+            <y>15.3212814</y>
+            <z>33.45911</z>
+          </pos>
+          <up>
+            <x>1</x>
+            <y>1.49011585E-08</y>
+            <z>-1.4901163E-08</z>
+          </up>
+          <dir>
+            <x>-1.49011585E-08</x>
+            <y>1</y>
+            <z>1.99840123E-15</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>energycenter2_D-edec6d38_Img2_Lod0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 7388F89B</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-36.503418</x>
+            <y>15.3212814</y>
+            <z>13.2742968</z>
+          </pos>
+          <up>
+            <x>1</x>
+            <y>1.49011585E-08</y>
+            <z>-1.4901163E-08</z>
+          </up>
+          <dir>
+            <x>-1.49011585E-08</x>
+            <y>1</y>
+            <z>1.99840123E-15</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>energycenter2_D-7388f89b_Img2_Lod0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 048FC80D</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-3.50008249</x>
+            <y>-10.480196</y>
+            <z>48.5894737</z>
+          </pos>
+          <up>
+            <x>1</x>
+            <y>1.49011585E-08</y>
+            <z>-1.49011594E-08</z>
+          </up>
+          <dir>
+            <x>-1.49011585E-08</x>
+            <y>1</y>
+            <z>1.99840123E-15</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>energycenter2_D-048fc80d_Img2_Lod0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 9D8699B7</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-33.4488029</x>
+            <y>-10.480197</y>
+            <z>37.6750946</z>
+          </pos>
+          <up>
+            <x>1</x>
+            <y>1.49011585E-08</y>
+            <z>-1.49011594E-08</z>
+          </up>
+          <dir>
+            <x>-1.49011585E-08</x>
+            <y>1</y>
+            <z>1.99840123E-15</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>energycenter2_D-9d8699b7_Img2_Lod0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id EA81A921</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-22.1383839</x>
+            <y>-4.43586349</y>
+            <z>-40.6526833</z>
+          </pos>
+          <up>
+            <x>1</x>
+            <y>1.49011585E-08</y>
+            <z>-1.49011594E-08</z>
+          </up>
+          <dir>
+            <x>-1.49011585E-08</x>
+            <y>1</y>
+            <z>1.99840123E-15</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>energycenter2_D-ea81a921_Img2_Lod0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 8A4620C4</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>6.69522524</x>
+            <y>-10.4801979</y>
+            <z>48.35052</z>
+          </pos>
+          <up>
+            <x>1</x>
+            <y>1.49011585E-08</y>
+            <z>-1.49011594E-08</z>
+          </up>
+          <dir>
+            <x>-1.49011585E-08</x>
+            <y>1</y>
+            <z>1.99840123E-15</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>energycenter2_D-8a4620c4_Img2_Lod0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id FD411052</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>47.0781937</x>
+            <y>-6.742343</y>
+            <z>6.04025</z>
+          </pos>
+          <up>
+            <x>1</x>
+            <y>1.49011585E-08</y>
+            <z>-1.49011594E-08</z>
+          </up>
+          <dir>
+            <x>-1.49011585E-08</x>
+            <y>1</y>
+            <z>1.99840123E-15</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>energycenter2_D-fd411052_Img2_Lod0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 6DFE0DC3</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>37.3958244</x>
+            <y>-8.207554</y>
+            <z>31.451334</z>
+          </pos>
+          <up>
+            <x>1</x>
+            <y>1.49011585E-08</y>
+            <z>-1.49011594E-08</z>
+          </up>
+          <dir>
+            <x>-1.49011585E-08</x>
+            <y>1</y>
+            <z>1.99840123E-15</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>energycenter2_D-6dfe0dc3_Img2_Lod0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 1AF93D55</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>17.6426258</x>
+            <y>15.3212862</y>
+            <z>-25.93493</z>
+          </pos>
+          <up>
+            <x>1</x>
+            <y>1.49011585E-08</y>
+            <z>-1.4901163E-08</z>
+          </up>
+          <dir>
+            <x>-1.49011585E-08</x>
+            <y>1</y>
+            <z>1.99840123E-15</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>energycenter2_D-1af93d55_Img2_Lod0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 83F06CEF</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-16.094574</x>
+            <y>15.32128</y>
+            <z>-32.04133</z>
+          </pos>
+          <up>
+            <x>1</x>
+            <y>1.49011585E-08</y>
+            <z>-1.4901163E-08</z>
+          </up>
+          <dir>
+            <x>-1.49011585E-08</x>
+            <y>1</y>
+            <z>1.99840123E-15</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>energycenter2_D-83f06cef_Img2_Lod0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id F4F75C79</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-46.19294</x>
+            <y>-6.742338</y>
+            <z>9.066988</z>
+          </pos>
+          <up>
+            <x>1</x>
+            <y>1.49011585E-08</y>
+            <z>-1.49011594E-08</z>
+          </up>
+          <dir>
+            <x>-1.49011585E-08</x>
+            <y>1</y>
+            <z>1.99840123E-15</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>energycenter2_D-f4f75c79_Img2_Lod0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 6A93C9DA</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-47.2284</x>
+            <y>-5.84138346</y>
+            <z>-10.9452248</z>
+          </pos>
+          <up>
+            <x>1</x>
+            <y>1.49011585E-08</y>
+            <z>-1.49011594E-08</z>
+          </up>
+          <dir>
+            <x>-1.49011585E-08</x>
+            <y>1</y>
+            <z>1.99840123E-15</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>energycenter2_D-6a93c9da_Img2_Lod0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 1D94F94C</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-35.360424</x>
+            <y>-4.435863</y>
+            <z>-33.1930237</z>
+          </pos>
+          <up>
+            <x>1</x>
+            <y>1.49011585E-08</y>
+            <z>-1.49011594E-08</z>
+          </up>
+          <dir>
+            <x>-1.49011585E-08</x>
+            <y>1</y>
+            <z>1.99840123E-15</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>energycenter2_D-1d94f94c_Img2_Lod0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 849DA8F6</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>46.5206451</x>
+            <y>-5.230985</y>
+            <z>-8.017897</z>
+          </pos>
+          <up>
+            <x>1</x>
+            <y>1.49011585E-08</y>
+            <z>-1.49011594E-08</z>
+          </up>
+          <dir>
+            <x>-1.49011585E-08</x>
+            <y>1</y>
+            <z>1.99840123E-15</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>energycenter2_D-849da8f6_Img2_Lod0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id F39A9860</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>20.4166679</x>
+            <y>-10.4801989</y>
+            <z>44.5261421</z>
+          </pos>
+          <up>
+            <x>1</x>
+            <y>1.49011585E-08</y>
+            <z>-1.49011594E-08</z>
+          </up>
+          <dir>
+            <x>-1.49011585E-08</x>
+            <y>1</y>
+            <z>1.99840123E-15</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>energycenter2_D-f39a9860_Img2_Lod0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id A16B7307</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-21.0259056</x>
+            <y>-10.4801979</y>
+            <z>44.51402</z>
+          </pos>
+          <up>
+            <x>1</x>
+            <y>1.49011585E-08</y>
+            <z>-1.49011594E-08</z>
+          </up>
+          <dir>
+            <x>-1.49011585E-08</x>
+            <y>1</y>
+            <z>1.99840123E-15</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>energycenter2_D-a16b7307_Img2_Lod0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id D66C4391</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-42.2104</x>
+            <y>-7.92282438</y>
+            <z>25.6532383</z>
+          </pos>
+          <up>
+            <x>1</x>
+            <y>1.49011585E-08</y>
+            <z>-1.49011594E-08</z>
+          </up>
+          <dir>
+            <x>-1.49011585E-08</x>
+            <y>1</y>
+            <z>1.99840123E-15</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>energycenter2_D-d66c4391_Img2_Lod0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 46D35E00</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-0.47335273</x>
+            <y>-4.722125</y>
+            <z>-46.45512</z>
+          </pos>
+          <up>
+            <x>1</x>
+            <y>1.49011585E-08</y>
+            <z>-1.49011594E-08</z>
+          </up>
+          <dir>
+            <x>-1.49011585E-08</x>
+            <y>1</y>
+            <z>1.99840123E-15</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>energycenter2_D-46d35e00_Img2_Lod0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>energycenter2_D-46d35e00_Img2_Lod1</meshName>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>energycenter2_D-46d35e00_Img2_Lod2</meshName>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 31D46E96</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-46.19293</x>
+            <y>-6.74233961</y>
+            <z>17.0436516</z>
+          </pos>
+          <up>
+            <x>1</x>
+            <y>1.49011585E-08</y>
+            <z>-1.49011594E-08</z>
+          </up>
+          <dir>
+            <x>-1.49011585E-08</x>
+            <y>1</y>
+            <z>1.99840123E-15</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>energycenter2_D-31d46e96_Img2_Lod0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>energycenter2_D-31d46e96_Img2_Lod1</meshName>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>energycenter2_D-31d46e96_Img2_Lod2</meshName>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id A8DD3F2C</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>36.16604</x>
+            <y>-5.264564</y>
+            <z>-27.2370567</z>
+          </pos>
+          <up>
+            <x>1</x>
+            <y>1.49011585E-08</y>
+            <z>-1.49011594E-08</z>
+          </up>
+          <dir>
+            <x>-1.49011585E-08</x>
+            <y>1</y>
+            <z>1.99840123E-15</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>energycenter2_D-a8dd3f2c_Img2_Lod0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>energycenter2_D-a8dd3f2c_Img2_Lod1</meshName>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>energycenter2_D-a8dd3f2c_Img2_Lod2</meshName>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id DFDA0FBA</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>27.7230453</x>
+            <y>-2.96481681</y>
+            <z>-37.9445572</z>
+          </pos>
+          <up>
+            <x>1</x>
+            <y>1.49011585E-08</y>
+            <z>-1.49011594E-08</z>
+          </up>
+          <dir>
+            <x>-1.49011585E-08</x>
+            <y>1</y>
+            <z>1.99840123E-15</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>energycenter2_D-dfda0fba_Img2_Lod0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>energycenter2_D-dfda0fba_Img2_Lod1</meshName>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>energycenter2_D-dfda0fba_Img2_Lod2</meshName>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 41BE9A19</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>34.7519531</x>
+            <y>15.3212786</y>
+            <z>-3.76802254</z>
+          </pos>
+          <up>
+            <x>1</x>
+            <y>1.49011585E-08</y>
+            <z>-1.4901163E-08</z>
+          </up>
+          <dir>
+            <x>-1.49011585E-08</x>
+            <y>1</y>
+            <z>1.99840123E-15</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>energycenter2_D-41be9a19_Img2_Lod0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>energycenter2_D-41be9a19_Img2_Lod1</meshName>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>energycenter2_D-41be9a19_Img2_Lod2</meshName>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 36B9AA8F</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-28.958168</x>
+            <y>15.3212843</y>
+            <z>-19.25243</z>
+          </pos>
+          <up>
+            <x>1</x>
+            <y>1.49011585E-08</y>
+            <z>-1.4901163E-08</z>
+          </up>
+          <dir>
+            <x>-1.49011585E-08</x>
+            <y>1</y>
+            <z>1.99840123E-15</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>energycenter2_D-36b9aa8f_Img2_Lod0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>energycenter2_D-36b9aa8f_Img2_Lod1</meshName>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>energycenter2_D-36b9aa8f_Img2_Lod2</meshName>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id AFB0FB35</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-48.7417641</x>
+            <y>-5.23098373</y>
+            <z>3.0131917</z>
+          </pos>
+          <up>
+            <x>1</x>
+            <y>1.49011585E-08</y>
+            <z>-1.49011594E-08</z>
+          </up>
+          <dir>
+            <x>-1.49011585E-08</x>
+            <y>1</y>
+            <z>1.99840123E-15</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>energycenter2_D-afb0fb35_Img2_Lod0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>energycenter2_D-afb0fb35_Img2_Lod1</meshName>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>energycenter2_D-afb0fb35_Img2_Lod2</meshName>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id D8B7CBA3</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-37.5906448</x>
+            <y>-8.207553</y>
+            <z>31.56426</z>
+          </pos>
+          <up>
+            <x>1</x>
+            <y>1.49011585E-08</y>
+            <z>-1.49011594E-08</z>
+          </up>
+          <dir>
+            <x>-1.49011585E-08</x>
+            <y>1</y>
+            <z>1.99840123E-15</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>energycenter2_D-d8b7cba3_Img2_Lod0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>energycenter2_D-d8b7cba3_Img2_Lod1</meshName>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>energycenter2_D-d8b7cba3_Img2_Lod2</meshName>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id B43BF1AA</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-42.1307449</x>
+            <y>-7.02187443</y>
+            <z>-24.7310429</z>
+          </pos>
+          <up>
+            <x>1</x>
+            <y>1.49011585E-08</y>
+            <z>-1.49011594E-08</z>
+          </up>
+          <dir>
+            <x>-1.49011585E-08</x>
+            <y>1</y>
+            <z>1.99840123E-15</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>energycenter2_D-b43bf1aa_Img2_Lod0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>energycenter2_D-b43bf1aa_Img2_Lod1</meshName>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>energycenter2_D-b43bf1aa_Img2_Lod2</meshName>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id C33CC13C</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-5.81163073</x>
+            <y>-1.84385407</y>
+            <z>74.10967</z>
+          </pos>
+          <up>
+            <x>1</x>
+            <y>1.49011585E-08</y>
+            <z>-1.49011594E-08</z>
+          </up>
+          <dir>
+            <x>-1.49011585E-08</x>
+            <y>1</y>
+            <z>1.99840123E-15</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>energycenter2_D-c33cc13c_Img2_Lod0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>energycenter2_D-c33cc13c_Img2_Lod1</meshName>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>energycenter2_D-c33cc13c_Img2_Lod2</meshName>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 5383DCAD</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>22.3445187</x>
+            <y>-2.076781</y>
+            <z>54.31641</z>
+          </pos>
+          <up>
+            <x>1</x>
+            <y>1.49011585E-08</y>
+            <z>-1.49011594E-08</z>
+          </up>
+          <dir>
+            <x>-1.49011585E-08</x>
+            <y>1</y>
+            <z>1.99840123E-15</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>energycenter2_D-5383dcad_Img2_Lod0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>energycenter2_D-5383dcad_Img2_Lod1</meshName>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>energycenter2_D-5383dcad_Img2_Lod2</meshName>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 2484EC3B</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-3.720031</x>
+            <y>-2.10007262</y>
+            <z>61.01154</z>
+          </pos>
+          <up>
+            <x>1</x>
+            <y>1.49011585E-08</y>
+            <z>-1.49011594E-08</z>
+          </up>
+          <dir>
+            <x>-1.49011585E-08</x>
+            <y>1</y>
+            <z>1.99840123E-15</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>energycenter2_D-2484ec3b_Img2_Lod0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>energycenter2_D-2484ec3b_Img2_Lod1</meshName>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>energycenter2_D-2484ec3b_Img2_Lod2</meshName>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id BD8DBD81</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>5.129044</x>
+            <y>-1.84385252</y>
+            <z>73.1933441</z>
+          </pos>
+          <up>
+            <x>1</x>
+            <y>1.49011585E-08</y>
+            <z>-1.49011594E-08</z>
+          </up>
+          <dir>
+            <x>-1.49011585E-08</x>
+            <y>1</y>
+            <z>1.99840123E-15</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>energycenter2_D-bd8dbd81_Img2_Lod0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>energycenter2_D-bd8dbd81_Img2_Lod1</meshName>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>energycenter2_D-bd8dbd81_Img2_Lod2</meshName>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id CA8A8D17</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-0.180403948</x>
+            <y>-2.48051476</y>
+            <z>48.2408028</z>
+          </pos>
+          <up>
+            <x>1</x>
+            <y>1.49011585E-08</y>
+            <z>-1.49011594E-08</z>
+          </up>
+          <dir>
+            <x>-1.49011585E-08</x>
+            <y>1</y>
+            <z>1.99840123E-15</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>energycenter2_D-ca8a8d17_Img2_Lod0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>energycenter2_D-ca8a8d17_Img2_Lod1</meshName>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>energycenter2_D-ca8a8d17_Img2_Lod2</meshName>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 54EE18B4</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>13.8172264</x>
+            <y>-2.55815578</y>
+            <z>42.96661</z>
+          </pos>
+          <up>
+            <x>1</x>
+            <y>1.49011585E-08</y>
+            <z>-1.49011594E-08</z>
+          </up>
+          <dir>
+            <x>-1.49011585E-08</x>
+            <y>1</y>
+            <z>1.99840123E-15</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>energycenter2_D-54ee18b4_Img2_Lod0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>energycenter2_D-54ee18b4_Img2_Lod1</meshName>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>energycenter2_D-54ee18b4_Img2_Lod2</meshName>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 23E92822</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>9.634027</x>
+            <y>-1.96808243</y>
+            <z>62.52496</z>
+          </pos>
+          <up>
+            <x>1</x>
+            <y>1.49011585E-08</y>
+            <z>-1.49011594E-08</z>
+          </up>
+          <dir>
+            <x>-1.49011585E-08</x>
+            <y>1</y>
+            <z>1.99840123E-15</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>energycenter2_D-23e92822_Img2_Lod0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>energycenter2_D-23e92822_Img2_Lod1</meshName>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>energycenter2_D-23e92822_Img2_Lod2</meshName>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id BAE07998</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-17.0740871</x>
+            <y>-1.96031511</y>
+            <z>57.7988319</z>
+          </pos>
+          <up>
+            <x>1</x>
+            <y>1.49011585E-08</y>
+            <z>-1.49011594E-08</z>
+          </up>
+          <dir>
+            <x>-1.49011585E-08</x>
+            <y>1</y>
+            <z>1.99840123E-15</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>energycenter2_D-bae07998_Img2_Lod0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>energycenter2_D-bae07998_Img2_Lod1</meshName>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>energycenter2_D-bae07998_Img2_Lod2</meshName>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id CDE7490E</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>16.7312317</x>
+            <y>-4.435865</y>
+            <z>-43.0422134</z>
+          </pos>
+          <up>
+            <x>1</x>
+            <y>1.49011585E-08</y>
+            <z>-1.49011594E-08</z>
+          </up>
+          <dir>
+            <x>-1.49011585E-08</x>
+            <y>1</y>
+            <z>1.99840123E-15</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>energycenter2_D-cde7490e_Img2_Lod0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>energycenter2_D-cde7490e_Img2_Lod1</meshName>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>energycenter2_D-cde7490e_Img2_Lod2</meshName>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+      </children>
+      <slots />
+    </FPONode>
+  </children>
+  <slots />
+</FPONode>

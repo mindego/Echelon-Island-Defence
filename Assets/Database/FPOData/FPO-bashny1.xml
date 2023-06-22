@@ -1,0 +1,464 @@
+<?xml version="1.0"?>
+<FPONode xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <flags>0</flags>
+  <name>root</name>
+  <pos>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </pos>
+  <up>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </up>
+  <dir>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </dir>
+  <meshes />
+  <children>
+    <FPONode>
+      <flags>0</flags>
+      <name>STUB! id FF5F5C6C</name>
+      <parentName>root</parentName>
+      <pos>
+        <x>-0.3251432</x>
+        <y>-0.204549223</y>
+        <z>7.05345345</z>
+      </pos>
+      <up>
+        <x>4.37113918E-08</x>
+        <y>5.96046448E-08</y>
+        <z>1</z>
+      </up>
+      <dir>
+        <x>4.371139E-08</x>
+        <y>-1</y>
+        <z>5.960464E-08</z>
+      </dir>
+      <meshes>
+        <FPOmesh>
+          <meshName>bashny1_Im0_Ld0</meshName>
+          <lod>0</lod>
+          <variant>0</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>bashny1_Im0_Ld1</meshName>
+          <lod>1</lod>
+          <variant>0</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>bashny1_Im0_Ld2</meshName>
+          <lod>2</lod>
+          <variant>0</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>bashny1_Im1_Ld0</meshName>
+          <lod>0</lod>
+          <variant>1</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>bashny1_Im1_Ld1</meshName>
+          <lod>1</lod>
+          <variant>1</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>bashny1_Im1_Ld2</meshName>
+          <lod>2</lod>
+          <variant>1</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>bashny1_Im2_Ld0</meshName>
+          <lod>0</lod>
+          <variant>2</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>bashny1_Im2_Ld1</meshName>
+          <lod>1</lod>
+          <variant>2</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>bashny1_Im2_Ld2</meshName>
+          <lod>2</lod>
+          <variant>2</variant>
+        </FPOmesh>
+      </meshes>
+      <children>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id B43BF1AA</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>0.648806155</x>
+            <y>19.35768</y>
+            <z>-2.04774833</z>
+          </pos>
+          <up>
+            <x>4.371138E-08</x>
+            <y>5.960464E-08</y>
+            <z>-1</z>
+          </up>
+          <dir>
+            <x>-4.37113954E-08</x>
+            <y>1</y>
+            <z>5.96046377E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>bashny1_D10_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id C33CC13C</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-2.09805536</x>
+            <y>20.1503468</y>
+            <z>0.01345555</z>
+          </pos>
+          <up>
+            <x>4.371138E-08</x>
+            <y>5.960464E-08</y>
+            <z>-1</z>
+          </up>
+          <dir>
+            <x>-4.37113954E-08</x>
+            <y>1</y>
+            <z>5.96046377E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>bashny1_D09_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 5383DCAD</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-0.137507588</x>
+            <y>6.28158855</y>
+            <z>2.04197431</z>
+          </pos>
+          <up>
+            <x>4.371138E-08</x>
+            <y>5.960464E-08</y>
+            <z>-1</z>
+          </up>
+          <dir>
+            <x>-4.37113954E-08</x>
+            <y>1</y>
+            <z>5.96046377E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>bashny1_D08_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 2484EC3B</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-0.8915935</x>
+            <y>6.31055546</y>
+            <z>-2.04774857</z>
+          </pos>
+          <up>
+            <x>4.371138E-08</x>
+            <y>5.960464E-08</y>
+            <z>-1</z>
+          </up>
+          <dir>
+            <x>-4.37113954E-08</x>
+            <y>1</y>
+            <z>5.96046377E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>bashny1_D07_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id BD8DBD81</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>1.99166715</x>
+            <y>22.0474186</y>
+            <z>-0.2106861</z>
+          </pos>
+          <up>
+            <x>4.371138E-08</x>
+            <y>5.960464E-08</y>
+            <z>-1</z>
+          </up>
+          <dir>
+            <x>-4.37113954E-08</x>
+            <y>1</y>
+            <z>5.96046377E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>bashny1_D06_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id CA8A8D17</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>1.99166739</x>
+            <y>8.068637</y>
+            <z>0.5700577</z>
+          </pos>
+          <up>
+            <x>4.371138E-08</x>
+            <y>5.960464E-08</y>
+            <z>-1</z>
+          </up>
+          <dir>
+            <x>-4.37113954E-08</x>
+            <y>1</y>
+            <z>5.96046377E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>bashny1_D05_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 54EE18B4</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-2.098055</x>
+            <y>4.86549664</y>
+            <z>0.9839614</z>
+          </pos>
+          <up>
+            <x>4.371138E-08</x>
+            <y>5.960464E-08</y>
+            <z>-1</z>
+          </up>
+          <dir>
+            <x>-4.37113954E-08</x>
+            <y>1</y>
+            <z>5.96046377E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>bashny1_D04_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 23E92822</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>0.281421781</x>
+            <y>18.5789547</y>
+            <z>2.041975</z>
+          </pos>
+          <up>
+            <x>4.371138E-08</x>
+            <y>5.960464E-08</y>
+            <z>-1</z>
+          </up>
+          <dir>
+            <x>-4.37113954E-08</x>
+            <y>1</y>
+            <z>5.96046377E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>bashny1_D03_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id BAE07998</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-0.205363736</x>
+            <y>28.5745831</y>
+            <z>0.623655736</z>
+          </pos>
+          <up>
+            <x>4.37113847E-08</x>
+            <y>5.96046448E-08</y>
+            <z>-1</z>
+          </up>
+          <dir>
+            <x>-4.37113954E-08</x>
+            <y>1</y>
+            <z>5.960464E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>bashny1_D02_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id CDE7490E</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>0.1826994</x>
+            <y>35.3716774</y>
+            <z>0.182858527</z>
+          </pos>
+          <up>
+            <x>4.37113847E-08</x>
+            <y>5.96046448E-08</y>
+            <z>-1</z>
+          </up>
+          <dir>
+            <x>-4.37113954E-08</x>
+            <y>1</y>
+            <z>5.960464E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>bashny1_D01_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+      </children>
+      <slots />
+    </FPONode>
+  </children>
+  <slots />
+</FPONode>

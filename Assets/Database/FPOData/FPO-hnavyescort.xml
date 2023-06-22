@@ -1,0 +1,1438 @@
+<?xml version="1.0"?>
+<FPONode xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <flags>0</flags>
+  <name>root</name>
+  <pos>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </pos>
+  <up>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </up>
+  <dir>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </dir>
+  <meshes />
+  <children>
+    <FPONode>
+      <flags>0</flags>
+      <name>STUB! id FF5F5C6C</name>
+      <parentName>root</parentName>
+      <pos>
+        <x>0</x>
+        <y>-0</y>
+        <z>0</z>
+      </pos>
+      <up>
+        <x>-4.37113918E-08</x>
+        <y>5.960465E-08</y>
+        <z>1</z>
+      </up>
+      <dir>
+        <x>-4.371139E-08</x>
+        <y>-1</y>
+        <z>5.960465E-08</z>
+      </dir>
+      <meshes>
+        <FPOmesh>
+          <meshName>hnavyescort_Img0_Lod0</meshName>
+          <lod>0</lod>
+          <variant>0</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>hnavyescort_Img0_Lod1</meshName>
+          <lod>1</lod>
+          <variant>0</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>hnavyescort_Img0_Lod2</meshName>
+          <lod>2</lod>
+          <variant>0</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>hnavyescort_Img1_Lod0</meshName>
+          <lod>0</lod>
+          <variant>1</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>hnavyescort_Img1_Lod1</meshName>
+          <lod>1</lod>
+          <variant>1</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>hnavyescort_Img1_Lod2</meshName>
+          <lod>2</lod>
+          <variant>1</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>hnavyescort_Img2_Lod0</meshName>
+          <lod>0</lod>
+          <variant>2</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>hnavyescort_Img2_Lod1</meshName>
+          <lod>1</lod>
+          <variant>2</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>hnavyescort_Img2_Lod2</meshName>
+          <lod>2</lod>
+          <variant>2</variant>
+        </FPOmesh>
+      </meshes>
+      <children>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id 50CC149E</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>0.125891522</x>
+            <y>-9.85652351</y>
+            <z>-37.60908</z>
+          </pos>
+          <up>
+            <x>-4.37113847E-08</x>
+            <y>5.960465E-08</y>
+            <z>-1</z>
+          </up>
+          <dir>
+            <x>4.37113918E-08</x>
+            <y>1</y>
+            <z>5.960465E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>hnavyescort_Base A_Stern_Img0_Lod0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>hnavyescort_Base A_Stern_Img0_Lod1</meshName>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>hnavyescort_Base A_Stern_Img0_Lod2</meshName>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>hnavyescort_Base A_Stern_Img1_Lod0</meshName>
+              <lod>0</lod>
+              <variant>1</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>hnavyescort_Base A_Stern_Img1_Lod1</meshName>
+              <lod>1</lod>
+              <variant>1</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>hnavyescort_Base A_Stern_Img1_Lod2</meshName>
+              <lod>2</lod>
+              <variant>1</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>hnavyescort_Base A_Stern_Img2_Lod0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>hnavyescort_Base A_Stern_Img2_Lod1</meshName>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>hnavyescort_Base A_Stern_Img2_Lod2</meshName>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id 11BA2EC6</name>
+              <parentName>STUB! id 50CC149E</parentName>
+              <pos>
+                <x>-0.1487379</x>
+                <y>-1.30584717</y>
+                <z>18.812542</z>
+              </pos>
+              <up>
+                <x>1.04216079E-14</x>
+                <y>1</y>
+                <z>-3.28405643E-15</z>
+              </up>
+              <dir>
+                <x>2.11758224E-22</x>
+                <y>3.28405643E-15</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>hnavyescort_Base A_Stern_A_Stern_Img0_Lod0</meshName>
+                  <lod>0</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>hnavyescort_Base A_Stern_A_Stern_Img0_Lod1</meshName>
+                  <lod>1</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>hnavyescort_Base A_Stern_A_Stern_Img0_Lod2</meshName>
+                  <lod>2</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>hnavyescort_Base A_Stern_A_Stern_Img1_Lod0</meshName>
+                  <lod>0</lod>
+                  <variant>1</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>hnavyescort_Base A_Stern_A_Stern_Img1_Lod1</meshName>
+                  <lod>1</lod>
+                  <variant>1</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>hnavyescort_Base A_Stern_A_Stern_Img1_Lod2</meshName>
+                  <lod>2</lod>
+                  <variant>1</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>hnavyescort_Base A_Stern_A_Stern_Img2_Lod0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>hnavyescort_Base A_Stern_A_Stern_Img2_Lod1</meshName>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>hnavyescort_Base A_Stern_A_Stern_Img2_Lod2</meshName>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children>
+                <FPONode>
+                  <flags>1</flags>
+                  <name>STUB! id BAE07998</name>
+                  <parentName>STUB! id 11BA2EC6</parentName>
+                  <pos>
+                    <x>-17.5087814</x>
+                    <y>-14.2092285</y>
+                    <z>6.61621666</z>
+                  </pos>
+                  <up>
+                    <x>1.74845582E-07</x>
+                    <y>1</y>
+                    <z>-1.64202811E-15</z>
+                  </up>
+                  <dir>
+                    <x>-4.090028E-15</x>
+                    <y>1.64202885E-15</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>hnavyescort_Base A_Stern_A_Stern_D-bae07998_Img2_Lod0</meshName>
+                      <lod>0</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>1</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>2</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children />
+                  <slots />
+                </FPONode>
+                <FPONode>
+                  <flags>1</flags>
+                  <name>STUB! id CDE7490E</name>
+                  <parentName>STUB! id 11BA2EC6</parentName>
+                  <pos>
+                    <x>17.0855789</x>
+                    <y>-15.13975</y>
+                    <z>7.43721962</z>
+                  </pos>
+                  <up>
+                    <x>1.74845553E-07</x>
+                    <y>-1</y>
+                    <z>1.64202684E-15</z>
+                  </up>
+                  <dir>
+                    <x>-1.11954555E-14</x>
+                    <y>-1.64202874E-15</y>
+                    <z>-1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>hnavyescort_Base A_Stern_A_Stern_D-cde7490e_Img2_Lod0</meshName>
+                      <lod>0</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>1</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>2</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children />
+                  <slots />
+                </FPONode>
+                <FPONode>
+                  <flags>0</flags>
+                  <name>STUB! id 30B8EEAB</name>
+                  <parentName>STUB! id 11BA2EC6</parentName>
+                  <pos>
+                    <x>0.145146132</x>
+                    <y>-0.7035942</y>
+                    <z>11.8401184</z>
+                  </pos>
+                  <up>
+                    <x>1.04216079E-14</x>
+                    <y>1</y>
+                    <z>-3.28405643E-15</z>
+                  </up>
+                  <dir>
+                    <x>2.11758224E-22</x>
+                    <y>3.28405643E-15</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>hnavyescort_Base A_Stern_A_Stern_Descent_Img0_Lod0</meshName>
+                      <lod>0</lod>
+                      <variant>0</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <meshName>hnavyescort_Base A_Stern_A_Stern_Descent_Img0_Lod1</meshName>
+                      <lod>1</lod>
+                      <variant>0</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <meshName>hnavyescort_Base A_Stern_A_Stern_Descent_Img0_Lod2</meshName>
+                      <lod>2</lod>
+                      <variant>0</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <meshName>hnavyescort_Base A_Stern_A_Stern_Descent_Img1_Lod0</meshName>
+                      <lod>0</lod>
+                      <variant>1</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <meshName>hnavyescort_Base A_Stern_A_Stern_Descent_Img1_Lod1</meshName>
+                      <lod>1</lod>
+                      <variant>1</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <meshName>hnavyescort_Base A_Stern_A_Stern_Descent_Img1_Lod2</meshName>
+                      <lod>2</lod>
+                      <variant>1</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <meshName>hnavyescort_Base A_Stern_A_Stern_Descent_Img2_Lod0</meshName>
+                      <lod>0</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <meshName>hnavyescort_Base A_Stern_A_Stern_Descent_Img2_Lod1</meshName>
+                      <lod>1</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <meshName>hnavyescort_Base A_Stern_A_Stern_Descent_Img2_Lod2</meshName>
+                      <lod>2</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children />
+                  <slots />
+                </FPONode>
+              </children>
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id DDB2D510</name>
+              <parentName>STUB! id 50CC149E</parentName>
+              <pos>
+                <x>9.536749E-07</x>
+                <y>32.6973763</y>
+                <z>-1.154632E-13</z>
+              </pos>
+              <up>
+                <x>1.04216079E-14</x>
+                <y>1</y>
+                <z>-3.28405643E-15</z>
+              </up>
+              <dir>
+                <x>2.11758224E-22</x>
+                <y>3.28405643E-15</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>hnavyescort_Base A_Stern_Base Stern_Img0_Lod0</meshName>
+                  <lod>0</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>hnavyescort_Base A_Stern_Base Stern_Img0_Lod1</meshName>
+                  <lod>1</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>hnavyescort_Base A_Stern_Base Stern_Img0_Lod2</meshName>
+                  <lod>2</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>hnavyescort_Base A_Stern_Base Stern_Img1_Lod0</meshName>
+                  <lod>0</lod>
+                  <variant>1</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>hnavyescort_Base A_Stern_Base Stern_Img1_Lod1</meshName>
+                  <lod>1</lod>
+                  <variant>1</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>hnavyescort_Base A_Stern_Base Stern_Img1_Lod2</meshName>
+                  <lod>2</lod>
+                  <variant>1</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>hnavyescort_Base A_Stern_Base Stern_Img2_Lod0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>hnavyescort_Base A_Stern_Base Stern_Img2_Lod1</meshName>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>hnavyescort_Base A_Stern_Base Stern_Img2_Lod2</meshName>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children>
+                <FPONode>
+                  <flags>0</flags>
+                  <name>STUB! id 9AEDFBD6</name>
+                  <parentName>STUB! id DDB2D510</parentName>
+                  <pos>
+                    <x>0.018198967</x>
+                    <y>-0.8860092</y>
+                    <z>18.812542</z>
+                  </pos>
+                  <up>
+                    <x>1.04216079E-14</x>
+                    <y>1</y>
+                    <z>-3.28405643E-15</z>
+                  </up>
+                  <dir>
+                    <x>2.11758224E-22</x>
+                    <y>3.28405643E-15</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>hnavyescort_Base A_Stern_Base Stern_Stern_Img0_Lod0</meshName>
+                      <lod>0</lod>
+                      <variant>0</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <meshName>hnavyescort_Base A_Stern_Base Stern_Stern_Img0_Lod1</meshName>
+                      <lod>1</lod>
+                      <variant>0</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <meshName>hnavyescort_Base A_Stern_Base Stern_Stern_Img0_Lod2</meshName>
+                      <lod>2</lod>
+                      <variant>0</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <meshName>hnavyescort_Base A_Stern_Base Stern_Stern_Img1_Lod0</meshName>
+                      <lod>0</lod>
+                      <variant>1</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <meshName>hnavyescort_Base A_Stern_Base Stern_Stern_Img1_Lod1</meshName>
+                      <lod>1</lod>
+                      <variant>1</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <meshName>hnavyescort_Base A_Stern_Base Stern_Stern_Img1_Lod2</meshName>
+                      <lod>2</lod>
+                      <variant>1</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <meshName>hnavyescort_Base A_Stern_Base Stern_Stern_Img2_Lod0</meshName>
+                      <lod>0</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <meshName>hnavyescort_Base A_Stern_Base Stern_Stern_Img2_Lod1</meshName>
+                      <lod>1</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <meshName>hnavyescort_Base A_Stern_Base Stern_Stern_Img2_Lod2</meshName>
+                      <lod>2</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children>
+                    <FPONode>
+                      <flags>0</flags>
+                      <name>STUB! id ED6BDB95</name>
+                      <parentName>STUB! id 9AEDFBD6</parentName>
+                      <pos>
+                        <x>-0.2199192</x>
+                        <y>-9.250664</y>
+                        <z>11.5191345</z>
+                      </pos>
+                      <up>
+                        <x>1.04216079E-14</x>
+                        <y>1</y>
+                        <z>-3.28405643E-15</z>
+                      </up>
+                      <dir>
+                        <x>2.11758224E-22</x>
+                        <y>3.28405643E-15</y>
+                        <z>1</z>
+                      </dir>
+                      <meshes>
+                        <FPOmesh>
+                          <meshName>hnavyescort_Base A_Stern_Base Stern_Stern_Bak_Img0_Lod0</meshName>
+                          <lod>0</lod>
+                          <variant>0</variant>
+                        </FPOmesh>
+                        <FPOmesh>
+                          <meshName>hnavyescort_Base A_Stern_Base Stern_Stern_Bak_Img0_Lod1</meshName>
+                          <lod>1</lod>
+                          <variant>0</variant>
+                        </FPOmesh>
+                        <FPOmesh>
+                          <meshName>hnavyescort_Base A_Stern_Base Stern_Stern_Bak_Img0_Lod2</meshName>
+                          <lod>2</lod>
+                          <variant>0</variant>
+                        </FPOmesh>
+                        <FPOmesh>
+                          <meshName>hnavyescort_Base A_Stern_Base Stern_Stern_Bak_Img1_Lod0</meshName>
+                          <lod>0</lod>
+                          <variant>1</variant>
+                        </FPOmesh>
+                        <FPOmesh>
+                          <meshName>hnavyescort_Base A_Stern_Base Stern_Stern_Bak_Img1_Lod1</meshName>
+                          <lod>1</lod>
+                          <variant>1</variant>
+                        </FPOmesh>
+                        <FPOmesh>
+                          <meshName>hnavyescort_Base A_Stern_Base Stern_Stern_Bak_Img1_Lod2</meshName>
+                          <lod>2</lod>
+                          <variant>1</variant>
+                        </FPOmesh>
+                        <FPOmesh>
+                          <meshName>hnavyescort_Base A_Stern_Base Stern_Stern_Bak_Img2_Lod0</meshName>
+                          <lod>0</lod>
+                          <variant>2</variant>
+                        </FPOmesh>
+                        <FPOmesh>
+                          <meshName>hnavyescort_Base A_Stern_Base Stern_Stern_Bak_Img2_Lod1</meshName>
+                          <lod>1</lod>
+                          <variant>2</variant>
+                        </FPOmesh>
+                        <FPOmesh>
+                          <meshName>hnavyescort_Base A_Stern_Base Stern_Stern_Bak_Img2_Lod2</meshName>
+                          <lod>2</lod>
+                          <variant>2</variant>
+                        </FPOmesh>
+                      </meshes>
+                      <children>
+                        <FPONode>
+                          <flags>1</flags>
+                          <name>STUB! id BAE07998</name>
+                          <parentName>STUB! id ED6BDB95</parentName>
+                          <pos>
+                            <x>-10.5851755</x>
+                            <y>5.321579</y>
+                            <z>3.58931541</z>
+                          </pos>
+                          <up>
+                            <x>8.763518E-15</x>
+                            <y>1</y>
+                            <z>-1.64202811E-15</z>
+                          </up>
+                          <dir>
+                            <x>3.55271368E-15</x>
+                            <y>1.64202811E-15</y>
+                            <z>1</z>
+                          </dir>
+                          <meshes>
+                            <FPOmesh>
+                              <meshName>hnavyescort_Base A_Stern_Base Stern_Stern_Bak_D-bae07998_Img2_Lod0</meshName>
+                              <lod>0</lod>
+                              <variant>2</variant>
+                            </FPOmesh>
+                            <FPOmesh>
+                              <lod>1</lod>
+                              <variant>2</variant>
+                            </FPOmesh>
+                            <FPOmesh>
+                              <lod>2</lod>
+                              <variant>2</variant>
+                            </FPOmesh>
+                          </meshes>
+                          <children />
+                          <slots />
+                        </FPONode>
+                        <FPONode>
+                          <flags>1</flags>
+                          <name>STUB! id CDE7490E</name>
+                          <parentName>STUB! id ED6BDB95</parentName>
+                          <pos>
+                            <x>11.0457487</x>
+                            <y>3.33114624</y>
+                            <z>-1.4727993</z>
+                          </pos>
+                          <up>
+                            <x>-8.763518E-15</x>
+                            <y>-1</y>
+                            <z>1.64202811E-15</z>
+                          </up>
+                          <dir>
+                            <x>-3.55271368E-15</x>
+                            <y>-1.64202811E-15</y>
+                            <z>-1</z>
+                          </dir>
+                          <meshes>
+                            <FPOmesh>
+                              <meshName>hnavyescort_Base A_Stern_Base Stern_Stern_Bak_D-cde7490e_Img2_Lod0</meshName>
+                              <lod>0</lod>
+                              <variant>2</variant>
+                            </FPOmesh>
+                            <FPOmesh>
+                              <lod>1</lod>
+                              <variant>2</variant>
+                            </FPOmesh>
+                            <FPOmesh>
+                              <lod>2</lod>
+                              <variant>2</variant>
+                            </FPOmesh>
+                          </meshes>
+                          <children />
+                          <slots />
+                        </FPONode>
+                      </children>
+                      <slots />
+                    </FPONode>
+                    <FPONode>
+                      <flags>0</flags>
+                      <name>STUB! id E9F3C56E</name>
+                      <parentName>STUB! id 9AEDFBD6</parentName>
+                      <pos>
+                        <x>-0.018198967</x>
+                        <y>19.8640671</y>
+                        <z>9.693682</z>
+                      </pos>
+                      <up>
+                        <x>1.04216079E-14</x>
+                        <y>1</y>
+                        <z>-3.28405643E-15</z>
+                      </up>
+                      <dir>
+                        <x>2.11758224E-22</x>
+                        <y>3.28405643E-15</y>
+                        <z>1</z>
+                      </dir>
+                      <meshes>
+                        <FPOmesh>
+                          <meshName>hnavyescort_Base A_Stern_Base Stern_Stern_Gplace_Img0_Lod0</meshName>
+                          <lod>0</lod>
+                          <variant>0</variant>
+                        </FPOmesh>
+                        <FPOmesh>
+                          <meshName>hnavyescort_Base A_Stern_Base Stern_Stern_Gplace_Img0_Lod1</meshName>
+                          <lod>1</lod>
+                          <variant>0</variant>
+                        </FPOmesh>
+                        <FPOmesh>
+                          <meshName>hnavyescort_Base A_Stern_Base Stern_Stern_Gplace_Img0_Lod2</meshName>
+                          <lod>2</lod>
+                          <variant>0</variant>
+                        </FPOmesh>
+                        <FPOmesh>
+                          <meshName>hnavyescort_Base A_Stern_Base Stern_Stern_Gplace_Img1_Lod0</meshName>
+                          <lod>0</lod>
+                          <variant>1</variant>
+                        </FPOmesh>
+                        <FPOmesh>
+                          <meshName>hnavyescort_Base A_Stern_Base Stern_Stern_Gplace_Img1_Lod1</meshName>
+                          <lod>1</lod>
+                          <variant>1</variant>
+                        </FPOmesh>
+                        <FPOmesh>
+                          <meshName>hnavyescort_Base A_Stern_Base Stern_Stern_Gplace_Img1_Lod2</meshName>
+                          <lod>2</lod>
+                          <variant>1</variant>
+                        </FPOmesh>
+                        <FPOmesh>
+                          <meshName>hnavyescort_Base A_Stern_Base Stern_Stern_Gplace_Img2_Lod0</meshName>
+                          <lod>0</lod>
+                          <variant>2</variant>
+                        </FPOmesh>
+                        <FPOmesh>
+                          <meshName>hnavyescort_Base A_Stern_Base Stern_Stern_Gplace_Img2_Lod1</meshName>
+                          <lod>1</lod>
+                          <variant>2</variant>
+                        </FPOmesh>
+                        <FPOmesh>
+                          <meshName>hnavyescort_Base A_Stern_Base Stern_Stern_Gplace_Img2_Lod2</meshName>
+                          <lod>2</lod>
+                          <variant>2</variant>
+                        </FPOmesh>
+                      </meshes>
+                      <children />
+                      <slots />
+                    </FPONode>
+                  </children>
+                  <slots />
+                </FPONode>
+              </children>
+              <slots />
+            </FPONode>
+          </children>
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id 92E22AC2</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>0.125895724</x>
+            <y>-9.856512</y>
+            <z>80.6751556</z>
+          </pos>
+          <up>
+            <x>-4.37113847E-08</x>
+            <y>5.960465E-08</y>
+            <z>-1</z>
+          </up>
+          <dir>
+            <x>4.37113918E-08</x>
+            <y>1</y>
+            <z>5.960465E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>hnavyescort_Base Nose_Img0_Lod0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>hnavyescort_Base Nose_Img0_Lod1</meshName>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>hnavyescort_Base Nose_Img0_Lod2</meshName>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>hnavyescort_Base Nose_Img1_Lod0</meshName>
+              <lod>0</lod>
+              <variant>1</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>hnavyescort_Base Nose_Img1_Lod1</meshName>
+              <lod>1</lod>
+              <variant>1</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>hnavyescort_Base Nose_Img1_Lod2</meshName>
+              <lod>2</lod>
+              <variant>1</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>hnavyescort_Base Nose_Img2_Lod0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>hnavyescort_Base Nose_Img2_Lod1</meshName>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>hnavyescort_Base Nose_Img2_Lod2</meshName>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id 7F03932C</name>
+              <parentName>STUB! id 92E22AC2</parentName>
+              <pos>
+                <x>2.87592343E-06</x>
+                <y>6.476166</y>
+                <z>17.1831512</z>
+              </pos>
+              <up>
+                <x>1.04216079E-14</x>
+                <y>1</y>
+                <z>-3.28405643E-15</z>
+              </up>
+              <dir>
+                <x>2.11758224E-22</x>
+                <y>3.28405643E-15</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>hnavyescort_Base Nose_Nose_Img0_Lod0</meshName>
+                  <lod>0</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>hnavyescort_Base Nose_Nose_Img0_Lod1</meshName>
+                  <lod>1</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>hnavyescort_Base Nose_Nose_Img0_Lod2</meshName>
+                  <lod>2</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>hnavyescort_Base Nose_Nose_Img1_Lod0</meshName>
+                  <lod>0</lod>
+                  <variant>1</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>hnavyescort_Base Nose_Nose_Img1_Lod1</meshName>
+                  <lod>1</lod>
+                  <variant>1</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>hnavyescort_Base Nose_Nose_Img1_Lod2</meshName>
+                  <lod>2</lod>
+                  <variant>1</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>hnavyescort_Base Nose_Nose_Img2_Lod0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>hnavyescort_Base Nose_Nose_Img2_Lod1</meshName>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>hnavyescort_Base Nose_Nose_Img2_Lod2</meshName>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+          </children>
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id 617FE530</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>0.1258947</x>
+            <y>7.326635</y>
+            <z>18.1191578</z>
+          </pos>
+          <up>
+            <x>-4.37113847E-08</x>
+            <y>5.960465E-08</y>
+            <z>-1</z>
+          </up>
+          <dir>
+            <x>4.37113918E-08</x>
+            <y>1</y>
+            <z>5.960465E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>hnavyescort_Middle_Img0_Lod0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>hnavyescort_Middle_Img0_Lod1</meshName>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>hnavyescort_Middle_Img0_Lod2</meshName>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>hnavyescort_Middle_Img1_Lod0</meshName>
+              <lod>0</lod>
+              <variant>1</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>hnavyescort_Middle_Img1_Lod1</meshName>
+              <lod>1</lod>
+              <variant>1</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>hnavyescort_Middle_Img1_Lod2</meshName>
+              <lod>2</lod>
+              <variant>1</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>hnavyescort_Middle_Img2_Lod0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>hnavyescort_Middle_Img2_Lod1</meshName>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>hnavyescort_Middle_Img2_Lod2</meshName>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id DE835D8D</name>
+              <parentName>STUB! id 617FE530</parentName>
+              <pos>
+                <x>1.92224957E-06</x>
+                <y>-14.5100269</y>
+                <z>11.8548908</z>
+              </pos>
+              <up>
+                <x>1.04216079E-14</x>
+                <y>1</y>
+                <z>-3.28405643E-15</z>
+              </up>
+              <dir>
+                <x>2.11758224E-22</x>
+                <y>3.28405643E-15</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>hnavyescort_Middle_PlaceGun_Img0_Lod0</meshName>
+                  <lod>0</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>hnavyescort_Middle_PlaceGun_Img0_Lod1</meshName>
+                  <lod>1</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>hnavyescort_Middle_PlaceGun_Img0_Lod2</meshName>
+                  <lod>2</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>hnavyescort_Middle_PlaceGun_Img1_Lod0</meshName>
+                  <lod>0</lod>
+                  <variant>1</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>hnavyescort_Middle_PlaceGun_Img1_Lod1</meshName>
+                  <lod>1</lod>
+                  <variant>1</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>hnavyescort_Middle_PlaceGun_Img1_Lod2</meshName>
+                  <lod>2</lod>
+                  <variant>1</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>hnavyescort_Middle_PlaceGun_Img2_Lod0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>hnavyescort_Middle_PlaceGun_Img2_Lod1</meshName>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>hnavyescort_Middle_PlaceGun_Img2_Lod2</meshName>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id A1F5589F</name>
+              <parentName>STUB! id 617FE530</parentName>
+              <pos>
+                <x>-0.00358961523</x>
+                <y>25.6258087</y>
+                <z>24.9399128</z>
+              </pos>
+              <up>
+                <x>1.04216079E-14</x>
+                <y>1</y>
+                <z>-3.28405643E-15</z>
+              </up>
+              <dir>
+                <x>2.11758224E-22</x>
+                <y>3.28405643E-15</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>hnavyescort_Middle_Tower_Img0_Lod0</meshName>
+                  <lod>0</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>hnavyescort_Middle_Tower_Img0_Lod1</meshName>
+                  <lod>1</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>hnavyescort_Middle_Tower_Img0_Lod2</meshName>
+                  <lod>2</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>hnavyescort_Middle_Tower_Img1_Lod0</meshName>
+                  <lod>0</lod>
+                  <variant>1</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>hnavyescort_Middle_Tower_Img1_Lod1</meshName>
+                  <lod>1</lod>
+                  <variant>1</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>hnavyescort_Middle_Tower_Img1_Lod2</meshName>
+                  <lod>2</lod>
+                  <variant>1</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>hnavyescort_Middle_Tower_Img2_Lod0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>hnavyescort_Middle_Tower_Img2_Lod1</meshName>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>hnavyescort_Middle_Tower_Img2_Lod2</meshName>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children>
+                <FPONode>
+                  <flags>1</flags>
+                  <name>STUB! id 2484EC3B</name>
+                  <parentName>STUB! id A1F5589F</parentName>
+                  <pos>
+                    <x>-0.461995453</x>
+                    <y>6.7785635</y>
+                    <z>4.250946</z>
+                  </pos>
+                  <up>
+                    <x>8.763518E-15</x>
+                    <y>1</y>
+                    <z>-1.64202811E-15</z>
+                  </up>
+                  <dir>
+                    <x>3.55271368E-15</x>
+                    <y>1.64202811E-15</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>hnavyescort_Middle_Tower_D-2484ec3b_Img2_Lod0</meshName>
+                      <lod>0</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>1</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>2</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children />
+                  <slots />
+                </FPONode>
+                <FPONode>
+                  <flags>1</flags>
+                  <name>STUB! id BD8DBD81</name>
+                  <parentName>STUB! id A1F5589F</parentName>
+                  <pos>
+                    <x>-0.9994334</x>
+                    <y>10.2062082</y>
+                    <z>-2.7216835</z>
+                  </pos>
+                  <up>
+                    <x>8.763518E-15</x>
+                    <y>1</y>
+                    <z>-1.64202811E-15</z>
+                  </up>
+                  <dir>
+                    <x>3.55271368E-15</x>
+                    <y>1.64202811E-15</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>hnavyescort_Middle_Tower_D-bd8dbd81_Img2_Lod0</meshName>
+                      <lod>0</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>1</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>2</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children />
+                  <slots />
+                </FPONode>
+                <FPONode>
+                  <flags>1</flags>
+                  <name>STUB! id CA8A8D17</name>
+                  <parentName>STUB! id A1F5589F</parentName>
+                  <pos>
+                    <x>-0.6599799</x>
+                    <y>4.58867264</y>
+                    <z>6.93325424</z>
+                  </pos>
+                  <up>
+                    <x>8.763518E-15</x>
+                    <y>1</y>
+                    <z>-1.64202811E-15</z>
+                  </up>
+                  <dir>
+                    <x>3.55271368E-15</x>
+                    <y>1.64202811E-15</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>hnavyescort_Middle_Tower_D-ca8a8d17_Img2_Lod0</meshName>
+                      <lod>0</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>1</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>2</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children />
+                  <slots />
+                </FPONode>
+                <FPONode>
+                  <flags>1</flags>
+                  <name>STUB! id 54EE18B4</name>
+                  <parentName>STUB! id A1F5589F</parentName>
+                  <pos>
+                    <x>-0.303206682</x>
+                    <y>-6.565428</y>
+                    <z>-4.663864</z>
+                  </pos>
+                  <up>
+                    <x>8.763518E-15</x>
+                    <y>1</y>
+                    <z>-1.64202811E-15</z>
+                  </up>
+                  <dir>
+                    <x>3.55271368E-15</x>
+                    <y>1.64202811E-15</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>hnavyescort_Middle_Tower_D-54ee18b4_Img2_Lod0</meshName>
+                      <lod>0</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>1</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>2</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children />
+                  <slots />
+                </FPONode>
+                <FPONode>
+                  <flags>1</flags>
+                  <name>STUB! id 23E92822</name>
+                  <parentName>STUB! id A1F5589F</parentName>
+                  <pos>
+                    <x>-0.5120527</x>
+                    <y>7.307603</y>
+                    <z>8.30582</z>
+                  </pos>
+                  <up>
+                    <x>8.763518E-15</x>
+                    <y>1</y>
+                    <z>-1.64202811E-15</z>
+                  </up>
+                  <dir>
+                    <x>3.55271368E-15</x>
+                    <y>1.64202811E-15</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>hnavyescort_Middle_Tower_D-23e92822_Img2_Lod0</meshName>
+                      <lod>0</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>1</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>2</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children />
+                  <slots />
+                </FPONode>
+                <FPONode>
+                  <flags>1</flags>
+                  <name>STUB! id BAE07998</name>
+                  <parentName>STUB! id A1F5589F</parentName>
+                  <pos>
+                    <x>-0.303207159</x>
+                    <y>-8.532359</y>
+                    <z>1.01156616</z>
+                  </pos>
+                  <up>
+                    <x>8.763518E-15</x>
+                    <y>1</y>
+                    <z>-1.64202811E-15</z>
+                  </up>
+                  <dir>
+                    <x>3.55271368E-15</x>
+                    <y>1.64202811E-15</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>hnavyescort_Middle_Tower_D-bae07998_Img2_Lod0</meshName>
+                      <lod>0</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>1</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>2</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children />
+                  <slots />
+                </FPONode>
+                <FPONode>
+                  <flags>1</flags>
+                  <name>STUB! id CDE7490E</name>
+                  <parentName>STUB! id A1F5589F</parentName>
+                  <pos>
+                    <x>-0.461995482</x>
+                    <y>8.435672</y>
+                    <z>-6.114809</z>
+                  </pos>
+                  <up>
+                    <x>8.763518E-15</x>
+                    <y>1</y>
+                    <z>-1.64202811E-15</z>
+                  </up>
+                  <dir>
+                    <x>3.55271368E-15</x>
+                    <y>1.64202811E-15</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>hnavyescort_Middle_Tower_D-cde7490e_Img2_Lod0</meshName>
+                      <lod>0</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>1</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>2</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children />
+                  <slots />
+                </FPONode>
+              </children>
+              <slots />
+            </FPONode>
+          </children>
+          <slots />
+        </FPONode>
+      </children>
+      <slots>
+        <FPOSlot>
+          <slotId>0</slotId>
+          <name>1841534784</name>
+          <pos>
+            <x>0.49455595</x>
+            <y>0.0008140087</y>
+            <z>94.01274</z>
+          </pos>
+          <up>
+            <x>5.183766E-08</x>
+            <y>1</y>
+            <z>1.19293887E-07</z>
+          </up>
+          <dir>
+            <x>0.382683247</x>
+            <y>9.03757851E-08</y>
+            <z>-0.9238796</z>
+          </dir>
+          <flags>0</flags>
+        </FPOSlot>
+        <FPOSlot>
+          <slotId>1</slotId>
+          <name>1841534784</name>
+          <pos>
+            <x>-0.2384289</x>
+            <y>0.0008140305</y>
+            <z>94.01274</z>
+          </pos>
+          <up>
+            <x>1.16353284E-07</x>
+            <y>1</y>
+            <z>8.58386642E-08</z>
+          </up>
+          <dir>
+            <x>-0.3826836</x>
+            <y>1.23831072E-07</y>
+            <z>-0.9238795</z>
+          </dir>
+          <flags>0</flags>
+        </FPOSlot>
+        <FPOSlot>
+          <slotId>2</slotId>
+          <name>1841534784</name>
+          <pos>
+            <x>-19.9855118</x>
+            <y>0.00082564</y>
+            <z>-86.41132</z>
+          </pos>
+          <up>
+            <x>1.16353284E-07</x>
+            <y>1</y>
+            <z>8.58386642E-08</z>
+          </up>
+          <dir>
+            <x>-0.3826836</x>
+            <y>1.23831072E-07</y>
+            <z>-0.9238795</z>
+          </dir>
+          <flags>0</flags>
+        </FPOSlot>
+        <FPOSlot>
+          <slotId>3</slotId>
+          <name>1841534784</name>
+          <pos>
+            <x>20.2489929</x>
+            <y>0.0008238929</y>
+            <z>-86.41133</z>
+          </pos>
+          <up>
+            <x>5.183766E-08</x>
+            <y>1</y>
+            <z>1.19293887E-07</z>
+          </up>
+          <dir>
+            <x>0.382683247</x>
+            <y>9.03757851E-08</y>
+            <z>-0.9238796</z>
+          </dir>
+          <flags>0</flags>
+        </FPOSlot>
+        <FPOSlot>
+          <slotId>4</slotId>
+          <name>1841534784</name>
+          <pos>
+            <x>0.125030547</x>
+            <y>0.0008247555</y>
+            <z>-86.41133</z>
+          </pos>
+          <up>
+            <x>1.0082983E-07</x>
+            <y>1</y>
+            <z>1.11590722E-07</z>
+          </up>
+          <dir>
+            <x>-0.00087287894</x>
+            <y>1.11678695E-07</y>
+            <z>-0.999999642</z>
+          </dir>
+          <flags>0</flags>
+        </FPOSlot>
+      </slots>
+    </FPONode>
+  </children>
+  <slots />
+</FPONode>

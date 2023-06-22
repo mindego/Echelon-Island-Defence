@@ -1,0 +1,1590 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LangVersion>9.0</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <RootNamespace></RootNamespace>
+    <ProjectGuid>{B438CC8D-DA56-1E61-2040-91BAEF9403B1}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <BaseDirectory>.</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\Bin\Debug\</OutputPath>
+    <DefineConstants>UNITY_2022_3_1;UNITY_2022_3;UNITY_2022;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;UNITY_2022_1_OR_NEWER;UNITY_2022_2_OR_NEWER;UNITY_2022_3_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_EDITOR_GAME_SERVICES;ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_GENERATE_NATIVE_PLUGINS_FOR_ASSEMBLIES_API;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;ENABLE_NAVIGATION_PACKAGE_DEBUG_VISUALIZATION;ENABLE_NAVIGATION_HEIGHTMESH_RUNTIME_SUPPORT;ENABLE_NAVIGATION_UI_REQUIRES_PACKAGE;PLATFORM_STANDALONE;TEXTCORE_1_0_OR_NEWER;PLATFORM_STANDALONE_WIN;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_NVIDIA;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;PLATFORM_INITIALIZES_MEMORY_MANAGER_EXPLICITLY;ENABLE_MONO;NET_STANDARD_2_0;NET_STANDARD;NET_STANDARD_2_1;NETSTANDARD;NETSTANDARD2_1;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_LEGACY_INPUT_MANAGER;TEXTCORE_FONT_ENGINE_1_5_OR_NEWER;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+    <AllowUnsafeBlocks>False</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Temp\bin\Release\</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+    <AllowUnsafeBlocks>False</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <NoConfig>true</NoConfig>
+    <NoStdLib>true</NoStdLib>
+    <AddAdditionalExplicitAssemblyReferences>false</AddAdditionalExplicitAssemblyReferences>
+    <ImplicitlyExpandNETStandardFacades>false</ImplicitlyExpandNETStandardFacades>
+    <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <UnityProjectGenerator>Package</UnityProjectGenerator>
+    <UnityProjectGeneratorVersion>2.0.18</UnityProjectGeneratorVersion>
+    <UnityProjectType>Game:1</UnityProjectType>
+    <UnityBuildTarget>StandaloneWindows64:19</UnityBuildTarget>
+    <UnityVersion>2022.3.1f1</UnityVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <Analyzer Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Assets\Scripts\Unit\UnitSchema.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\Utils\LoadUtils.cs" />
+    <Compile Include="Assets\Scripts\ObjSpawner.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\UDB\Interfaces\iUnifiedVariableReference.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\Textures\TextureImport.cs" />
+    <Compile Include="Assets\MoonTextureSetter.cs" />
+    <Compile Include="Assets\Scripts\Loaders\MaterialLoader.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\Utils\CRC32.cs" />
+    <Compile Include="Assets\Scripts\Datas\StormData.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\UDB\Interfaces\iUnifiedVariableVector.cs" />
+    <Compile Include="Assets\AddForce.cs" />
+    <Compile Include="Assets\Scripts\Datas\ParticleData.cs" />
+    <Compile Include="Assets\Scripts\Unit\RadioTransceiver.cs" />
+    <Compile Include="Assets\Scripts\GameDataProvider\iGameDataHolder.cs" />
+    <Compile Include="Assets\Scripts\TerrainImport.cs" />
+    <Compile Include="Assets\Scripts\Unit\EngineVisualizer.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\UDB\Interfaces\iUnifiedVariableString.cs" />
+    <Compile Include="Assets\Scripts\Unit\Interfaces\BaseUnit.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\Sfx\Sounddata.cs" />
+    <Compile Include="Assets\Scripts\Loaders\TestEditorRP.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\FPO\FpoBuilder.cs" />
+    <Compile Include="Assets\Scripts\Utils\Texture2Sprite.cs" />
+    <Compile Include="Assets\DayNightCycle.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\FPO\FpoController.cs" />
+    <Compile Include="Assets\Scripts\Gameset\Location.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\Utils\FileUtils.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\UDB\Interfaces\iUnifiedVariableBlock.cs" />
+    <Compile Include="Assets\Scripts\Datas\SubObjData.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\Terrain\TerrainServer.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\UDB\UniVarInt.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\Interfaces\IMemory.cs" />
+    <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
+    <Compile Include="Assets\Scripts\GameDataProvider\GameDataProvider.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\Materials\MaterialImport.cs" />
+    <Compile Include="Assets\Scripts\Loaders\ResourcePackLoader.cs" />
+    <Compile Include="Assets\Scripts\PrefabBuilder\PrefabBuilder.cs" />
+    <Compile Include="Assets\Scripts\Utils\RotateToVector.cs" />
+    <Compile Include="Assets\Scripts\Unit\BaseObject.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\Terrain\Pager.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\Interfaces\IRefMem.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\Textures\Textures.cs" />
+    <Compile Include="Assets\RTSCameraController.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\ResourcePack.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\UDB\UniVarContainer.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\Terrain\TerrainDefs.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\UDB\Interfaces\iUniVarParent.cs" />
+    <Compile Include="Assets\Scripts\Datas\CarrierData.cs" />
+    <Compile Include="Assets\FPSCamera.cs" />
+    <Compile Include="Assets\FollowRotation.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\UDB\UniVarFloat.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\MEO\MEOData.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\MEO\MEOImport.cs" />
+    <Compile Include="Assets\Scripts\StormWorld.cs" />
+    <Compile Include="Assets\Scripts\Datas\CampaignDefines.cs" />
+    <Compile Include="Assets\Scripts\Unit\UnitSlotData.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\GameDataCache.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\UDB\UniVarString.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\Meshes\StormMeshImport.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\Utils\Flags.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\TerrainImportHeader.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\Materials\MaterialImportScript.cs" />
+    <Compile Include="Assets\ScriptableManager.cs" />
+    <Compile Include="Assets\Scripts\Unit\RadioSystem.cs" />
+    <Compile Include="Assets\Scripts\GameDataProvider\GameDataProviderAssets.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\Utils\ComputeCRC32Editor.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\Terrain\TerrainCfg.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\Utils\ComputeCRC32.cs" />
+    <Compile Include="Assets\Scripts\Unit\BaseHangar.cs" />
+    <Compile Include="Assets\Scripts\Datas\ObjectData.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\Utils\ReadTextFile.cs" />
+    <Compile Include="Assets\Scripts\ObjSpawnerTimer.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\UDB\UniVarMemROManager.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\TestLoadDatas.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\Interfaces\IDataBlock.cs" />
+    <Compile Include="Assets\Scripts\Datas\ExplosionInfo.cs" />
+    <Compile Include="Assets\Scripts\ResourceReplacer.cs" />
+    <Compile Include="Assets\Scripts\Datas\DebrisData.cs" />
+    <Compile Include="Assets\tempSkySetter.cs" />
+    <Compile Include="Assets\Scripts\Loaders\MeshLoader.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\UDB\UniVarReference.cs" />
+    <Compile Include="Assets\Scripts\Unit\BaseCarrier.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\FPO\FpoData.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\Interfaces\IObject.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\UDB\Interfaces\iUnifiedVariableContainer.cs" />
+    <Compile Include="Assets\Scripts\Shit.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\Meshes\ImportMesh.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\UDB\UniVarVector.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\UDB\Interfaces\iUniVarMemManager.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\Sfx\SoundImport.cs" />
+    <Compile Include="Assets\Scripts\Unit\Interfaces\iMovementSystemCarrier.cs" />
+    <Compile Include="Assets\Rotator.cs" />
+    <Compile Include="Assets\Scripts\ResourcesDataStreamer.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\UDB\Interfaces\iUnifiedVariableDB.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\UDB\Interfaces\iUnifiedVariableInt.cs" />
+    <Compile Include="Assets\Scripts\Loaders\TerrainLoader.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\UDB\Interfaces\iUnifiedVariableArray.cs" />
+    <Compile Include="Assets\Scripts\Unit\UnitImageData.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\UDB\Interfaces\iUnifiedVariable.cs" />
+    <Compile Include="Assets\Scripts\Utils\CheckRotVectors.cs" />
+    <Compile Include="Assets\Scripts\Loaders\TextureLoader.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\UDB\Interfaces\iUnifiedVariableFloat.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\Terrain\StormTerrainData.cs" />
+    <Compile Include="Assets\BasicAutopilot.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\FPO\FpoLoader.cs" />
+    <Compile Include="Assets\Scripts\Unit\RadioMessage.cs" />
+    <Compile Include="Assets\Scripts\Datas\ExplosionData.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\FPO\FpoImport.cs" />
+    <Compile Include="Assets\Scripts\ResourceImport\GameDataHolder.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\Database\Particles\HumanTankBurn1.xml" />
+    <None Include="Assets\Database\Particles\GMWaterExpl4.xml" />
+    <None Include="Assets\Database\Particles\FireWreck.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hportwr.xml" />
+    <None Include="Assets\Database\FPOData\FPO-htur_aach.xml" />
+    <None Include="Assets\Database\FPOData\FPO-gppmobil.xml" />
+    <None Include="Assets\Database\FPOData\FPO-va_aatrs.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hw_hc.xml" />
+    <None Include="Assets\Database\Particles\UMBlast.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hw_apc.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon019.xml" />
+    <None Include="Assets\Database\FPOData\FPO-ha_hvy5.xml" />
+    <None Include="Assets\Database\FPOData\FPO-va_cargo1.xml" />
+    <None Include="Assets\Database\Particles\HumanPlaneDebrisFly.xml" />
+    <None Include="Assets\Database\Particles\HPLGroundExpl1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-orevehicle1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-tubelong.xml" />
+    <None Include="Assets\Database\FPOData\FPO-korobka21.xml" />
+    <None Include="Assets\Database\Particles\PlasmaWreck.xml" />
+    <None Include="Assets\Database\FPOData\FPO-sc_center1_1a.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon0124a.xml" />
+    <None Include="Assets\Database\Particles\MPLExpl1.xml" />
+    <None Include="Assets\Database\Particles\HCGroundExpl1.xml" />
+    <None Include="Assets\Database\Particles\BGGroundExpl1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hw_hpc.xml" />
+    <None Include="Assets\Database\Particles\BigLavaExpl1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon0131.xml" />
+    <None Include="Assets\Database\FPOData\FPO-gppstat.xml" />
+    <None Include="Assets\Database\FPOData\FPO-tree4.xml" />
+    <None Include="Assets\Database\FPOData\FPO-civhomeg1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-c_gas.xml" />
+    <None Include="Assets\Database\FPOData\FPO-v_craftang_big.xml" />
+    <None Include="Assets\Database\FPOData\FPO-ha_cargo2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h2v_hs_fort1_3.xml" />
+    <None Include="Assets\Database\Particles\AACExpl3.xml" />
+    <None Include="Assets\Database\FPOData\FPO-angar_sklad_80m.xml" />
+    <None Include="Assets\Database\FPOData\FPO-shell.xml" />
+    <None Include="Assets\Database\FPOData\FPO-radarc1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h2v_disptower.xml" />
+    <None Include="Assets\Database\Particles\HPLWaterExpl1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon032.xml" />
+    <None Include="Assets\Database\Particles\GMWaterExpl3.xml" />
+    <None Include="Assets\Database\FPOData\FPO-korobka18.xml" />
+    <None Include="Assets\Database\Particles\AAMLGroundExpl1.xml" />
+    <None Include="Assets\Database\Particles\HCExpl2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hw_um16.xml" />
+    <None Include="Assets\Database\FPOData\FPO-va_cargo2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h2v_radarc1.xml" />
+    <None Include="Assets\Database\Particles\BGWaterExpl2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-sc_center1_3a.xml" />
+    <None Include="Assets\UI Toolkit\RTSGui.uxml" />
+    <None Include="Assets\Database\Particles\AAGGroundExpl1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon0410.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon034.xml" />
+    <None Include="Assets\Database\Particles\BCFire.xml" />
+    <None Include="Assets\Database\Particles\BCWaterExpl1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h2v_wall_war.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon0224.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon0414.xml" />
+    <None Include="Assets\Database\Particles\HumanPlaneDebrisExpl1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-trees2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-htur_rocket.xml" />
+    <None Include="Assets\Database\FPOData\FPO-vs_aaltrs.xml" />
+    <None Include="Assets\Database\Particles\TPDGroundExpl2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h2v_radarc2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-dom_mil3.xml" />
+    <None Include="Assets\Database\Particles\AAMLExpl2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon027.xml" />
+    <None Include="Assets\Database\FPOData\FPO-c_active2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-vtur_h1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-disptower.xml" />
+    <None Include="Assets\Database\FPOData\FPO-vw_gm.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hs_radar2.xml" />
+    <None Include="Assets\Database\Particles\HumanTankDustSnow.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h2v_sklad2.xml" />
+    <None Include="Assets\Database\Particles\TPDExpl2.xml" />
+    <None Include="Assets\Database\Particles\TPDExpl1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-vs_radar2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-tubelongm.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hs_seabase.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon0121.xml" />
+    <None Include="Assets\Database\Particles\HumanPlaneDuzaDustStone.xml" />
+    <None Include="Assets\Database\Particles\HumanPlaneDebrisWaterExpl1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-orecomplex_n1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-civhomea1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-c_water1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-orecpx_gate.xml" />
+    <None Include="Assets\Database\FPOData\FPO-korobka19.xml" />
+    <None Include="Assets\Database\Particles\BGFire.xml" />
+    <None Include="Assets\Database\FPOData\FPO-korobka11.xml" />
+    <None Include="Assets\Database\FPOData\FPO-v-aat-h.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hportadd.xml" />
+    <None Include="Assets\Database\FPOData\FPO-gpp_4000m.xml" />
+    <None Include="Assets\Database\FPOData\FPO-dm_start.xml" />
+    <None Include="Assets\Database\FPOData\FPO-stolb.xml" />
+    <None Include="Assets\Database\FPOData\FPO-riverbridge200m_part.xml" />
+    <None Include="Assets\Database\FPOData\FPO-htur_l.xml" />
+    <None Include="Assets\Database\FPOData\FPO-va_cc.xml" />
+    <None Include="Assets\Database\Particles\APCGroundExpl2.xml" />
+    <None Include="Assets\Database\Particles\AALLGroundExpl1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h-transp4.xml" />
+    <None Include="Assets\Database\Particles\APCExpl2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h2v_c_gas_big.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hs_aviacarrdmg.xml" />
+    <None Include="Assets\Database\Particles\TPDWaterExpl1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-vw_um32.xml" />
+    <None Include="Assets\Database\Particles\TPDtrace.xml" />
+    <None Include="Assets\Database\FPOData\FPO-tower2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hs_base5_5.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h-med1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-vtur_aal.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon0122.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h-heavy2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-gates.xml" />
+    <None Include="Assets\Database\FPOData\FPO-korobka7.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h2v_bunker2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hw_gmx2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-vw_hvy1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-v-med1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon011.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hw_tpd.xml" />
+    <None Include="Assets\Database\FPOData\FPO-fh10.xml" />
+    <None Include="Assets\Database\Particles\HumanPlaneDuzaDustWater.xml" />
+    <None Include="Assets\Database\FPOData\FPO-bochka.xml" />
+    <None Include="Assets\Database\Particles\HCFire.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h-med2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-vs_radar3.xml" />
+    <None Include="Assets\Database\Particles\ACWaterExpl2.xml" />
+    <None Include="Assets\Database\Particles\AACGroundExpl1.xml" />
+    <None Include="Assets\Database\MeshData.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h2v_hs_base5_4.xml" />
+    <None Include="Assets\Database\FPOData\FPO-vs_ltrs.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon0132.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon0127.xml" />
+    <None Include="Assets\Database\FPOData\FPO-c_water2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hs_base5_3.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hw_bc.xml" />
+    <None Include="Assets\Database\Particles\UMGroundExpl3.xml" />
+    <None Include="Assets\Database\Particles\ACGroundExpl2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hs_fort1_3.xml" />
+    <None Include="Assets\Database\Particles\APCBlast.xml" />
+    <None Include="Assets\Database\FPOData\FPO-v_fort1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hportcnr.xml" />
+    <None Include="Assets\Database\FPOData\FPO-plant2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-musor1.xml" />
+    <None Include="Assets\Database\Particles\HPCFire.xml" />
+    <None Include="Assets\Database\FPOData\FPO-va_aviacarr.xml" />
+    <None Include="Assets\Database\Particles\HumanTankDustStone.xml" />
+    <None Include="Assets\Database\FPOData\FPO-v_tubeb.xml" />
+    <None Include="Assets\Database\FPOData\FPO-tree1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-vw_um16.xml" />
+    <None Include="Assets\Database\FPOData\FPO-v_fort2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-v_tubea.xml" />
+    <None Include="Assets\Database\FPOData\FPO-dom_mil1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hw_ppc.xml" />
+    <None Include="Assets\Database\FPOData\FPO-civhomeh1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon0123.xml" />
+    <None Include="Assets\Database\Particles\HPLWaterExpl2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-korobka9.xml" />
+    <None Include="Assets\Database\Particles\GMExpl1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon028.xml" />
+    <None Include="Assets\Database\FPOData\FPO-ha_cargo1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon045.xml" />
+    <None Include="Assets\Database\FPOData\FPO-riverbridge200m_be.xml" />
+    <None Include="Assets\Database\Particles\HPCExpl1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-bunker1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hw_umd.xml" />
+    <None Include="Assets\Database\FPOData\FPO-civhome1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-v-aat-m.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h2v_stolb.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h2v_c_water2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-v-cc.xml" />
+    <None Include="Assets\Database\Particles\UMWaterExpl3.xml" />
+    <None Include="Assets\Database\FPOData\FPO-gpp_10000m.xml" />
+    <None Include="Assets\Database\FPOData\FPO-c_water_lgt.xml" />
+    <None Include="Assets\Database\FPOData\FPO-korobka22.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h2v_c_fuel2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hs_radar4.xml" />
+    <None Include="Assets\Database\FPOData\FPO-vw_gmx2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-tower3.xml" />
+    <None Include="Assets\Database\Particles\LPLExpl2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h2v_bochka.xml" />
+    <None Include="Assets\Database\FPOData\FPO-gpp_2000m.xml" />
+    <None Include="Assets\Database\FPOData\FPO-v-med2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-orecomplex_n3.xml" />
+    <None Include="Assets\Database\FPOData\FPO-va_hvy3.xml" />
+    <None Include="Assets\Database\FPOData\FPO-trees1.xml" />
+    <None Include="Assets\Database\Particles\HumanGPlaneExpl2.xml" />
+    <None Include="Assets\Database\Particles\UMExpl1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-ha_bf2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-c_fuel1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-dom_mil2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h2v_tower3.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h-transp3.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon0220.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon042.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h-transp1.xml" />
+    <None Include="Assets\Database\Particles\UMWaterExpl4.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon0412.xml" />
+    <None Include="Assets\Database\Particles\AACFire.xml" />
+    <None Include="Assets\Database\FPOData\FPO-fh04.xml" />
+    <None Include="Assets\Database\FPOData\FPO-stone2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-ha_int1.xml" />
+    <None Include="Assets\Database\Particles\DischargerLightSparksBlue1.xml" />
+    <None Include="Assets\Database\Particles\MPLExpl2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-v-heavy1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-tankang1.xml" />
+    <None Include="Assets\Database\Particles\GMExpl2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-orevehicle2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-highwaybridge200m_part.xml" />
+    <None Include="Assets\Database\FPOData\FPO-vs_radar1.xml" />
+    <None Include="Assets\Database\Particles\AALLWaterExpl2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-bigshabor.xml" />
+    <None Include="Assets\Database\Particles\AAMLExpl1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-tree1old.xml" />
+    <None Include="Assets\Database\FPOData\FPO-tree8a.xml" />
+    <None Include="Assets\Database\FPOData\FPO-va_bf1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon0225.xml" />
+    <None Include="Assets\Database\Particles\AAMLGroundExpl2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon035.xml" />
+    <None Include="Assets\Database\FPOData\FPO-shabor.xml" />
+    <None Include="Assets\Database\FPOData\FPO-railroadbridge600m_be.xml" />
+    <None Include="Assets\Database\FPOData\FPO-tree8.xml" />
+    <None Include="Assets\Database\Particles\BGWaterExpl1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-tube1.xml" />
+    <None Include="Assets\Database\Particles\MPLGroundExpl1.xml" />
+    <None Include="Assets\Database\Particles\HumanPlaneDebrisWaterExpl2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-civhomec1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-tree6.xml" />
+    <None Include="Assets\Database\Particles\HumanTankDustRocks.xml" />
+    <None Include="Assets\Database\FPOData\FPO-gpp_2700m.xml" />
+    <None Include="Assets\Database\FPOData\FPO-orecomplex2.xml" />
+    <None Include="Assets\Database\Particles\ACGroundExpl1.xml" />
+    <None Include="Assets\Database\Particles\HCGroundExpll1.xml" />
+    <None Include="Assets\Database\Particles\PPCWaterExpl2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h-light.xml" />
+    <None Include="Assets\Database\FPOData\FPO-ha_hvy3.xml" />
+    <None Include="Assets\Database\Particles\HPLExpl1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-shtab2.xml" />
+    <None Include="Assets\Database\Particles\HumanTankMainTurretSmoke.xml" />
+    <None Include="Assets\Database\FPOData\FPO-ha_int3.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h2v_hs_fort1_5.xml" />
+    <None Include="Assets\Database\FPOData\FPO-civhomeb1.xml" />
+    <None Include="Assets\Database\Particles\HGGroundExpl1.xml" />
+    <None Include="Assets\Database\Particles\UMWaterExpl1.xml" />
+    <None Include="Assets\Database\Particles\TestParticle.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon016.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon0221.xml" />
+    <None Include="Assets\Database\FPOData\FPO-energycenter1_2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-bullet_white.xml" />
+    <None Include="Assets\Database\FPOData\FPO-ha_bot.xml" />
+    <None Include="Assets\Database\FPOData\FPO-seabridge600m_be.xml" />
+    <None Include="Assets\Database\FPOData\FPO-v-rocket.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h2v_gates_war.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hs_base5_0.xml" />
+    <None Include="Assets\Database\Particles\HPLGroundExpl2.xml" />
+    <None Include="Assets\Database\Particles\HPCGroundExpl2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-korobka23.xml" />
+    <None Include="Assets\Database\Particles\AACGroundExpl2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hnavyescort.xml" />
+    <None Include="Assets\Database\FPOData\FPO-va_ant.xml" />
+    <None Include="Assets\Database\FPOData\FPO-vtur_m.xml" />
+    <None Include="Assets\Database\FPOData\FPO-fh03.xml" />
+    <None Include="Assets\Database\FPOData\FPO-vtur_l.xml" />
+    <None Include="Assets\Database\Particles\HGWaterExpl2.xml" />
+    <None Include="Assets\Database\Particles\BCGroundExpl2.xml" />
+    <None Include="Assets\Database\Particles\AAGFire.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h2v_hportcnr.xml" />
+    <None Include="Assets\Database\Particles\UMExpl2.xml" />
+    <None Include="Assets\Database\Particles\TPDWaterExpl2.xml" />
+    <None Include="Assets\Database\Particles\AALLExpl1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-korobka4.xml" />
+    <None Include="Assets\Database\FPOData\FPO-tree5.xml" />
+    <None Include="Assets\Database\FPOData\FPO-vs_htrs.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hchemicalplant.xml" />
+    <None Include="Assets\Database\FPOData\FPO-vtur_h.xml" />
+    <None Include="Assets\Database\FPOData\FPO-ha_hvy4.xml" />
+    <None Include="Assets\Database\Particles\HumanTankDustSand.xml" />
+    <None Include="Assets\Database\FPOData\FPO-v_platforme.xml" />
+    <None Include="Assets\Database\FPOData\FPO-v-transp1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hs_fort1_5.xml" />
+    <None Include="Assets\Database\Particles\GMGroundExpl1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hportwl.xml" />
+    <None Include="Assets\Database\Particles\MPCExpl1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h-rocket.xml" />
+    <None Include="Assets\Database\FPOData\FPO-ruins01.xml" />
+    <None Include="Assets\Database\Particles\GMGroundExpl2.xml" />
+    <None Include="Assets\Database\Particles\UMtrace.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h2v_hs_fort1_7.xml" />
+    <None Include="Assets\Database\Particles\HumanTankExpl1.xml" />
+    <None Include="Assets\Database\Particles\HPCBlast.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hs_base1.xml" />
+    <None Include="Assets\Database\Particles\PPCExpl1.xml" />
+    <None Include="Assets\Database\Particles\ACGroundExpl3.xml" />
+    <None Include="Assets\Database\Particles\MPLWaterExpl2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-korobka12.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hs_htrs.xml" />
+    <None Include="Assets\Database\Particles\AALLWaterExpl1.xml" />
+    <None Include="Assets\Database\Particles\HGGroundExpl2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-vnavytransb.xml" />
+    <None Include="Assets\Database\Particles\GMWaterExpl1.xml" />
+    <None Include="Assets\Database\Particles\HCWaterExpl3.xml" />
+    <None Include="Assets\Database\Particles\HumanTankDustGrass.xml" />
+    <None Include="Assets\Database\Particles\HumanPlaneDuzaDustSand.xml" />
+    <None Include="Assets\Database\FPOData\FPO-v-heavy2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hw_bg.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h2v_c_active1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon048.xml" />
+    <None Include="Assets\Database\Particles\HumanPlaneDebrisExpl2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h2v_c_gas.xml" />
+    <None Include="Assets\Database\Particles\GMGroundExpl3.xml" />
+    <None Include="Assets\Database\Particles\SmokeWreck.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h2v_sklad2_150m.xml" />
+    <None Include="Assets\Database\Particles\HPHGroundExpll1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-gravang_sm.xml" />
+    <None Include="Assets\Database\Particles\HumanGPlaneExplA1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-tree2old.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hs_radar5.xml" />
+    <None Include="Assets\Database\FPOData\FPO-tree10.xml" />
+    <None Include="Assets\Database\FPOData\FPO-v-aat-l.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h-transp2.xml" />
+    <None Include="Assets\Database\Particles\HumanGPlaneBigDuza.xml" />
+    <None Include="Assets\Database\Particles\LPLGroundExpl2.xml" />
+    <None Include="Assets\Database\Particles\AAGExpl1.xml" />
+    <None Include="Assets\Database\Particles\BCGroundExpl3.xml" />
+    <None Include="Assets\Database\Particles\HGGroundExpl3.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h2v_bashny.xml" />
+    <None Include="Assets\Database\FPOData\FPO-gpp_8000m.xml" />
+    <None Include="Assets\Database\Particles\LPLBlast.xml" />
+    <None Include="Assets\Database\FPOData\FPO-seabridge600m_part.xml" />
+    <None Include="Assets\Database\FPOData\FPO-vs_mtrs.xml" />
+    <None Include="Assets\Database\Particles\HumanTankDustRGas.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon022.xml" />
+    <None Include="Assets\Database\FPOData\FPO-korobka13.xml" />
+    <None Include="Assets\Database\FPOData\FPO-energy1a.xml" />
+    <None Include="Assets\Database\Particles\HPCExpl2.xml" />
+    <None Include="Assets\Database\Particles\MPCGroundExpl1.xml" />
+    <None Include="Assets\Database\Particles\AACGroundExpl3.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hs_base5_4.xml" />
+    <None Include="Assets\Database\Particles\AACWaterExpl1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon0126.xml" />
+    <None Include="Assets\Database\FPOData\FPO-bullet_yellow.xml" />
+    <None Include="Assets\Database\Particles\MPLWaterExpl_2.xml" />
+    <None Include="Assets\Database\Particles\LPLGroundExpl1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h2v_angar_sklad_150m.xml" />
+    <None Include="Assets\Database\Particles\BigLavaExpl2.xml" />
+    <None Include="Assets\Database\Particles\ACWaterExpl1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-wall.xml" />
+    <None Include="Assets\Database\FPOData\FPO-v_craftanguw.xml" />
+    <None Include="Assets\Database\Particles\LPLWaterExpl2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-stone1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h2v_tower1.xml" />
+    <None Include="Assets\Database\Particles\AAGWaterExpl1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hnavytransb.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon044.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h2v_angar_sklad_80m.xml" />
+    <None Include="Assets\Database\FPOData\FPO-bashny1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-orecpx_tube_a.xml" />
+    <None Include="Assets\Database\FPOData\FPO-bunker3.xml" />
+    <None Include="Assets\Database\Particles\BCGroundExpl1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-korobka14.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hchpt2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hw_gm.xml" />
+    <None Include="Assets\Database\FPOData\FPO-htur_aalp.xml" />
+    <None Include="Assets\Database\Particles\HumanPlaneDuzaDustDesert.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hw_gmds.xml" />
+    <None Include="Assets\Database\FPOData\FPO-htur_m.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h2v_hs_base5_0.xml" />
+    <None Include="Assets\Database\FPOData\FPO-vs_base2-1.xml" />
+    <None Include="Assets\Database\Particles\HGFire.xml" />
+    <None Include="Assets\Database\FPOData\FPO-korobka5.xml" />
+    <None Include="Assets\Database\FPOData\FPO-dom_mil.xml" />
+    <None Include="Assets\Database\Particles\HCGroundExpll3.xml" />
+    <None Include="Assets\Database\Particles\HGWaterExpl1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon013.xml" />
+    <None Include="Assets\Database\FPOData\FPO-v_aviadock.xml" />
+    <None Include="Assets\Database\FPOData\FPO-ha_int2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-vw_light1.xml" />
+    <None Include="Assets\Database\Particles\HCWaterExpl4.xml" />
+    <None Include="Assets\Database\FPOData\FPO-bashny.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon0223.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hs_base3.xml" />
+    <None Include="Assets\Database\FPOData\FPO-va_int1.xml" />
+    <None Include="Assets\Database\Particles\AALLGroundExpl2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-fh06.xml" />
+    <None Include="Assets\Database\Particles\PPCGroundExpl1.xml" />
+    <None Include="Assets\Database\Particles\HumanStaticDebrisFly.xml" />
+    <None Include="Assets\Database\Particles\HPCWaterExpl1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-vnavypatrol1.xml" />
+    <None Include="Assets\Database\Particles\AALLBlast.xml" />
+    <None Include="Assets\Database\FPOData\FPO-tree7.xml" />
+    <None Include="Assets\carrierdataNavytest.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hs_fort1_1.xml" />
+    <None Include="Assets\Database\Particles\HPHGroundExpll3.xml" />
+    <None Include="Assets\Database\Particles\VelianGPlaneDuza.xml" />
+    <None Include="Assets\Database\FPOData\FPO-vs_aahtrs.xml" />
+    <None Include="Assets\Database\Particles\APCWaterExpl2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon0411.xml" />
+    <None Include="Assets\Database\Replacer.xml" />
+    <None Include="Assets\Database\Particles\AAMLWaterExpl1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-vw_umd.xml" />
+    <None Include="Assets\Database\Particles\MPCFire.xml" />
+    <None Include="Assets\Database\Particles\BigLavaExpl3.xml" />
+    <None Include="Assets\Database\FPOData\FPO-trees.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h-cc.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h-aat-h.xml" />
+    <None Include="Assets\Database\Particles\HCWaterExpl2.xml" />
+    <None Include="Assets\Database\Particles\BCWaterExpl2.xml" />
+    <None Include="Assets\Database\Particles\APCWaterExpl1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-v_nullt.xml" />
+    <None Include="Assets\Database\Particles\APCGroundExpl1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-highwaybridge200m_be.xml" />
+    <None Include="Assets\Database\FPOData\FPO-energycenter2.xml" />
+    <None Include="Assets\Database\Particles\BigLavaExpl4.xml" />
+    <None Include="Assets\Database\Particles\PPCExpl2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-bigshabor_dsr.xml" />
+    <None Include="Assets\Database\Particles\MPCExpl2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-gravang_big.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h2v_hs_base5_3.xml" />
+    <None Include="Assets\Database\FPOData\FPO-vtur_rocket.xml" />
+    <None Include="Assets\Database\FPOData\FPO-vtur_aah.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hw_hg.xml" />
+    <None Include="Assets\Database\FPOData\FPO-v_lab.xml" />
+    <None Include="Assets\Database\FPOData\FPO-vs_base1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-htur_aahp.xml" />
+    <None Include="Assets\Database\FPOData\FPO-shtab1.xml" />
+    <None Include="Assets\Database\Particles\MPCBlast.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h2v_sklad3.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon0222.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h2v_bashny1.xml" />
+    <None Include="Assets\Database\Particles\MPLWaterExpl_1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-ha_bf1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-v_platformc.xml" />
+    <None Include="Assets\Database\FPOData\FPO-civhomef1.xml" />
+    <None Include="Assets\Database\Particles\LPLWaterExpl1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h2v_hs_fort1_1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-musor.xml" />
+    <None Include="Assets\Database\FPOData\FPO-c_gas_big.xml" />
+    <None Include="Assets\Database\Particles\MPLWaterExpl1.xml" />
+    <None Include="Assets\Database\Particles\HumanTankExpl3.xml" />
+    <None Include="Assets\Database\Particles\AACExpl2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-fh05.xml" />
+    <None Include="Assets\Database\FPOData\FPO-tube1m.xml" />
+    <None Include="Assets\Database\FPOData\FPO-wall_grid.xml" />
+    <None Include="Assets\Database\FPOData\FPO-rstolb3.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon046.xml" />
+    <None Include="Assets\Database\Particles\AACWaterExpl2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-v_tankang_big.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon049.xml" />
+    <None Include="Assets\Database\FPOData\FPO-fort_island.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hs_base5_2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-orecomplex1.xml" />
+    <None Include="Assets\Database\Particles\HCtrace.xml" />
+    <None Include="Assets\Database\FPOData\FPO-gpp_500m.xml" />
+    <None Include="Assets\Database\Particles\HPLExpl2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-vnavycarr.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon043.xml" />
+    <None Include="Assets\Database\FPOData\FPO-tubem.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hw_um32.xml" />
+    <None Include="Assets\Database\Particles\ACFire.xml" />
+    <None Include="Assets\Database\Particles\MPCGroundExpl2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-gpp_1000m.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h2v_hs_base5_2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-korobka1.xml" />
+    <None Include="Assets\Database\Particles\HumanSteamTrainSmoke.xml" />
+    <None Include="Assets\Database\FPOData\FPO-rstolb2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hs_aaltrs.xml" />
+    <None Include="Assets\Database\FPOData\FPO-tunnel.xml" />
+    <None Include="Assets\Database\FPOData\FPO-vs_center_base.xml" />
+    <None Include="Assets\Database\Particles\UMGroundExpl4.xml" />
+    <None Include="Assets\Database\Particles\AAMLBlast.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hs_radar1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hs_aahtrs.xml" />
+    <None Include="Assets\Database\FPOData\FPO-rstolb1.xml" />
+    <None Include="Assets\Database\Particles\LPLExpl1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hs_base2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon015.xml" />
+    <None Include="Assets\Database\FPOData\FPO-korobka17.xml" />
+    <None Include="Assets\Database\FPOData\FPO-orecpx_tube_b.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon0130.xml" />
+    <None Include="Assets\Database\FPOData\FPO-vnavyescort.xml" />
+    <None Include="Assets\Database\FPOData\FPO-bullet_green.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h2v_sklad1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-va_int2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon041.xml" />
+    <None Include="Assets\Database\Particles\GMWaterExpl2.xml" />
+    <None Include="Assets\carrierdatatest.xml" />
+    <None Include="Assets\Database\Particles\PPCWaterExpl1.xml" />
+    <None Include="Assets\Database\Particles\HumanPlaneDuzaDustSnow.xml" />
+    <None Include="Assets\Database\FPOData\FPO-ha_bf3.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon031.xml" />
+    <None Include="Assets\Database\Particles\UMGroundExpl1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-vs_rocket.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h2v_bunker1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-ha_bf4.xml" />
+    <None Include="Assets\Database\FPOData\FPO-ha_hvy1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h2v_c_water1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-korobka15.xml" />
+    <None Include="Assets\Database\Particles\PPCBlast.xml" />
+    <None Include="Assets\Database\FPOData\FPO-c_active1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-c_fuel2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-tree3.xml" />
+    <None Include="Assets\Database\FPOData\FPO-va_hvy1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon012.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hs_base5_1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-v_platformd.xml" />
+    <None Include="Assets\Database\FPOData\FPO-ha_hvy2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-va_bf2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-v_platformb.xml" />
+    <None Include="Assets\Database\FPOData\FPO-ha_cargo2_ant.xml" />
+    <None Include="Assets\Database\FPOData\FPO-v-light.xml" />
+    <None Include="Assets\Database\FPOData\FPO-v-transp2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h2v_wall.xml" />
+    <None Include="Assets\Database\FPOData\FPO-angar_sklad_150m.xml" />
+    <None Include="Assets\Database\Particles\BCExpl1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-tankang2.xml" />
+    <None Include="Assets\UI Toolkit\GUI.uxml" />
+    <None Include="Assets\Database\Particles\APCFire.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h2v_hs_base5_5.xml" />
+    <None Include="Assets\Database\Particles\EnergyWeaponFly.xml" />
+    <None Include="Assets\Database\FPOData\FPO-tree2.xml" />
+    <None Include="Assets\Database\Particles\HPHGroundExpll2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-sklad3.xml" />
+    <None Include="Assets\Database\Particles\TPDGroundExpl1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-sc_center1_2a.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h2v_c_active2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h2v_shtab2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h-aat-m.xml" />
+    <None Include="Assets\Database\FPOData\FPO-bunker2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hnavytransl.xml" />
+    <None Include="Assets\Database\Particles\APCExpl1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-vw_gmd.xml" />
+    <None Include="Assets\Database\FPOData\FPO-vs_aamtrs.xml" />
+    <None Include="Assets\Database\Particles\BGGroundExpl3.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon026.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon047.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h-heavy1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hw_tpdd.xml" />
+    <None Include="Assets\Database\FPOData\FPO-korobka2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h-aat-l.xml" />
+    <None Include="Assets\Database\FPOData\FPO-v_tankang.xml" />
+    <None Include="Assets\Database\FPOData\FPO-tube.xml" />
+    <None Include="Assets\Database\FPOData\FPO-htur_aacm.xml" />
+    <None Include="Assets\Database\Particles\HGExpl1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hw_ac.xml" />
+    <None Include="Assets\Database\FPOData\FPO-fh02.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon025.xml" />
+    <None Include="Assets\Database\FPOData\FPO-korobka20.xml" />
+    <None Include="Assets\Database\Particles\TPDExpl3.xml" />
+    <None Include="Assets\Database\FPOData\FPO-va_int3.xml" />
+    <None Include="Assets\Database\FPOData\FPO-vw_gmds.xml" />
+    <None Include="Assets\Database\FPOData\FPO-ha_int4.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon0413.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon029.xml" />
+    <None Include="Assets\Database\FPOData\FPO-energycenter1_1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h2v_shtab1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-fh08.xml" />
+    <None Include="Assets\Database\FPOData\FPO-bf1ruins.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hs_aalp.xml" />
+    <None Include="Assets\Database\Particles\VelianGPlaneBigDuza.xml" />
+    <None Include="Assets\Database\FPOData\FPO-korobka10.xml" />
+    <None Include="Assets\Database\Particles\HCExpl1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-wall_war.xml" />
+    <None Include="Assets\Database\FPOData\FPO-sklad2_150m.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h2v_c_fuel1.xml" />
+    <None Include="Assets\Database\Particles\HumanGPlaneExpl1.xml" />
+    <None Include="Assets\Database\Particles\ACExpl1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-v_craftang.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon021.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hs_seabase_big.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hw_gmd.xml" />
+    <None Include="Assets\Database\FPOData\FPO-tower1.xml" />
+    <None Include="Assets\Database\Particles\MPLBlast.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon014.xml" />
+    <None Include="Assets\Database\Particles\MPCWaterExpl2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-sklad1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-va_bf3.xml" />
+    <None Include="Assets\Database\Particles\HCGroundExpll2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-sklad2.xml" />
+    <None Include="Assets\Database\Particles\MPLGroundExpl2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-smallshell.xml" />
+    <None Include="Assets\Database\Particles\UMWaterExpl2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-haviadocs.xml" />
+    <None Include="Assets\Database\FPOData\FPO-energy1b.xml" />
+    <None Include="Assets\Database\FPOData\FPO-vw_med1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-htur_hp.xml" />
+    <None Include="Assets\Database\Particles\BGGroundExpl2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hs_ltrs.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hw_um8.xml" />
+    <None Include="Assets\Database\Particles\AAGWaterExpl2.xml" />
+    <None Include="Assets\Database\Particles\BGExpl1.xml" />
+    <None Include="Assets\Database\Particles\GMtrace.xml" />
+    <None Include="Assets\Database\FPOData\FPO-v_craftang_polosa.xml" />
+    <None Include="Assets\Database\Particles\PPCFire.xml" />
+    <None Include="Assets\Database\FPOData\FPO-tree9.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hs_aamp.xml" />
+    <None Include="Assets\Database\Particles\HumanPlaneDuzaDustGround.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon0128.xml" />
+    <None Include="Assets\Database\Particles\HCWaterExpl1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hs_base4.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h-train.xml" />
+    <None Include="Assets\Database\Particles\HumanPlaneDuzaDustGrass.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hs_radar3.xml" />
+    <None Include="Assets\Database\FPOData\FPO-orecomplex_n2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hs_aamtrs.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h2v_bunker3.xml" />
+    <None Include="Assets\Database\FPOData\FPO-ha_escort.xml" />
+    <None Include="Assets\Database\FPOData\FPO-railroadbridge600m_part.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon0125.xml" />
+    <None Include="Assets\Database\Particles\MPCWaterExpl1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-civhomee1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hs_rocket.xml" />
+    <None Include="Assets\Database\Particles\HumanTankDustGround.xml" />
+    <None Include="Assets\Database\FPOData\FPO-gates_war.xml" />
+    <None Include="Assets\Database\FPOData\FPO-korobka3.xml" />
+    <None Include="Assets\Database\FPOData\FPO-fh07.xml" />
+    <None Include="Assets\Database\FPOData\FPO-vnavypatrol2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-htur_aamp.xml" />
+    <None Include="Assets\Database\Particles\UMGroundExpl2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-plant1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-vs_base2-2.xml" />
+    <None Include="Assets\Database\Particles\HPLBlast.xml" />
+    <None Include="Assets\Database\Particles\HumanTankDustDesert.xml" />
+    <None Include="Assets\Database\FPOData\FPO-vw_um8.xml" />
+    <None Include="Assets\Database\FPOData\FPO-orecomplex_n4.xml" />
+    <None Include="Assets\Database\FPOData\FPO-fh09.xml" />
+    <None Include="Assets\Database\FPOData\FPO-bigshell.xml" />
+    <None Include="Assets\Database\Particles\HumanGPlaneEngineExpl1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-ha_cc.xml" />
+    <None Include="Assets\Database\Particles\HPCGroundExpl1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hs_mtrs.xml" />
+    <None Include="Assets\Database\Particles\AAGGroundExpl2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-v_platforma.xml" />
+    <None Include="Assets\Database\Particles\HumanGPlaneDuza.xml" />
+    <None Include="Assets\Database\FPOData\FPO-radarc2.xml" />
+    <None Include="Assets\Database\Particles\PPCGroundExpl2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hnavycarr.xml" />
+    <None Include="Assets\Database\FPOData\FPO-va_hvy2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hs_fort1_7.xml" />
+    <None Include="Assets\Database\FPOData\FPO-ha_cargo3.xml" />
+    <None Include="Assets\Database\FPOData\FPO-stone3.xml" />
+    <None Include="Assets\Database\Particles\HPCWaterExpl2.xml" />
+    <None Include="Assets\Database\Particles\HCGroundExpl2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-gpp_5000m.xml" />
+    <None Include="Assets\Database\Particles\AACExpl1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h2v_tower2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-va_trs.xml" />
+    <None Include="Assets\Database\Particles\AAMLWaterExpl2.xml" />
+    <None Include="Assets\Database\Particles\HumanPlaneDuzaDustRocks.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon017.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hs_aahp.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h2v_gates.xml" />
+    <None Include="Assets\Database\FPOData\FPO-htur_aacl.xml" />
+    <None Include="Assets\Database\FPOData\FPO-hw_mpc.xml" />
+    <None Include="Assets\Database\FPOData\FPO-ha_sf1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-h2v_hs_base5_1.xml" />
+    <None Include="Assets\Database\Particles\HumanTankDustWater.xml" />
+    <None Include="Assets\Database\Particles\HumanTankBurn2.xml" />
+    <None Include="Assets\Database\Particles\HumanTankExpl2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-vtur_aam.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon0129.xml" />
+    <None Include="Assets\Database\FPOData\FPO-shabor_dsrmax3.xml" />
+    <None Include="Assets\Database\Particles\DischargerLightSparksBlue2.xml" />
+    <None Include="Assets\Database\FPOData\FPO-fh01.xml" />
+    <None Include="Assets\Database\FPOData\FPO-ha_aviacarr.xml" />
+    <None Include="Assets\Database\FPOData\FPO-htur_h.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon024.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon018.xml" />
+    <None Include="Assets\Database\FPOData\FPO-plate.xml" />
+    <None Include="Assets\Database\FPOData\FPO-avalon023.xml" />
+    <None Include="Assets\Database\FPOData\FPO-civhomed1.xml" />
+    <None Include="Assets\Database\FPOData\FPO-korobka16.xml" />
+    <None Include="Assets\Database\FPOData\FPO-bullet_red.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="UnityEngine">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AIModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.AIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ARModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.ARModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AccessibilityModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.AccessibilityModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AndroidJNIModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.AndroidJNIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AnimationModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.AnimationModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AssetBundleModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.AssetBundleModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AudioModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.AudioModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ClothModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.ClothModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ClusterInputModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.ClusterInputModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ClusterRendererModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.ClusterRendererModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ContentLoadModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.ContentLoadModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.CrashReportingModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.CrashReportingModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.DSPGraphModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.DSPGraphModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.DirectorModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.DirectorModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.GIModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.GIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.GameCenterModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.GameCenterModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.GridModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.GridModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.HotReloadModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.HotReloadModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.IMGUIModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.IMGUIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ImageConversionModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.ImageConversionModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.InputModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.InputModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.InputLegacyModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.InputLegacyModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.JSONSerializeModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.JSONSerializeModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.LocalizationModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.LocalizationModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ParticleSystemModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.ParticleSystemModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.PerformanceReportingModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.PerformanceReportingModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.PhysicsModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.PhysicsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Physics2DModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.Physics2DModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ProfilerModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.ProfilerModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.PropertiesModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.PropertiesModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ScreenCaptureModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.ScreenCaptureModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.SharedInternalsModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.SharedInternalsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.SpriteMaskModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.SpriteMaskModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.SpriteShapeModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.SpriteShapeModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.StreamingModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.StreamingModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.SubstanceModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.SubstanceModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.SubsystemsModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.SubsystemsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TLSModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.TLSModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TerrainModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.TerrainModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TerrainPhysicsModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.TerrainPhysicsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TextCoreFontEngineModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.TextCoreFontEngineModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TextCoreTextEngineModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.TextCoreTextEngineModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TextRenderingModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.TextRenderingModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TilemapModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.TilemapModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UIModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.UIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UIElementsModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.UIElementsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UmbraModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.UmbraModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityAnalyticsModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityAnalyticsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityAnalyticsCommonModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityAnalyticsCommonModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityConnectModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityConnectModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityCurlModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityCurlModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityTestProtocolModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityTestProtocolModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestAssetBundleModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestAssetBundleModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestAudioModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestAudioModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestTextureModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestTextureModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestWWWModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestWWWModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.VFXModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.VFXModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.VRModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.VRModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.VehiclesModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.VehiclesModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.VideoModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.VideoModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.VirtualTexturingModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.VirtualTexturingModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.WindModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.WindModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.XRModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.XRModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.CoreModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEditor.CoreModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.DeviceSimulatorModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEditor.DeviceSimulatorModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.DiagnosticsModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEditor.DiagnosticsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.EditorToolbarModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEditor.EditorToolbarModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.GraphViewModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEditor.GraphViewModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.PresetsUIModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEditor.PresetsUIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.QuickSearchModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEditor.QuickSearchModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.SceneTemplateModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEditor.SceneTemplateModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.SceneViewModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEditor.SceneViewModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.TextCoreFontEngineModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEditor.TextCoreFontEngineModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.TextCoreTextEngineModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEditor.TextCoreTextEngineModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.UIBuilderModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEditor.UIBuilderModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.UIElementsModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEditor.UIElementsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.UIElementsSamplesModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEditor.UIElementsSamplesModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.UnityConnectModule">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\Managed\UnityEngine\UnityEditor.UnityConnectModule.dll</HintPath>
+    </Reference>
+    <Reference Include="ReportGeneratorMerged">
+      <HintPath>Library\PackageCache\com.unity.testtools.codecoverage@1.2.3\lib\ReportGenerator\ReportGeneratorMerged.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
+      <HintPath>Library\PackageCache\com.unity.visualscripting@1.8.0\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="netstandard">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\ref\2.1.0\netstandard.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Win32.Primitives">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\Microsoft.Win32.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.AppContext">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.AppContext.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Buffers">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Collections.Concurrent">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Collections.Concurrent.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Collections">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Collections.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Collections.NonGeneric">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Collections.NonGeneric.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Collections.Specialized">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Collections.Specialized.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.ComponentModel.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.EventBasedAsync">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.ComponentModel.EventBasedAsync.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.Primitives">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.ComponentModel.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.TypeConverter">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.ComponentModel.TypeConverter.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Console">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Console.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.Common">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Data.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.Contracts">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Diagnostics.Contracts.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.Debug">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Diagnostics.Debug.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.FileVersionInfo">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Diagnostics.FileVersionInfo.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.Process">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Diagnostics.Process.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.StackTrace">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Diagnostics.StackTrace.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.TextWriterTraceListener">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Diagnostics.TextWriterTraceListener.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.Tools">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Diagnostics.Tools.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.TraceSource">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Diagnostics.TraceSource.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.Tracing">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Diagnostics.Tracing.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Drawing.Primitives">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Drawing.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Dynamic.Runtime">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Dynamic.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Globalization.Calendars">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Globalization.Calendars.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Globalization">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Globalization.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Globalization.Extensions">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Globalization.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.Compression">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.IO.Compression.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.Compression.ZipFile">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.IO.Compression.ZipFile.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.IO.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.FileSystem">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.IO.FileSystem.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.FileSystem.DriveInfo">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.IO.FileSystem.DriveInfo.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.FileSystem.Primitives">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.IO.FileSystem.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.FileSystem.Watcher">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.IO.FileSystem.Watcher.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.IsolatedStorage">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.IO.IsolatedStorage.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.MemoryMappedFiles">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.IO.MemoryMappedFiles.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.Pipes">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.IO.Pipes.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.UnmanagedMemoryStream">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.IO.UnmanagedMemoryStream.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Linq">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Linq.Expressions">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Linq.Expressions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Linq.Parallel">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Linq.Parallel.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Linq.Queryable">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Linq.Queryable.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Memory">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Net.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.NameResolution">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Net.NameResolution.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.NetworkInformation">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Net.NetworkInformation.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Ping">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Net.Ping.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Primitives">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Net.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Requests">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Net.Requests.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Security">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Net.Security.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Sockets">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Net.Sockets.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.WebHeaderCollection">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Net.WebHeaderCollection.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.WebSockets.Client">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Net.WebSockets.Client.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.WebSockets">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Net.WebSockets.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics.Vectors">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ObjectModel">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.ObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reflection.DispatchProxy">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Reflection.DispatchProxy.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reflection">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Reflection.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reflection.Emit">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Reflection.Emit.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reflection.Emit.ILGeneration">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Reflection.Emit.ILGeneration.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reflection.Emit.Lightweight">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Reflection.Emit.Lightweight.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reflection.Extensions">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Reflection.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reflection.Primitives">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Reflection.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Resources.Reader">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Resources.Reader.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Resources.ResourceManager">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Resources.ResourceManager.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Resources.Writer">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Resources.Writer.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.VisualC">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Runtime.CompilerServices.VisualC.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Extensions">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Runtime.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Handles">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Runtime.Handles.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.InteropServices">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Runtime.InteropServices.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.InteropServices.RuntimeInformation">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Runtime.InteropServices.RuntimeInformation.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Numerics">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Runtime.Numerics.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization.Formatters">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Runtime.Serialization.Formatters.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization.Json">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Runtime.Serialization.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization.Primitives">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Runtime.Serialization.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization.Xml">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Runtime.Serialization.Xml.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Claims">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Security.Claims.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Algorithms">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Security.Cryptography.Algorithms.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Csp">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Security.Cryptography.Csp.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Encoding">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Security.Cryptography.Encoding.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Primitives">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Security.Cryptography.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.X509Certificates">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Security.Cryptography.X509Certificates.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Principal">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Security.Principal.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.SecureString">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Security.SecureString.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Encoding">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Text.Encoding.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Encoding.Extensions">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Text.Encoding.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.RegularExpressions">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Text.RegularExpressions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Threading.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Overlapped">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Threading.Overlapped.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Threading.Tasks.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Parallel">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Threading.Tasks.Parallel.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Thread">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Threading.Thread.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.ThreadPool">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Threading.ThreadPool.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Timer">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Threading.Timer.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.ReaderWriter">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Xml.ReaderWriter.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.XDocument">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Xml.XDocument.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.XmlDocument">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Xml.XmlDocument.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.XmlSerializer">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Xml.XmlSerializer.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.XPath">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Xml.XPath.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.XPath.XDocument">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Xml.XPath.XDocument.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.InteropServices.WindowsRuntime">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\Extensions\2.0.0\System.Runtime.InteropServices.WindowsRuntime.dll</HintPath>
+    </Reference>
+    <Reference Include="mscorlib">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\mscorlib.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.Composition">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.ComponentModel.Composition.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Drawing.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.Compression.FileSystem">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.IO.Compression.FileSystem.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Net.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Numerics.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Runtime.Serialization.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ServiceModel.Web">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.ServiceModel.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Transactions">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Transactions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Windows.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Xml.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Xml.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Serialization">
+      <HintPath>E:\Unity\Editor\2022.3.1f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Xml.Serialization.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.EditorCoroutines.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualEffectGraph.Runtime">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualEffectGraph.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Core.Runtime">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Burst.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Burst.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Burst">
+      <HintPath>Library\ScriptAssemblies\Unity.Burst.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.PlasticSCM.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Timeline.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.Shared.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.ShaderGraph.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.ShaderGraph.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualStudio.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.UI">
+      <HintPath>Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.Core">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.Core.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Rider.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Core.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualEffectGraph.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualEffectGraph.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.Flow">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.Flow.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Mathematics.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Mathematics.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Timeline">
+      <HintPath>Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection">
+      <HintPath>Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.HighDefinition.Config.Runtime">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.HighDefinition.Config.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Performance.Profile-Analyzer.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Performance.Profile-Analyzer.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TestTools.CodeCoverage.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Model">
+      <HintPath>Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.State.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Mathematics">
+      <HintPath>Library\ScriptAssemblies\Unity.Mathematics.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Searcher.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Searcher.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.State">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VSCode.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.HighDefinition.Runtime">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.HighDefinition.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.HighDefinition.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.HighDefinition.Editor.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup></ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="GenerateTargetFrameworkMonikerAttribute" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

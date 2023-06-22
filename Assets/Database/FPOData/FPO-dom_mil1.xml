@@ -1,0 +1,2951 @@
+<?xml version="1.0"?>
+<FPONode xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <flags>0</flags>
+  <name>root</name>
+  <pos>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </pos>
+  <up>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </up>
+  <dir>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </dir>
+  <meshes />
+  <children>
+    <FPONode>
+      <flags>0</flags>
+      <name>STUB! id FF5F5C6C</name>
+      <parentName>root</parentName>
+      <pos>
+        <x>-0.5416468</x>
+        <y>4.1677165</y>
+        <z>29.79427</z>
+      </pos>
+      <up>
+        <x>-5.449137E-08</x>
+        <y>1.1920929E-07</y>
+        <z>1</z>
+      </up>
+      <dir>
+        <x>7.351371E-08</x>
+        <y>1</y>
+        <z>-1.19209282E-07</z>
+      </dir>
+      <meshes>
+        <FPOmesh>
+          <meshName>dom_mil1_Im0_Ld0</meshName>
+          <lod>0</lod>
+          <variant>0</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>dom_mil1_Im0_Ld1</meshName>
+          <lod>1</lod>
+          <variant>0</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>dom_mil1_Im0_Ld2</meshName>
+          <lod>2</lod>
+          <variant>0</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>dom_mil1_Im1_Ld0</meshName>
+          <lod>0</lod>
+          <variant>1</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>dom_mil1_Im1_Ld1</meshName>
+          <lod>1</lod>
+          <variant>1</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>dom_mil1_Im1_Ld2</meshName>
+          <lod>2</lod>
+          <variant>1</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>dom_mil1_Im2_Ld0</meshName>
+          <lod>0</lod>
+          <variant>2</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>dom_mil1_Im2_Ld1</meshName>
+          <lod>1</lod>
+          <variant>2</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>dom_mil1_Im2_Ld2</meshName>
+          <lod>2</lod>
+          <variant>2</variant>
+        </FPOmesh>
+      </meshes>
+      <children>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 8980A83C</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>28.143425</x>
+            <y>8.56317</y>
+            <z>35.62854</z>
+          </pos>
+          <up>
+            <x>7.1616796E-08</x>
+            <y>1.02718765E-07</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.97841085E-09</x>
+            <y>1</y>
+            <z>-1.02718765E-07</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-8980a83c_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 17E43D9F</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-16.1344872</x>
+            <y>4.74317646</y>
+            <z>43.0549927</z>
+          </pos>
+          <up>
+            <x>3.84689924E-09</x>
+            <y>-1.07129914E-07</y>
+            <z>-1</z>
+          </up>
+          <dir>
+            <x>0.156434372</x>
+            <y>0.987688363</y>
+            <z>-1.05209182E-07</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-17e43d9f_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 60E30D09</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>21.5482044</x>
+            <y>16.50814</y>
+            <z>-16.8796368</z>
+          </pos>
+          <up>
+            <x>7.35137036E-08</x>
+            <y>6.983112E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.65383249E-09</x>
+            <y>1</y>
+            <z>-6.983112E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-60e30d09_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id F9EA5CB3</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>20.73417</x>
+            <y>15.2756777</y>
+            <z>-4.209622</z>
+          </pos>
+          <up>
+            <x>7.35137036E-08</x>
+            <y>6.983112E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.65383249E-09</x>
+            <y>1</y>
+            <z>-6.983112E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-f9ea5cb3_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 8EED6C25</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-13.7990494</x>
+            <y>6.891279</y>
+            <z>-45.9644051</z>
+          </pos>
+          <up>
+            <x>7.35137036E-08</x>
+            <y>6.983112E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.65383249E-09</x>
+            <y>1</y>
+            <z>-6.983112E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-8eed6c25_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id EE2AE5C0</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>14.220809</x>
+            <y>1.261626</y>
+            <z>42.8708954</z>
+          </pos>
+          <up>
+            <x>3.84689924E-09</x>
+            <y>-1.07129914E-07</y>
+            <z>-1</z>
+          </up>
+          <dir>
+            <x>0.156434372</x>
+            <y>0.987688363</y>
+            <z>-1.05209182E-07</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-ee2ae5c0_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 992DD556</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>16.7271557</x>
+            <y>5.58135557</y>
+            <z>-46.1485023</z>
+          </pos>
+          <up>
+            <x>7.35137036E-08</x>
+            <y>6.983112E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.65383249E-09</x>
+            <y>1</y>
+            <z>-6.983112E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-992dd556_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 0992C8C7</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>13.3832064</x>
+            <y>22.3567867</y>
+            <z>-30.7428551</z>
+          </pos>
+          <up>
+            <x>7.35137036E-08</x>
+            <y>6.983112E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.65383249E-09</x>
+            <y>1</y>
+            <z>-6.983112E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-0992c8c7_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 7E95F851</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>4.236591</x>
+            <y>23.069252</y>
+            <z>-31.2416248</z>
+          </pos>
+          <up>
+            <x>7.35137036E-08</x>
+            <y>6.983112E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.65383249E-09</x>
+            <y>1</y>
+            <z>-6.983112E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-7e95f851_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id E79CA9EB</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-17.3423119</x>
+            <y>22.9374676</y>
+            <z>19.6326027</z>
+          </pos>
+          <up>
+            <x>7.35137036E-08</x>
+            <y>6.983112E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.65383249E-09</x>
+            <y>1</y>
+            <z>-6.983112E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-e79ca9eb_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 909B997D</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>18.63935</x>
+            <y>-21.5765</y>
+            <z>45.94392</z>
+          </pos>
+          <up>
+            <x>3.84689924E-09</x>
+            <y>-1.07129914E-07</y>
+            <z>-1</z>
+          </up>
+          <dir>
+            <x>0.156434372</x>
+            <y>0.987688363</y>
+            <z>-1.05209182E-07</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-909b997d_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 0EFF0CDE</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-21.7358627</x>
+            <y>-14.9744568</y>
+            <z>-49.0374374</z>
+          </pos>
+          <up>
+            <x>7.35137036E-08</x>
+            <y>6.983112E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.65383249E-09</x>
+            <y>1</y>
+            <z>-6.983112E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-0eff0cde_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 79F83C48</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>28.35866</x>
+            <y>8.472908</y>
+            <z>-47.1308441</z>
+          </pos>
+          <up>
+            <x>7.1616796E-08</x>
+            <y>1.02718765E-07</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.97841085E-09</x>
+            <y>1</y>
+            <z>-1.02718765E-07</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-79f83c48_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id E0F16DF2</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-31.123785</x>
+            <y>-2.229099</y>
+            <z>-3.60985374</z>
+          </pos>
+          <up>
+            <x>7.1616796E-08</x>
+            <y>1.02718765E-07</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.97841085E-09</x>
+            <y>1</y>
+            <z>-1.02718765E-07</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-e0f16df2_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 97F65D64</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-28.3764267</x>
+            <y>5.622758</y>
+            <z>-16.2833023</z>
+          </pos>
+          <up>
+            <x>7.1616796E-08</x>
+            <y>1.02718765E-07</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.97841085E-09</x>
+            <y>1</y>
+            <z>-1.02718765E-07</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-97f65d64_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id C507B603</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-29.0867043</x>
+            <y>1.50003219</y>
+            <z>38.664608</z>
+          </pos>
+          <up>
+            <x>7.1616796E-08</x>
+            <y>1.02718765E-07</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.97841085E-09</x>
+            <y>1</y>
+            <z>-1.02718765E-07</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-c507b603_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id B2008695</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-29.0867119</x>
+            <y>2.19538522</y>
+            <z>10.0465479</z>
+          </pos>
+          <up>
+            <x>7.1616796E-08</x>
+            <y>1.02718765E-07</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.97841085E-09</x>
+            <y>1</y>
+            <z>-1.02718765E-07</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-b2008695_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 22BF9B04</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-31.25781</x>
+            <y>2.161397</y>
+            <z>34.5016174</z>
+          </pos>
+          <up>
+            <x>7.1616796E-08</x>
+            <y>1.02718765E-07</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.97841085E-09</x>
+            <y>1</y>
+            <z>-1.02718765E-07</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-22bf9b04_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 55B8AB92</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-29.12975</x>
+            <y>7.27651453</y>
+            <z>-33.8893242</z>
+          </pos>
+          <up>
+            <x>7.1616796E-08</x>
+            <y>1.02718765E-07</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.97841085E-09</x>
+            <y>1</y>
+            <z>-1.02718765E-07</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-55b8ab92_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id CCB1FA28</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>28.5295143</x>
+            <y>7.918848</y>
+            <z>-3.32119274</z>
+          </pos>
+          <up>
+            <x>7.1616796E-08</x>
+            <y>1.02718765E-07</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.97841085E-09</x>
+            <y>1</y>
+            <z>-1.02718765E-07</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-ccb1fa28_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id BBB6CABE</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-29.0867157</x>
+            <y>5.237018</y>
+            <z>-28.4253654</z>
+          </pos>
+          <up>
+            <x>7.1616796E-08</x>
+            <y>1.02718765E-07</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.97841085E-09</x>
+            <y>1</y>
+            <z>-1.02718765E-07</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-bbb6cabe_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 25D25F1D</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-28.70722</x>
+            <y>8.76246</y>
+            <z>-47.1308441</z>
+          </pos>
+          <up>
+            <x>7.1616796E-08</x>
+            <y>1.02718765E-07</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.97841085E-09</x>
+            <y>1</y>
+            <z>-1.02718765E-07</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-25d25f1d_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 52D56F8B</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-29.08671</x>
+            <y>1.8879317</y>
+            <z>24.25365</z>
+          </pos>
+          <up>
+            <x>7.1616796E-08</x>
+            <y>1.02718765E-07</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.97841085E-09</x>
+            <y>1</y>
+            <z>-1.02718765E-07</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-52d56f8b_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id CBDC3E31</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>16.0457668</x>
+            <y>23.2719917</y>
+            <z>-41.25973</z>
+          </pos>
+          <up>
+            <x>7.35137036E-08</x>
+            <y>6.983112E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.65383249E-09</x>
+            <y>1</y>
+            <z>-6.983112E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-cbdc3e31_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id BCDB0EA7</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>12.6839066</x>
+            <y>19.3423424</y>
+            <z>-17.0825729</z>
+          </pos>
+          <up>
+            <x>7.35137036E-08</x>
+            <y>6.983112E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.65383249E-09</x>
+            <y>1</y>
+            <z>-6.983112E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-bcdb0ea7_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id DC1C8742</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-34.76118</x>
+            <y>-11.0727825</y>
+            <z>42.7423248</z>
+          </pos>
+          <up>
+            <x>7.1616796E-08</x>
+            <y>1.02718765E-07</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.97841085E-09</x>
+            <y>1</y>
+            <z>-1.02718765E-07</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-dc1c8742_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id AB1BB7D4</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>13.116806</x>
+            <y>18.49479</y>
+            <z>27.7126217</z>
+          </pos>
+          <up>
+            <x>7.35137036E-08</x>
+            <y>6.983112E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.65383249E-09</x>
+            <y>1</y>
+            <z>-6.983112E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-ab1bb7d4_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 3BA4AA45</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-34.19008</x>
+            <y>-7.53162432</y>
+            <z>-10.2941074</z>
+          </pos>
+          <up>
+            <x>7.1616796E-08</x>
+            <y>1.02718765E-07</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.97841085E-09</x>
+            <y>1</y>
+            <z>-1.02718765E-07</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-3ba4aa45_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 4CA39AD3</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>0.62229073</x>
+            <y>21.8188534</y>
+            <z>-17.2305088</z>
+          </pos>
+          <up>
+            <x>7.35137036E-08</x>
+            <y>6.983112E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.65383249E-09</x>
+            <y>1</y>
+            <z>-6.983112E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-4ca39ad3_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id D5AACB69</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-3.95464969</x>
+            <y>20.528595</y>
+            <z>-4.56296158</z>
+          </pos>
+          <up>
+            <x>7.35137036E-08</x>
+            <y>6.983112E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.65383249E-09</x>
+            <y>1</y>
+            <z>-6.983112E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-d5aacb69_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id A2ADFBFF</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-2.01734471</x>
+            <y>18.46869</y>
+            <z>9.089571</z>
+          </pos>
+          <up>
+            <x>7.35137036E-08</x>
+            <y>6.983112E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.65383249E-09</x>
+            <y>1</y>
+            <z>-6.983112E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-a2adfbff_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 3CC96E5C</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-2.017343</x>
+            <y>17.14837</y>
+            <z>37.72966</z>
+          </pos>
+          <up>
+            <x>7.35137036E-08</x>
+            <y>6.983112E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.65383249E-09</x>
+            <y>1</y>
+            <z>-6.983112E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-3cc96e5c_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 4BCE5ECA</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-2.01734638</x>
+            <y>24.7679062</y>
+            <z>-29.42588</z>
+          </pos>
+          <up>
+            <x>7.35137036E-08</x>
+            <y>6.983112E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.65383249E-09</x>
+            <y>1</y>
+            <z>-6.983112E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-4bce5eca_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id D2C70F70</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-5.07159472</x>
+            <y>19.2034</y>
+            <z>23.2856083</z>
+          </pos>
+          <up>
+            <x>7.35137036E-08</x>
+            <y>6.983112E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.65383249E-09</x>
+            <y>1</y>
+            <z>-6.983112E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-d2c70f70_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id A5C03FE6</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-10.2381525</x>
+            <y>25.47789</y>
+            <z>-33.3364449</z>
+          </pos>
+          <up>
+            <x>7.35137036E-08</x>
+            <y>6.983112E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.65383249E-09</x>
+            <y>1</y>
+            <z>-6.983112E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-a5c03fe6_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 935D1185</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-29.29009</x>
+            <y>7.103192</y>
+            <z>-18.60526</z>
+          </pos>
+          <up>
+            <x>7.1616796E-08</x>
+            <y>1.02718765E-07</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.97841085E-09</x>
+            <y>1</y>
+            <z>-1.02718765E-07</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-935d1185_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id E45A2113</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-35.0084457</x>
+            <y>-12.1345234</y>
+            <z>-34.94584</z>
+          </pos>
+          <up>
+            <x>7.1616796E-08</x>
+            <y>1.02718765E-07</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.97841085E-09</x>
+            <y>1</y>
+            <z>-1.02718765E-07</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-e45a2113_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 74E53C82</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-28.4805012</x>
+            <y>8.817943</y>
+            <z>35.6285439</z>
+          </pos>
+          <up>
+            <x>7.1616796E-08</x>
+            <y>1.02718765E-07</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.97841085E-09</x>
+            <y>1</y>
+            <z>-1.02718765E-07</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-74e53c82_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 03E20C14</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-30.14442</x>
+            <y>5.05938864</y>
+            <z>21.7531471</z>
+          </pos>
+          <up>
+            <x>7.1616796E-08</x>
+            <y>1.02718765E-07</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.97841085E-09</x>
+            <y>1</y>
+            <z>-1.02718765E-07</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-03e20c14_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 9AEB5DAE</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>16.04577</x>
+            <y>16.4464245</y>
+            <z>9.238769</z>
+          </pos>
+          <up>
+            <x>7.35137036E-08</x>
+            <y>6.983112E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.65383249E-09</x>
+            <y>1</y>
+            <z>-6.983112E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-9aeb5dae_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id EDEC6D38</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-34.67563</x>
+            <y>-9.608032</y>
+            <z>26.049593</z>
+          </pos>
+          <up>
+            <x>7.1616796E-08</x>
+            <y>1.02718765E-07</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.97841085E-09</x>
+            <y>1</y>
+            <z>-1.02718765E-07</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-edec6d38_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 7388F89B</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>31.31331</x>
+            <y>-13.1525288</y>
+            <z>-34.9458427</z>
+          </pos>
+          <up>
+            <x>7.1616796E-08</x>
+            <y>1.02718765E-07</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.97841085E-09</x>
+            <y>1</y>
+            <z>-1.02718765E-07</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-7388f89b_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 048FC80D</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-29.0867157</x>
+            <y>5.71690559</y>
+            <z>-40.377346</z>
+          </pos>
+          <up>
+            <x>7.1616796E-08</x>
+            <y>1.02718765E-07</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.97841085E-09</x>
+            <y>1</y>
+            <z>-1.02718765E-07</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-048fc80d_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 9D8699B7</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-29.6513748</x>
+            <y>6.370625</y>
+            <z>11.39942</z>
+          </pos>
+          <up>
+            <x>7.1616796E-08</x>
+            <y>1.02718765E-07</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.97841085E-09</x>
+            <y>1</y>
+            <z>-1.02718765E-07</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-9d8699b7_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id EA81A921</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-4.910021</x>
+            <y>21.5507</y>
+            <z>19.6325989</z>
+          </pos>
+          <up>
+            <x>7.35137036E-08</x>
+            <y>6.983112E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.65383249E-09</x>
+            <y>1</y>
+            <z>-6.983112E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-ea81a921_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 8A4620C4</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>13.5608158</x>
+            <y>20.29249</y>
+            <z>4.27057362</z>
+          </pos>
+          <up>
+            <x>7.35137036E-08</x>
+            <y>6.983112E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.65383249E-09</x>
+            <y>1</y>
+            <z>-6.983112E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-8a4620c4_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id FD411052</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-28.9626312</x>
+            <y>8.241941</y>
+            <z>-3.32118845</z>
+          </pos>
+          <up>
+            <x>7.1616796E-08</x>
+            <y>1.02718765E-07</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.97841085E-09</x>
+            <y>1</y>
+            <z>-1.02718765E-07</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-fd411052_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 6DFE0DC3</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-3.311586</x>
+            <y>23.781805</y>
+            <z>-13.7847843</z>
+          </pos>
+          <up>
+            <x>7.35137036E-08</x>
+            <y>6.983112E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.65383249E-09</x>
+            <y>1</y>
+            <z>-6.983112E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-6dfe0dc3_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 1AF93D55</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-31.7485619</x>
+            <y>0.8415701</y>
+            <z>43.7283936</z>
+          </pos>
+          <up>
+            <x>7.1616796E-08</x>
+            <y>1.02718765E-07</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.97841085E-09</x>
+            <y>1</y>
+            <z>-1.02718765E-07</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-1af93d55_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 83F06CEF</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>29.84523</x>
+            <y>1.554114</y>
+            <z>34.50161</z>
+          </pos>
+          <up>
+            <x>7.1616796E-08</x>
+            <y>1.02718765E-07</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.97841085E-09</x>
+            <y>1</y>
+            <z>-1.02718765E-07</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-83f06cef_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id F4F75C79</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>28.91703</x>
+            <y>5.9628253</y>
+            <z>11.3994141</z>
+          </pos>
+          <up>
+            <x>7.1616796E-08</x>
+            <y>1.02718765E-07</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.97841085E-09</x>
+            <y>1</y>
+            <z>-1.02718765E-07</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-f4f75c79_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 6A93C9DA</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>30.356554</x>
+            <y>-1.16452575</y>
+            <z>-15.824069</z>
+          </pos>
+          <up>
+            <x>7.1616796E-08</x>
+            <y>1.02718765E-07</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.97841085E-09</x>
+            <y>1</y>
+            <z>-1.02718765E-07</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-6a93c9da_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 1D94F94C</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>28.543541</x>
+            <y>6.9391613</y>
+            <z>-33.8893356</z>
+          </pos>
+          <up>
+            <x>7.1616796E-08</x>
+            <y>1.02718765E-07</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.97841085E-09</x>
+            <y>1</y>
+            <z>-1.02718765E-07</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-1d94f94c_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 849DA8F6</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>16.41839</x>
+            <y>17.06123</y>
+            <z>23.4368153</z>
+          </pos>
+          <up>
+            <x>7.35137036E-08</x>
+            <y>6.983112E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.65383249E-09</x>
+            <y>1</y>
+            <z>-6.983112E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-849da8f6_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id F39A9860</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>29.1988964</x>
+            <y>4.590596</y>
+            <z>21.7531471</z>
+          </pos>
+          <up>
+            <x>7.1616796E-08</x>
+            <y>1.02718765E-07</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.97841085E-09</x>
+            <y>1</y>
+            <z>-1.02718765E-07</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-f39a9860_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id A16B7307</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>10.72367</x>
+            <y>-15.3775091</y>
+            <z>-49.0940742</z>
+          </pos>
+          <up>
+            <x>7.35137036E-08</x>
+            <y>6.983112E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.65383249E-09</x>
+            <y>1</y>
+            <z>-6.983112E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-a16b7307_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id D66C4391</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-33.91223</x>
+            <y>-6.55312</y>
+            <z>8.370777</z>
+          </pos>
+          <up>
+            <x>7.1616796E-08</x>
+            <y>1.02718765E-07</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.97841085E-09</x>
+            <y>1</y>
+            <z>-1.02718765E-07</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-d66c4391_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 46D35E00</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-13.4835978</x>
+            <y>-16.8968067</y>
+            <z>46.0005646</z>
+          </pos>
+          <up>
+            <x>3.84689924E-09</x>
+            <y>-1.07129914E-07</y>
+            <z>-1</z>
+          </up>
+          <dir>
+            <x>0.156434372</x>
+            <y>0.987688363</y>
+            <z>-1.05209182E-07</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-46d35e00_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 31D46E96</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>28.23964</x>
+            <y>2.69204617</y>
+            <z>38.6408958</z>
+          </pos>
+          <up>
+            <x>7.1616796E-08</x>
+            <y>1.02718765E-07</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.97841085E-09</x>
+            <y>1</y>
+            <z>-1.02718765E-07</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-31d46e96_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id A8DD3F2C</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-15.4051743</x>
+            <y>21.84146</y>
+            <z>-17.1119022</z>
+          </pos>
+          <up>
+            <x>7.35137036E-08</x>
+            <y>6.983112E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.65383249E-09</x>
+            <y>1</y>
+            <z>-6.983112E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-a8dd3f2c_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id DFDA0FBA</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>28.2396355</x>
+            <y>3.41019</y>
+            <z>10.0164633</z>
+          </pos>
+          <up>
+            <x>7.1616796E-08</x>
+            <y>1.02718765E-07</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.97841085E-09</x>
+            <y>1</y>
+            <z>-1.02718765E-07</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-dfda0fba_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 41BE9A19</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>28.6747913</x>
+            <y>6.74288559</y>
+            <z>-18.6052647</z>
+          </pos>
+          <up>
+            <x>7.1616796E-08</x>
+            <y>1.02718765E-07</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.97841085E-09</x>
+            <y>1</y>
+            <z>-1.02718765E-07</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-41be9a19_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 36B9AA8F</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-20.083868</x>
+            <y>13.06803</y>
+            <z>-4.443532</z>
+          </pos>
+          <up>
+            <x>7.35137036E-08</x>
+            <y>6.983112E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.65383249E-09</x>
+            <y>1</y>
+            <z>-6.983112E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-36b9aa8f_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>dom_mil1_D-36b9aa8f_Im2_Ld1</meshName>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id AFB0FB35</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>30.123476</x>
+            <y>0.173768744</y>
+            <z>43.7283974</z>
+          </pos>
+          <up>
+            <x>7.1616796E-08</x>
+            <y>1.02718765E-07</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.97841085E-09</x>
+            <y>1</y>
+            <z>-1.02718765E-07</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-afb0fb35_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>dom_mil1_D-afb0fb35_Im2_Ld1</meshName>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id D8B7CBA3</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>29.30194</x>
+            <y>1.57418942</y>
+            <z>24.2236423</z>
+          </pos>
+          <up>
+            <x>7.1616796E-08</x>
+            <y>1.02718765E-07</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.97841085E-09</x>
+            <y>1</y>
+            <z>-1.02718765E-07</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-d8b7cba3_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>dom_mil1_D-d8b7cba3_Im2_Ld1</meshName>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id B43BF1AA</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>31.2250671</x>
+            <y>-8.478272</y>
+            <z>-10.2941122</z>
+          </pos>
+          <up>
+            <x>7.1616796E-08</x>
+            <y>1.02718765E-07</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.97841085E-09</x>
+            <y>1</y>
+            <z>-1.02718765E-07</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-b43bf1aa_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>dom_mil1_D-b43bf1aa_Im2_Ld1</meshName>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id C33CC13C</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>31.37983</x>
+            <y>-10.6050777</y>
+            <z>26.04958</z>
+          </pos>
+          <up>
+            <x>7.1616796E-08</x>
+            <y>1.02718765E-07</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.97841085E-09</x>
+            <y>1</y>
+            <z>-1.02718765E-07</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-c33cc13c_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>dom_mil1_D-c33cc13c_Im2_Ld1</meshName>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 5383DCAD</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>9.224271</x>
+            <y>18.894165</y>
+            <z>-4.413953</z>
+          </pos>
+          <up>
+            <x>7.35137036E-08</x>
+            <y>6.983112E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.65383249E-09</x>
+            <y>1</y>
+            <z>-6.983112E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-5383dcad_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>dom_mil1_D-5383dcad_Im2_Ld1</meshName>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 2484EC3B</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>27.3218632</x>
+            <y>7.93815374</y>
+            <z>-3.639203</z>
+          </pos>
+          <up>
+            <x>7.1616796E-08</x>
+            <y>1.02718765E-07</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.97841085E-09</x>
+            <y>1</y>
+            <z>-1.02718765E-07</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-2484ec3b_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>dom_mil1_D-2484ec3b_Im2_Ld1</meshName>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id BD8DBD81</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>31.2351913</x>
+            <y>-12.0651836</y>
+            <z>42.74232</z>
+          </pos>
+          <up>
+            <x>7.1616796E-08</x>
+            <y>1.02718765E-07</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.97841085E-09</x>
+            <y>1</y>
+            <z>-1.02718765E-07</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-bd8dbd81_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>dom_mil1_D-bd8dbd81_Im2_Ld1</meshName>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id CA8A8D17</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>30.5439529</x>
+            <y>-7.46835947</y>
+            <z>8.370772</z>
+          </pos>
+          <up>
+            <x>7.1616796E-08</x>
+            <y>1.02718765E-07</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.97841085E-09</x>
+            <y>1</y>
+            <z>-1.02718765E-07</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-ca8a8d17_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>dom_mil1_D-ca8a8d17_Im2_Ld1</meshName>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 54EE18B4</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>28.23963</x>
+            <y>6.94484043</y>
+            <z>-40.406044</z>
+          </pos>
+          <up>
+            <x>7.1616796E-08</x>
+            <y>1.02718765E-07</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.97841085E-09</x>
+            <y>1</y>
+            <z>-1.02718765E-07</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-54ee18b4_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>dom_mil1_D-54ee18b4_Im2_Ld1</meshName>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 23E92822</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-2.01734686</x>
+            <y>25.9308853</y>
+            <z>-41.4261246</z>
+          </pos>
+          <up>
+            <x>7.35137036E-08</x>
+            <y>6.983112E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.65383249E-09</x>
+            <y>1</y>
+            <z>-6.983112E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-23e92822_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>dom_mil1_D-23e92822_Im2_Ld1</meshName>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id BAE07998</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>16.0457764</x>
+            <y>15.212328</y>
+            <z>37.87926</z>
+          </pos>
+          <up>
+            <x>7.35137036E-08</x>
+            <y>6.983112E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.65383249E-09</x>
+            <y>1</y>
+            <z>-6.983112E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-bae07998_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>dom_mil1_D-bae07998_Im2_Ld1</meshName>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id CDE7490E</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>16.0457649</x>
+            <y>22.23342</y>
+            <z>-29.2682552</z>
+          </pos>
+          <up>
+            <x>7.35137036E-08</x>
+            <y>6.983112E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-2.65383249E-09</x>
+            <y>1</y>
+            <z>-6.983112E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_D-cde7490e_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>dom_mil1_D-cde7490e_Im2_Ld1</meshName>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id 629595B3</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-15.2416344</x>
+            <y>26.1506233</y>
+            <z>-22.8139267</z>
+          </pos>
+          <up>
+            <x>1.17225113E-07</x>
+            <y>6.98312E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-8.42936956E-08</x>
+            <y>1</y>
+            <z>-6.9831195E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>dom_mil1_aerial_Im0_Ld0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>dom_mil1_aerial_Im0_Ld1</meshName>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>dom_mil1_aerial_Im0_Ld2</meshName>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>dom_mil1_aerial_Im1_Ld0</meshName>
+              <lod>0</lod>
+              <variant>1</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>dom_mil1_aerial_Im1_Ld1</meshName>
+              <lod>1</lod>
+              <variant>1</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>dom_mil1_aerial_Im1_Ld2</meshName>
+              <lod>2</lod>
+              <variant>1</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>dom_mil1_aerial_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>dom_mil1_aerial_Im2_Ld1</meshName>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>dom_mil1_aerial_Im2_Ld2</meshName>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+      </children>
+      <slots />
+    </FPONode>
+  </children>
+  <slots />
+</FPONode>

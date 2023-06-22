@@ -1,0 +1,2946 @@
+<?xml version="1.0"?>
+<FPONode xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <flags>0</flags>
+  <name>root</name>
+  <pos>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </pos>
+  <up>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </up>
+  <dir>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </dir>
+  <meshes />
+  <children>
+    <FPONode>
+      <flags>0</flags>
+      <name>STUB! id FF5F5C6C</name>
+      <parentName>root</parentName>
+      <pos>
+        <x>361.347839</x>
+        <y>-0.0505295731</y>
+        <z>0.829064846</z>
+      </pos>
+      <up>
+        <x>-8.940696E-08</x>
+        <y>-2.98023366E-08</y>
+        <z>1</z>
+      </up>
+      <dir>
+        <x>-1</x>
+        <y>-2.08616257E-07</y>
+        <z>-8.940697E-08</z>
+      </dir>
+      <meshes>
+        <FPOmesh>
+          <meshName>gravang_sm_Im0_Ld0</meshName>
+          <lod>0</lod>
+          <variant>0</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>gravang_sm_Im0_Ld1</meshName>
+          <lod>1</lod>
+          <variant>0</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>gravang_sm_Im0_Ld2</meshName>
+          <lod>2</lod>
+          <variant>0</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>gravang_sm_Im1_Ld0</meshName>
+          <lod>0</lod>
+          <variant>1</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>gravang_sm_Im1_Ld1</meshName>
+          <lod>1</lod>
+          <variant>1</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>gravang_sm_Im1_Ld2</meshName>
+          <lod>2</lod>
+          <variant>1</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>gravang_sm_Im2_Ld0</meshName>
+          <lod>0</lod>
+          <variant>2</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>gravang_sm_Im2_Ld1</meshName>
+          <lod>1</lod>
+          <variant>2</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>gravang_sm_Im2_Ld2</meshName>
+          <lod>2</lod>
+          <variant>2</variant>
+        </FPOmesh>
+      </meshes>
+      <children>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id 03C9B4B1</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-0.325130135</x>
+            <y>27.9187717</y>
+            <z>-68.8392</z>
+          </pos>
+          <up>
+            <x>-1.315538E-07</x>
+            <y>1</y>
+            <z>5.96046448E-08</z>
+          </up>
+          <dir>
+            <x>2.98023259E-08</x>
+            <y>-5.960464E-08</y>
+            <z>1</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>gravang_sm_Bunker_Im0_Ld0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>gravang_sm_Bunker_Im0_Ld1</meshName>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>gravang_sm_Bunker_Im0_Ld2</meshName>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>gravang_sm_Bunker_Im1_Ld0</meshName>
+              <lod>0</lod>
+              <variant>1</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>gravang_sm_Bunker_Im1_Ld1</meshName>
+              <lod>1</lod>
+              <variant>1</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>gravang_sm_Bunker_Im1_Ld2</meshName>
+              <lod>2</lod>
+              <variant>1</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>gravang_sm_Bunker_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>gravang_sm_Bunker_Im2_Ld1</meshName>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 8EED6C25</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>28.9925518</x>
+                <y>5.403859</y>
+                <z>7.17541933</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-8eed6c25_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id EE2AE5C0</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>-33.4303665</x>
+                <y>1.96138763</y>
+                <z>-33.3088455</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-ee2ae5c0_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 992DD556</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>-33.14608</x>
+                <y>-8.578366</y>
+                <z>39.65838</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-992dd556_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 0992C8C7</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>-33.94156</x>
+                <y>-10.7233658</y>
+                <z>53.0844955</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-0992c8c7_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 7E95F851</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>38.6111641</x>
+                <y>-10.71681</y>
+                <z>-21.7431889</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-7e95f851_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id E79CA9EB</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>-24.1212215</x>
+                <y>-3.970294</y>
+                <z>-61.80219</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-e79ca9eb_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 909B997D</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>39.6294365</x>
+                <y>-13.3481388</y>
+                <z>-49.41195</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-909b997d_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 0EFF0CDE</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>-27.9057178</x>
+                <y>5.40386</y>
+                <z>35.2094955</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-0eff0cde_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 79F83C48</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>-2.10842443</x>
+                <y>8.840622</y>
+                <z>26.6337566</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-79f83c48_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id E0F16DF2</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>-7.673012</x>
+                <y>8.840621</y>
+                <z>15.290555</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-e0f16df2_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 97F65D64</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>3.88421535</x>
+                <y>8.84062</y>
+                <z>9.083862</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-97f65d64_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id C507B603</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>-8.850132</x>
+                <y>8.84062</y>
+                <z>-3.97153</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-c507b603_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id B2008695</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>-2.21543956</x>
+                <y>8.840616</y>
+                <z>41.1873169</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-b2008695_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 22BF9B04</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>5.48937464</x>
+                <y>8.840624</y>
+                <z>52.2095032</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-22bf9b04_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 55B8AB92</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>-14.3077259</x>
+                <y>8.840625</y>
+                <z>50.71127</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-55b8ab92_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id CCB1FA28</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>-22.0125313</x>
+                <y>8.84062</y>
+                <z>-6.860845</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-ccb1fa28_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id BBB6CABE</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>-28.461586</x>
+                <y>4.053313</y>
+                <z>-3.75809336</z>
+              </pos>
+              <up>
+                <x>2.26192171E-07</x>
+                <y>-7.88817758E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.12462972E-08</x>
+                <y>1</y>
+                <z>-7.888178E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-bbb6cabe_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 25D25F1D</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>8.378716</x>
+                <y>11.7535257</y>
+                <z>-40.7834473</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-25d25f1d_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 52D56F8B</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>-27.7436752</x>
+                <y>5.6024785</y>
+                <z>16.6989079</z>
+              </pos>
+              <up>
+                <x>2.26192171E-07</x>
+                <y>-7.88817758E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.12462972E-08</x>
+                <y>1</y>
+                <z>-7.888178E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-52d56f8b_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id CBDC3E31</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>-2.206471</x>
+                <y>5.357799</y>
+                <z>60.336853</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-cbdc3e31_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id BCDB0EA7</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>-7.244945</x>
+                <y>11.7535286</y>
+                <z>-23.4476032</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-bcdb0ea7_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id DC1C8742</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>-1.14528906</x>
+                <y>11.7535172</y>
+                <z>-56.5141</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-dc1c8742_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id AB1BB7D4</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>-28.387928</x>
+                <y>4.251926</y>
+                <z>50.7408676</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-ab1bb7d4_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 3BA4AA45</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>-22.0125027</x>
+                <y>11.7535267</y>
+                <z>-54.4809</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-3ba4aa45_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 4CA39AD3</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>-33.204998</x>
+                <y>-8.737252</y>
+                <z>-3.241706</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-4ca39ad3_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id D5AACB69</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>20.471</x>
+                <y>11.7535248</y>
+                <z>-54.5879173</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-d5aacb69_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id A2ADFBFF</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>-20.8354168</x>
+                <y>8.840624</y>
+                <z>39.2611351</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-a2adfbff_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 3CC96E5C</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>29.5484142</x>
+                <y>4.053307</y>
+                <z>46.14304</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-3cc96e5c_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 4BCE5ECA</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>-27.5042343</x>
+                <y>-10.388011</y>
+                <z>60.33682</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-4bce5eca_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id D2C70F70</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>34.232914</x>
+                <y>-8.578369</y>
+                <z>2.726568</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-d2c70f70_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id A5C03FE6</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>-14.8180437</x>
+                <y>14.6112633</y>
+                <z>60.33685</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-a5c03fe6_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 935D1185</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>-0.09207243</x>
+                <y>-4.044918</y>
+                <z>-61.8021851</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-935d1185_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id E45A2113</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>-20.942421</x>
+                <y>8.840622</y>
+                <z>13.685298</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-e45a2113_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 74E53C82</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>-33.50993</x>
+                <y>1.56270123</y>
+                <z>-44.71128</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-74e53c82_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 03E20C14</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>34.3213</x>
+                <y>-8.816694</y>
+                <z>23.4615536</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-03e20c14_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 9AEB5DAE</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>-35.6829033</x>
+                <y>-3.85941768</y>
+                <z>-21.4280472</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-9aeb5dae_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id EDEC6D38</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>33.784523</x>
+                <y>1.56270111</y>
+                <z>-35.05929</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-edec6d38_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 7388F89B</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>38.950592</x>
+                <y>-11.5939207</y>
+                <z>-35.13903</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-7388f89b_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 048FC80D</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>40.18486</x>
+                <y>-14.7834044</y>
+                <z>-36.8135</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-048fc80d_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 9D8699B7</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>30.6294346</x>
+                <y>8.579568</y>
+                <z>-32.9064</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-9d8699b7_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id EA81A921</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>32.2855568</x>
+                <y>5.62929344</y>
+                <z>-21.9824181</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-ea81a921_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 8A4620C4</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>28.83051</x>
+                <y>5.602477</y>
+                <z>25.686039</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-8a4620c4_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id FD411052</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>-39.91025</x>
+                <y>-14.7834044</y>
+                <z>-42.95704</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-fd411052_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 6DFE0DC3</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>17.4746475</x>
+                <y>8.840623</y>
+                <z>45.4678078</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-6dfe0dc3_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 1AF93D55</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>-33.2344627</x>
+                <y>-8.816697</y>
+                <z>18.9233341</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-1af93d55_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 83F06CEF</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>35.0283966</x>
+                <y>-10.7233667</y>
+                <z>-10.6995487</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-83f06cef_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id F4F75C79</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>29.4747639</x>
+                <y>4.25191832</y>
+                <z>-8.355953</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-f4f75c79_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 6A93C9DA</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>24.882309</x>
+                <y>-3.97028828</y>
+                <z>-17.15057</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-6a93c9da_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 1D94F94C</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>-6.01233149</x>
+                <y>14.0142708</y>
+                <z>60.33685</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-1d94f94c_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-1d94f94c_Im2_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-1d94f94c_Im2_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 849DA8F6</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>-21.60889</x>
+                <y>14.7605171</y>
+                <z>60.33682</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-849da8f6_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-849da8f6_Im2_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-849da8f6_Im2_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id F39A9860</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>6.897738</x>
+                <y>14.3127623</y>
+                <z>60.336853</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-f39a9860_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-f39a9860_Im2_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-f39a9860_Im2_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id A16B7307</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>21.5241776</x>
+                <y>0.208696738</y>
+                <z>60.3368568</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-a16b7307_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-a16b7307_Im2_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-a16b7307_Im2_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id D66C4391</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>29.21053</x>
+                <y>-12.3282528</y>
+                <z>60.3368568</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-d66c4391_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-d66c4391_Im2_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-d66c4391_Im2_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 46D35E00</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>17.4944439</x>
+                <y>14.238143</y>
+                <z>60.336853</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-46d35e00_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-46d35e00_Im2_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-46d35e00_Im2_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 31D46E96</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>20.9271832</x>
+                <y>-12.1790047</y>
+                <z>60.3368568</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-31d46e96_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-31d46e96_Im2_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-31d46e96_Im2_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id A8DD3F2C</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>-22.1312618</x>
+                <y>3.56681085</y>
+                <z>60.33685</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-a8dd3f2c_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-a8dd3f2c_Im2_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-a8dd3f2c_Im2_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id DFDA0FBA</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>34.29183</x>
+                <y>-8.737249</y>
+                <z>45.62665</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-dfda0fba_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-dfda0fba_Im2_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-dfda0fba_Im2_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 41BE9A19</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>-38.6759872</x>
+                <y>-11.5939188</y>
+                <z>-44.63157</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-41be9a19_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-41be9a19_Im2_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-41be9a19_Im2_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 36B9AA8F</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>18.4377575</x>
+                <y>8.840621</y>
+                <z>27.5968647</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-36b9aa8f_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-36b9aa8f_Im2_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-36b9aa8f_Im2_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id AFB0FB35</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>-15.6988373</x>
+                <y>11.7535276</y>
+                <z>-39.8203468</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-afb0fb35_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-afb0fb35_Im2_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-afb0fb35_Im2_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id D8B7CBA3</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>-32.010952</x>
+                <y>5.629293</y>
+                <z>-57.7881546</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-d8b7cba3_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-d8b7cba3_Im2_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-d8b7cba3_Im2_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id B43BF1AA</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>-38.3365555</x>
+                <y>-10.71681</y>
+                <z>-58.02735</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-b43bf1aa_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-b43bf1aa_Im2_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-b43bf1aa_Im2_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id C33CC13C</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>-39.3548355</x>
+                <y>-13.3481359</y>
+                <z>-30.35859</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-c33cc13c_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-c33cc13c_Im2_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-c33cc13c_Im2_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 5383DCAD</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>25.3549442</x>
+                <y>-3.82104421</y>
+                <z>-61.80218</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-5383dcad_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-5383dcad_Im2_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-5383dcad_Im2_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 2484EC3B</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>35.9575</x>
+                <y>-3.8594203</y>
+                <z>-58.3425255</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-2484ec3b_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-2484ec3b_Im2_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-2484ec3b_Im2_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id BD8DBD81</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>33.70496</x>
+                <y>1.96138752</y>
+                <z>-46.4616661</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-bd8dbd81_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-bd8dbd81_Im2_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-bd8dbd81_Im2_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id CA8A8D17</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>13.7292614</x>
+                <y>8.840619</y>
+                <z>-5.14864969</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-ca8a8d17_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-ca8a8d17_Im2_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-ca8a8d17_Im2_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 54EE18B4</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>13.6222486</x>
+                <y>8.84062</y>
+                <z>12.1871958</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-54ee18b4_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-54ee18b4_Im2_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-54ee18b4_Im2_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 23E92822</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>-30.3548374</x>
+                <y>8.57957</y>
+                <z>-46.8642044</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-23e92822_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-23e92822_Im2_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-23e92822_Im2_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id BAE07998</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>21.8621464</x>
+                <y>11.7535257</y>
+                <z>-37.25207</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-bae07998_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-bae07998_Im2_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-bae07998_Im2_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id CDE7490E</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>21.541111</x>
+                <y>11.7535276</y>
+                <z>-22.59155</z>
+              </pos>
+              <up>
+                <x>2.25959511E-07</x>
+                <y>-5.81363757E-08</y>
+                <z>-1</z>
+              </up>
+              <dir>
+                <x>-2.07269935E-08</x>
+                <y>1</y>
+                <z>-5.813638E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-cde7490e_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-cde7490e_Im2_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_D-cde7490e_Im2_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id 751AABD2</name>
+              <parentName>STUB! id 03C9B4B1</parentName>
+              <pos>
+                <x>-0.205204323</x>
+                <y>5.42008924</y>
+                <z>64.14206</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>3.3075338E-07</y>
+                <z>-1.23499262E-07</z>
+              </up>
+              <dir>
+                <x>3.307534E-07</x>
+                <y>1</y>
+                <z>-1.80712178E-07</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_door_Im0_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_door_Im0_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_door_Im0_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_door_Im1_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>1</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_door_Im1_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>1</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_door_Im1_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>1</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_door_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_door_Im2_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>gravang_sm_Bunker_door_Im2_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+          </children>
+          <slots />
+        </FPONode>
+      </children>
+      <slots>
+        <FPOSlot>
+          <slotId>0</slotId>
+          <name>2556813412</name>
+          <pos>
+            <x>-0.3416722</x>
+            <y>8.648534</y>
+            <z>129.026138</z>
+          </pos>
+          <up>
+            <x>-4.03079838E-07</x>
+            <y>1</y>
+            <z>3.82844974E-07</z>
+          </up>
+          <dir>
+            <x>1.25940929E-07</x>
+            <y>-3.82844917E-07</y>
+            <z>1</z>
+          </dir>
+          <flags>7078005</flags>
+        </FPOSlot>
+        <FPOSlot>
+          <slotId>1</slotId>
+          <name>2475262413</name>
+          <pos>
+            <x>-1.14327884</x>
+            <y>8.648825</y>
+            <z>-48.9361572</z>
+          </pos>
+          <up>
+            <x>-3.784127E-07</x>
+            <y>1</y>
+            <z>3.54793372E-07</z>
+          </up>
+          <dir>
+            <x>1.0442583E-07</x>
+            <y>-3.54793343E-07</y>
+            <z>1</z>
+          </dir>
+          <flags>77</flags>
+        </FPOSlot>
+      </slots>
+    </FPONode>
+  </children>
+  <slots />
+</FPONode>

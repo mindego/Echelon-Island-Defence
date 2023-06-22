@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<FPONode xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <flags>0</flags>
+  <name>root</name>
+  <pos>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </pos>
+  <up>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </up>
+  <dir>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </dir>
+  <meshes />
+  <children>
+    <FPONode>
+      <flags>0</flags>
+      <name>STUB! id 64757FF0</name>
+      <parentName>root</parentName>
+      <pos>
+        <x>5.402108</x>
+        <y>0.06128013</y>
+        <z>3.131689</z>
+      </pos>
+      <up>
+        <x>1.1920929E-07</x>
+        <y>-1.1920929E-07</y>
+        <z>1</z>
+      </up>
+      <dir>
+        <x>1</x>
+        <y>-2.980232E-08</y>
+        <z>-1.1920929E-07</z>
+      </dir>
+      <meshes>
+        <FPOmesh>
+          <meshName>korobka1_Im0_Ld0</meshName>
+          <lod>0</lod>
+          <variant>0</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <lod>1</lod>
+          <variant>0</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <lod>2</lod>
+          <variant>0</variant>
+        </FPOmesh>
+      </meshes>
+      <children>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id E73440A0</name>
+          <parentName>STUB! id 64757FF0</parentName>
+          <pos>
+            <x>0.0246191435</x>
+            <y>7.79018068</y>
+            <z>-3.111943</z>
+          </pos>
+          <up>
+            <x>1</x>
+            <y>-2.63093341E-07</y>
+            <z>-7.019829E-08</z>
+          </up>
+          <dir>
+            <x>2.48381184E-07</x>
+            <y>0.77568537</y>
+            <z>0.6311198</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>korobka1_glass_Im0_Ld0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+      </children>
+      <slots />
+    </FPONode>
+  </children>
+  <slots />
+</FPONode>

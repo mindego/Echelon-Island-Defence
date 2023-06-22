@@ -1,0 +1,4139 @@
+<?xml version="1.0"?>
+<FPONode xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <flags>0</flags>
+  <name>root</name>
+  <pos>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </pos>
+  <up>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </up>
+  <dir>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </dir>
+  <meshes />
+  <children>
+    <FPONode>
+      <flags>0</flags>
+      <name>STUB! id FF5F5C6C</name>
+      <parentName>root</parentName>
+      <pos>
+        <x>0.3465671</x>
+        <y>-0.256862044</y>
+        <z>6.11857843</z>
+      </pos>
+      <up>
+        <x>-4.37114E-08</x>
+        <y>-5.96046377E-08</y>
+        <z>1</z>
+      </up>
+      <dir>
+        <x>-1.94707184E-07</x>
+        <y>1</y>
+        <z>5.960463E-08</z>
+      </dir>
+      <meshes>
+        <FPOmesh>
+          <meshName>civhomef1_Im0_Ld0</meshName>
+          <lod>0</lod>
+          <variant>0</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>civhomef1_Im0_Ld1</meshName>
+          <lod>1</lod>
+          <variant>0</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>civhomef1_Im0_Ld2</meshName>
+          <lod>2</lod>
+          <variant>0</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>civhomef1_Im2_Ld0</meshName>
+          <lod>0</lod>
+          <variant>2</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>civhomef1_Im2_Ld1</meshName>
+          <lod>1</lod>
+          <variant>2</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>civhomef1_Im2_Ld2</meshName>
+          <lod>2</lod>
+          <variant>2</variant>
+        </FPOmesh>
+      </meshes>
+      <children>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 7388F89B</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>2.8023684</x>
+            <y>2.919664</y>
+            <z>2.42861843</z>
+          </pos>
+          <up>
+            <x>-1.94707184E-07</x>
+            <y>-5.96046377E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-4.371141E-08</x>
+            <y>1</y>
+            <z>5.960463E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>civhomef1_D-7388f89b_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 048FC80D</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-0.354467928</x>
+            <y>3.19678354</y>
+            <z>-1.32667434</z>
+          </pos>
+          <up>
+            <x>-1.94707184E-07</x>
+            <y>-5.96046377E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-4.371141E-08</x>
+            <y>1</y>
+            <z>5.960463E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>civhomef1_D-048fc80d_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 9D8699B7</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>7.47746849</x>
+            <y>-0.257696658</y>
+            <z>6.23535061</z>
+          </pos>
+          <up>
+            <x>-1.94707184E-07</x>
+            <y>-5.96046377E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-4.371141E-08</x>
+            <y>1</y>
+            <z>5.960463E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>civhomef1_D-9d8699b7_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id EA81A921</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>0.108511783</x>
+            <y>3.1967833</y>
+            <z>5.4122715</z>
+          </pos>
+          <up>
+            <x>-1.94707184E-07</x>
+            <y>-5.96046377E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-4.371141E-08</x>
+            <y>1</y>
+            <z>5.960463E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>civhomef1_D-ea81a921_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 8A4620C4</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-2.74870753</x>
+            <y>3.42637968</y>
+            <z>-1.35239553</z>
+          </pos>
+          <up>
+            <x>-1.94707184E-07</x>
+            <y>-5.96046377E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-4.371141E-08</x>
+            <y>1</y>
+            <z>5.960463E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>civhomef1_D-8a4620c4_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id FD411052</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-6.51699972</x>
+            <y>1.09559894</y>
+            <z>-1.35239589</z>
+          </pos>
+          <up>
+            <x>-1.94707184E-07</x>
+            <y>-5.96046377E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-4.371141E-08</x>
+            <y>1</y>
+            <z>5.960463E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>civhomef1_D-fd411052_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 6DFE0DC3</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-6.642611</x>
+            <y>1.01790524</y>
+            <z>3.9976058</z>
+          </pos>
+          <up>
+            <x>-1.94707184E-07</x>
+            <y>-5.96046377E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-4.371141E-08</x>
+            <y>1</y>
+            <z>5.960463E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>civhomef1_D-6dfe0dc3_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 1AF93D55</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>7.353791</x>
+            <y>-0.11466042</y>
+            <z>0.0108292336</z>
+          </pos>
+          <up>
+            <x>-1.94707184E-07</x>
+            <y>-5.96046377E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-4.371141E-08</x>
+            <y>1</y>
+            <z>5.960463E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>civhomef1_D-1af93d55_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 83F06CEF</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>1.860917</x>
+            <y>-3.0251</y>
+            <z>9.200566</z>
+          </pos>
+          <up>
+            <x>-1.94707184E-07</x>
+            <y>-5.96046377E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-4.371141E-08</x>
+            <y>1</y>
+            <z>5.960463E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>civhomef1_D-83f06cef_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id F4F75C79</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-0.164255634</x>
+            <y>1.56964624</y>
+            <z>9.200565</z>
+          </pos>
+          <up>
+            <x>-1.94707184E-07</x>
+            <y>-5.96046377E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-4.371141E-08</x>
+            <y>1</y>
+            <z>5.960463E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>civhomef1_D-f4f75c79_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 6A93C9DA</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>2.75289536</x>
+            <y>2.95144939</y>
+            <z>8.267323</z>
+          </pos>
+          <up>
+            <x>-1.94707184E-07</x>
+            <y>-5.96046377E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-4.371141E-08</x>
+            <y>1</y>
+            <z>5.960463E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>civhomef1_D-6a93c9da_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 1D94F94C</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>5.149101</x>
+            <y>-3.17753267</y>
+            <z>9.200566</z>
+          </pos>
+          <up>
+            <x>-1.94707184E-07</x>
+            <y>-5.96046377E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-4.371141E-08</x>
+            <y>1</y>
+            <z>5.960463E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>civhomef1_D-1d94f94c_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 849DA8F6</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-4.959439</x>
+            <y>2.05898786</y>
+            <z>-1.275233</z>
+          </pos>
+          <up>
+            <x>-1.94707184E-07</x>
+            <y>-5.96046377E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-4.371141E-08</x>
+            <y>1</y>
+            <z>5.960463E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>civhomef1_D-849da8f6_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id F39A9860</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-7.87358475</x>
+            <y>0.256518573</y>
+            <z>-1.19807</z>
+          </pos>
+          <up>
+            <x>-1.94707184E-07</x>
+            <y>-5.96046377E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-4.371141E-08</x>
+            <y>1</y>
+            <z>5.960463E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>civhomef1_D-f39a9860_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id A16B7307</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>6.90499926</x>
+            <y>-3.2949636</y>
+            <z>7.98389626</z>
+          </pos>
+          <up>
+            <x>-1.94707184E-07</x>
+            <y>-5.96046377E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-4.371141E-08</x>
+            <y>1</y>
+            <z>5.960463E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>civhomef1_D-a16b7307_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id D66C4391</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>5.770686</x>
+            <y>1.01251364</y>
+            <z>3.74039769</z>
+          </pos>
+          <up>
+            <x>-1.94707184E-07</x>
+            <y>-5.96046377E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-4.371141E-08</x>
+            <y>1</y>
+            <z>5.960463E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>civhomef1_D-d66c4391_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 46D35E00</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>5.82015944</x>
+            <y>0.980728</y>
+            <z>-0.6579214</z>
+          </pos>
+          <up>
+            <x>-1.94707184E-07</x>
+            <y>-5.96046377E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-4.371141E-08</x>
+            <y>1</y>
+            <z>5.960463E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>civhomef1_D-46d35e00_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 31D46E96</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>2.90131354</x>
+            <y>2.85609221</y>
+            <z>-0.8379702</z>
+          </pos>
+          <up>
+            <x>-1.94707184E-07</x>
+            <y>-5.96046377E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-4.371141E-08</x>
+            <y>1</y>
+            <z>5.960463E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>civhomef1_D-31d46e96_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id A8DD3F2C</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>0.288560659</x>
+            <y>3.19678354</y>
+            <z>2.11996245</z>
+          </pos>
+          <up>
+            <x>-1.94707184E-07</x>
+            <y>-5.96046377E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-4.371141E-08</x>
+            <y>1</y>
+            <z>5.960463E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>civhomef1_D-a8dd3f2c_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id DFDA0FBA</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>2.72816</x>
+            <y>2.96734166</y>
+            <z>5.746649</z>
+          </pos>
+          <up>
+            <x>-1.94707184E-07</x>
+            <y>-5.96046377E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-4.371141E-08</x>
+            <y>1</y>
+            <z>5.960463E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>civhomef1_D-dfda0fba_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 41BE9A19</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-0.7402873</x>
+            <y>3.196783</y>
+            <z>8.215878</z>
+          </pos>
+          <up>
+            <x>-1.94707184E-07</x>
+            <y>-5.96046377E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-4.371141E-08</x>
+            <y>1</y>
+            <z>5.960463E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>civhomef1_D-41be9a19_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 36B9AA8F</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-4.080172</x>
+            <y>2.60283756</y>
+            <z>6.0553</z>
+          </pos>
+          <up>
+            <x>-1.94707184E-07</x>
+            <y>-5.96046377E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-4.371141E-08</x>
+            <y>1</y>
+            <z>5.960463E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>civhomef1_D-36b9aa8f_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id AFB0FB35</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-7.8059516</x>
+            <y>-3.294964</y>
+            <z>7.09776735</z>
+          </pos>
+          <up>
+            <x>-1.94707184E-07</x>
+            <y>-5.96046377E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-4.371141E-08</x>
+            <y>1</y>
+            <z>5.960463E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>civhomef1_D-afb0fb35_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id D8B7CBA3</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-7.64748955</x>
+            <y>0.396363854</y>
+            <z>8.550253</z>
+          </pos>
+          <up>
+            <x>-1.94707184E-07</x>
+            <y>-5.96046377E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-4.371141E-08</x>
+            <y>1</y>
+            <z>5.960463E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>civhomef1_D-d8b7cba3_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id B43BF1AA</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-5.325179</x>
+            <y>1.722078</y>
+            <z>9.200564</z>
+          </pos>
+          <up>
+            <x>-1.94707184E-07</x>
+            <y>-5.96046377E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-4.371141E-08</x>
+            <y>1</y>
+            <z>5.960463E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>civhomef1_D-b43bf1aa_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id C33CC13C</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-4.029929</x>
+            <y>2.63391376</y>
+            <z>8.44737</z>
+          </pos>
+          <up>
+            <x>-1.94707184E-07</x>
+            <y>-5.96046377E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-4.371141E-08</x>
+            <y>1</y>
+            <z>5.960463E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>civhomef1_D-c33cc13c_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 5383DCAD</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-7.87358665</x>
+            <y>0.256517321</y>
+            <z>3.97188449</z>
+          </pos>
+          <up>
+            <x>-1.94707184E-07</x>
+            <y>-5.96046377E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-4.371141E-08</x>
+            <y>1</y>
+            <z>5.960463E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>civhomef1_D-5383dcad_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 2484EC3B</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-3.97968364</x>
+            <y>2.66499257</y>
+            <z>2.222846</z>
+          </pos>
+          <up>
+            <x>-1.94707184E-07</x>
+            <y>-5.96046377E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-4.371141E-08</x>
+            <y>1</y>
+            <z>5.960463E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>civhomef1_D-2484ec3b_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id BD8DBD81</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-0.9460556</x>
+            <y>3.1967833</y>
+            <z>3.380299</z>
+          </pos>
+          <up>
+            <x>-1.94707184E-07</x>
+            <y>-5.96046377E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-4.371141E-08</x>
+            <y>1</y>
+            <z>5.960463E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>civhomef1_D-bd8dbd81_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id CA8A8D17</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>5.69647837</x>
+            <y>1.06019139</y>
+            <z>7.6500144</z>
+          </pos>
+          <up>
+            <x>-1.94707184E-07</x>
+            <y>-5.96046377E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-4.371141E-08</x>
+            <y>1</y>
+            <z>5.960463E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>civhomef1_D-ca8a8d17_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 54EE18B4</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>4.56114674</x>
+            <y>1.6349746</y>
+            <z>9.200566</z>
+          </pos>
+          <up>
+            <x>-1.94707184E-07</x>
+            <y>-5.96046377E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-4.371141E-08</x>
+            <y>1</y>
+            <z>5.960463E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>civhomef1_D-54ee18b4_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 23E92822</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>0.365722984</x>
+            <y>3.196783</y>
+            <z>8.215879</z>
+          </pos>
+          <up>
+            <x>-1.94707184E-07</x>
+            <y>-5.96046377E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-4.371141E-08</x>
+            <y>1</y>
+            <z>5.960463E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>civhomef1_D-23e92822_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id BAE07998</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-1.07884943</x>
+            <y>-3.13398051</y>
+            <z>9.200565</z>
+          </pos>
+          <up>
+            <x>-1.94707184E-07</x>
+            <y>-5.96046377E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-4.371141E-08</x>
+            <y>1</y>
+            <z>5.960463E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>civhomef1_D-bae07998_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id CDE7490E</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-5.12919474</x>
+            <y>-3.37351727</y>
+            <z>9.200564</z>
+          </pos>
+          <up>
+            <x>-1.94707184E-07</x>
+            <y>-5.96046377E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-4.371141E-08</x>
+            <y>1</y>
+            <z>5.960463E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>civhomef1_D-cde7490e_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id 02CF2161</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>0.137019858</x>
+            <y>6.52293968</y>
+            <z>-5.80532455</z>
+          </pos>
+          <up>
+            <x>-1.947072E-07</x>
+            <y>-1.19209275E-07</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-4.37114238E-08</x>
+            <y>1</y>
+            <z>1.19209268E-07</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>civhomef1_tube_Im0_Ld0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>civhomef1_tube_Im0_Ld1</meshName>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>civhomef1_tube_Im0_Ld2</meshName>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>civhomef1_tube_Im2_Ld2</meshName>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id BD8DBD81</name>
+              <parentName>STUB! id 02CF2161</parentName>
+              <pos>
+                <x>0.021367833</x>
+                <y>0.8111622</y>
+                <z>0.77434665</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_tube_D-bd8dbd81_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id CA8A8D17</name>
+              <parentName>STUB! id 02CF2161</parentName>
+              <pos>
+                <x>0.02147846</x>
+                <y>0.0142733213</y>
+                <z>0.758447051</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_tube_D-ca8a8d17_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 54EE18B4</name>
+              <parentName>STUB! id 02CF2161</parentName>
+              <pos>
+                <x>0.0157615989</x>
+                <y>-0.07439253</y>
+                <z>-1.20309031</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_tube_D-54ee18b4_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 23E92822</name>
+              <parentName>STUB! id 02CF2161</parentName>
+              <pos>
+                <x>0.0214784</x>
+                <y>-1.08144844</y>
+                <z>0.7424359</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_tube_D-23e92822_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id BAE07998</name>
+              <parentName>STUB! id 02CF2161</parentName>
+              <pos>
+                <x>0.01576148</x>
+                <y>1.72521138</y>
+                <z>-1.235955</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_tube_D-bae07998_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id CDE7490E</name>
+              <parentName>STUB! id 02CF2161</parentName>
+              <pos>
+                <x>0.0143099874</x>
+                <y>-1.80734468</y>
+                <z>-1.13731432</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_tube_D-cde7490e_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+          </children>
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id 70E79421</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>11.4320374</x>
+            <y>-3.532868</y>
+            <z>1.66296816</z>
+          </pos>
+          <up>
+            <x>-1.947072E-07</x>
+            <y>-1.19209275E-07</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-4.37114238E-08</x>
+            <y>1</y>
+            <z>1.19209268E-07</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>civhomef1_roomA_Im0_Ld0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>civhomef1_roomA_Im0_Ld1</meshName>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>civhomef1_roomA_Im0_Ld2</meshName>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>civhomef1_roomA_Im2_Ld2</meshName>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id C33CC13C</name>
+              <parentName>STUB! id 70E79421</parentName>
+              <pos>
+                <x>0.163867</x>
+                <y>4.128393</y>
+                <z>-0.0148566682</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_roomA_D-c33cc13c_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 5383DCAD</name>
+              <parentName>STUB! id 70E79421</parentName>
+              <pos>
+                <x>3.254053</x>
+                <y>-1.65213966</y>
+                <z>2.01257038</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_roomA_D-5383dcad_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 2484EC3B</name>
+              <parentName>STUB! id 70E79421</parentName>
+              <pos>
+                <x>1.10027218</x>
+                <y>-0.211754039</y>
+                <z>0.7010316</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_roomA_D-2484ec3b_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id BD8DBD81</name>
+              <parentName>STUB! id 70E79421</parentName>
+              <pos>
+                <x>-1.42484951</x>
+                <y>-2.01223588</y>
+                <z>-0.836634338</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_roomA_D-bd8dbd81_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id CA8A8D17</name>
+              <parentName>STUB! id 70E79421</parentName>
+              <pos>
+                <x>2.3875885</x>
+                <y>2.720459</y>
+                <z>1.48493934</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_roomA_D-ca8a8d17_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 54EE18B4</name>
+              <parentName>STUB! id 70E79421</parentName>
+              <pos>
+                <x>0.9517355</x>
+                <y>-2.93819761</y>
+                <z>0.610580564</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_roomA_D-54ee18b4_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 23E92822</name>
+              <parentName>STUB! id 70E79421</parentName>
+              <pos>
+                <x>-3.2567997</x>
+                <y>-2.08939934</y>
+                <z>-1.95219553</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_roomA_D-23e92822_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id BAE07998</name>
+              <parentName>STUB! id 70E79421</parentName>
+              <pos>
+                <x>-3.0092392</x>
+                <y>2.36036253</y>
+                <z>-1.80144429</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_roomA_D-bae07998_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id CDE7490E</name>
+              <parentName>STUB! id 70E79421</parentName>
+              <pos>
+                <x>-0.607897758</x>
+                <y>2.48896885</y>
+                <z>-0.339154482</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_roomA_D-cde7490e_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+          </children>
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id 8D60AE64</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-11.0162392</x>
+            <y>-3.631157</y>
+            <z>0.669695</z>
+          </pos>
+          <up>
+            <x>-1.947072E-07</x>
+            <y>-1.19209275E-07</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-4.37114238E-08</x>
+            <y>1</y>
+            <z>1.19209268E-07</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>civhomef1_room_Im0_Ld0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>civhomef1_room_Im0_Ld1</meshName>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>civhomef1_room_Im0_Ld2</meshName>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>civhomef1_room_Im2_Ld2</meshName>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id C33CC13C</name>
+              <parentName>STUB! id 8D60AE64</parentName>
+              <pos>
+                <x>-1.25187492</x>
+                <y>2.99353552</y>
+                <z>1.51354718</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_room_D-c33cc13c_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 5383DCAD</name>
+              <parentName>STUB! id 8D60AE64</parentName>
+              <pos>
+                <x>-1.0921669</x>
+                <y>-2.999497</y>
+                <z>1.42629325</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_room_D-5383dcad_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 2484EC3B</name>
+              <parentName>STUB! id 8D60AE64</parentName>
+              <pos>
+                <x>0.7710943</x>
+                <y>-2.948055</y>
+                <z>0.408324152</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_room_D-2484ec3b_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id BD8DBD81</name>
+              <parentName>STUB! id 8D60AE64</parentName>
+              <pos>
+                <x>1.12484074</x>
+                <y>4.10060644</y>
+                <z>-1.005371</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_room_D-bd8dbd81_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id CA8A8D17</name>
+              <parentName>STUB! id 8D60AE64</parentName>
+              <pos>
+                <x>-1.40118027</x>
+                <y>4.10060644</y>
+                <z>-0.06900099</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_room_D-ca8a8d17_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 54EE18B4</name>
+              <parentName>STUB! id 8D60AE64</parentName>
+              <pos>
+                <x>-1.597909</x>
+                <y>0.009879041</y>
+                <z>1.702599</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_room_D-54ee18b4_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 23E92822</name>
+              <parentName>STUB! id 8D60AE64</parentName>
+              <pos>
+                <x>2.07537746</x>
+                <y>-1.50766957</y>
+                <z>-0.304254472</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_room_D-23e92822_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id BAE07998</name>
+              <parentName>STUB! id 8D60AE64</parentName>
+              <pos>
+                <x>0.6113863</x>
+                <y>1.47598612</y>
+                <z>0.49557817</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_room_D-bae07998_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id CDE7490E</name>
+              <parentName>STUB! id 8D60AE64</parentName>
+              <pos>
+                <x>2.23508549</x>
+                <y>3.07069874</y>
+                <z>-0.3915095</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_room_D-cde7490e_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+          </children>
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id 7CE468DD</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>0.9961949</x>
+            <y>-0.7896324</y>
+            <z>-5.805322</z>
+          </pos>
+          <up>
+            <x>-1.947072E-07</x>
+            <y>-1.19209275E-07</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>-4.37114238E-08</x>
+            <y>1</y>
+            <z>1.19209268E-07</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>civhomef1_block_Im0_Ld0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>civhomef1_block_Im0_Ld1</meshName>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>civhomef1_block_Im0_Ld2</meshName>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>civhomef1_block_Im2_Ld2</meshName>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id D5AACB69</name>
+              <parentName>STUB! id 7CE468DD</parentName>
+              <pos>
+                <x>5.53743362</x>
+                <y>2.60727525</y>
+                <z>2.359279</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_block_D-d5aacb69_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id A2ADFBFF</name>
+              <parentName>STUB! id 7CE468DD</parentName>
+              <pos>
+                <x>5.69513845</x>
+                <y>1.00629</y>
+                <z>3.30467916</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_block_D-a2adfbff_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 3CC96E5C</name>
+              <parentName>STUB! id 7CE468DD</parentName>
+              <pos>
+                <x>-5.226171</x>
+                <y>1.39210749</y>
+                <z>2.4573772</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_block_D-3cc96e5c_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 4BCE5ECA</name>
+              <parentName>STUB! id 7CE468DD</parentName>
+              <pos>
+                <x>-9.904618</x>
+                <y>1.44354987</y>
+                <z>-0.439280719</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_block_D-4bce5eca_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id D2C70F70</name>
+              <parentName>STUB! id 7CE468DD</parentName>
+              <pos>
+                <x>-14.63505</x>
+                <y>1.44354951</y>
+                <z>-3.368124</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_block_D-d2c70f70_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id A5C03FE6</name>
+              <parentName>STUB! id 7CE468DD</parentName>
+              <pos>
+                <x>9.544226</x>
+                <y>2.60727549</y>
+                <z>-0.972456753</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_block_D-a5c03fe6_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 935D1185</name>
+              <parentName>STUB! id 7CE468DD</parentName>
+              <pos>
+                <x>-2.86812139</x>
+                <y>2.60727549</y>
+                <z>-0.667592347</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_block_D-935d1185_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id E45A2113</name>
+              <parentName>STUB! id 7CE468DD</parentName>
+              <pos>
+                <x>2.24925</x>
+                <y>2.60727549</y>
+                <z>-3.30249381</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_block_D-e45a2113_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 74E53C82</name>
+              <parentName>STUB! id 7CE468DD</parentName>
+              <pos>
+                <x>15.7286243</x>
+                <y>2.60727572</y>
+                <z>-3.9557755</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_block_D-74e53c82_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 03E20C14</name>
+              <parentName>STUB! id 7CE468DD</parentName>
+              <pos>
+                <x>12.8541842</x>
+                <y>2.60727549</y>
+                <z>-2.49678016</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_block_D-03e20c14_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 9AEB5DAE</name>
+              <parentName>STUB! id 7CE468DD</parentName>
+              <pos>
+                <x>5.21079254</x>
+                <y>2.60727572</y>
+                <z>0.5954191</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_block_D-9aeb5dae_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id EDEC6D38</name>
+              <parentName>STUB! id 7CE468DD</parentName>
+              <pos>
+                <x>0.812030852</x>
+                <y>2.60727525</y>
+                <z>3.97070622</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_block_D-edec6d38_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 7388F89B</name>
+              <parentName>STUB! id 7CE468DD</parentName>
+              <pos>
+                <x>15.27825</x>
+                <y>1.59787643</y>
+                <z>-2.82945824</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_block_D-7388f89b_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 048FC80D</name>
+              <parentName>STUB! id 7CE468DD</parentName>
+              <pos>
+                <x>8.281215</x>
+                <y>2.60727549</y>
+                <z>-2.54033232</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_block_D-048fc80d_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 9D8699B7</name>
+              <parentName>STUB! id 7CE468DD</parentName>
+              <pos>
+                <x>9.914418</x>
+                <y>2.60727572</y>
+                <z>-4.50017643</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_block_D-9d8699b7_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id EA81A921</name>
+              <parentName>STUB! id 7CE468DD</parentName>
+              <pos>
+                <x>-13.7343683</x>
+                <y>2.60727549</y>
+                <z>-3.12828565</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_block_D-ea81a921_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 8A4620C4</name>
+              <parentName>STUB! id 7CE468DD</parentName>
+              <pos>
+                <x>-4.15290833</x>
+                <y>2.60727525</y>
+                <z>2.22862267</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_block_D-8a4620c4_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id FD411052</name>
+              <parentName>STUB! id 7CE468DD</parentName>
+              <pos>
+                <x>-8.050821</x>
+                <y>2.60727549</y>
+                <z>-0.7764724</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_block_D-fd411052_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 6DFE0DC3</name>
+              <parentName>STUB! id 7CE468DD</parentName>
+              <pos>
+                <x>-1.69134319</x>
+                <y>1.39210689</y>
+                <z>4.645964</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_block_D-6dfe0dc3_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 1AF93D55</name>
+              <parentName>STUB! id 7CE468DD</parentName>
+              <pos>
+                <x>-7.39754</x>
+                <y>2.60727549</y>
+                <z>-2.6274364</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_block_D-1af93d55_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 83F06CEF</name>
+              <parentName>STUB! id 7CE468DD</parentName>
+              <pos>
+                <x>11.2637043</x>
+                <y>1.80364573</y>
+                <z>-0.259752</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_block_D-83f06cef_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id F4F75C79</name>
+              <parentName>STUB! id 7CE468DD</parentName>
+              <pos>
+                <x>0.812030852</x>
+                <y>2.60727525</y>
+                <z>1.18337226</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_block_D-f4f75c79_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 6A93C9DA</name>
+              <parentName>STUB! id 7CE468DD</parentName>
+              <pos>
+                <x>-4.15290833</x>
+                <y>-2.54653835</y>
+                <z>2.228623</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_block_D-6a93c9da_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 1D94F94C</name>
+              <parentName>STUB! id 7CE468DD</parentName>
+              <pos>
+                <x>-1.74332559</x>
+                <y>-1.48866379</y>
+                <z>4.61377954</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_block_D-1d94f94c_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 849DA8F6</name>
+              <parentName>STUB! id 7CE468DD</parentName>
+              <pos>
+                <x>-8.05082</x>
+                <y>-2.546538</y>
+                <z>-0.776472032</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_block_D-849da8f6_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id F39A9860</name>
+              <parentName>STUB! id 7CE468DD</parentName>
+              <pos>
+                <x>5.21079254</x>
+                <y>-2.546538</y>
+                <z>0.595419</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_block_D-f39a9860_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id A16B7307</name>
+              <parentName>STUB! id 7CE468DD</parentName>
+              <pos>
+                <x>15.7286224</x>
+                <y>-2.54653788</y>
+                <z>-3.955775</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_block_D-a16b7307_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id D66C4391</name>
+              <parentName>STUB! id 7CE468DD</parentName>
+              <pos>
+                <x>2.24925</x>
+                <y>-2.546538</y>
+                <z>-3.30249357</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_block_D-d66c4391_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 46D35E00</name>
+              <parentName>STUB! id 7CE468DD</parentName>
+              <pos>
+                <x>0.812030852</x>
+                <y>-2.54653835</y>
+                <z>3.97070646</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_block_D-46d35e00_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 31D46E96</name>
+              <parentName>STUB! id 7CE468DD</parentName>
+              <pos>
+                <x>8.281216</x>
+                <y>-2.546538</y>
+                <z>-2.540332</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_block_D-31d46e96_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id A8DD3F2C</name>
+              <parentName>STUB! id 7CE468DD</parentName>
+              <pos>
+                <x>-13.7343683</x>
+                <y>-2.546538</y>
+                <z>-3.12828517</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_block_D-a8dd3f2c_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id DFDA0FBA</name>
+              <parentName>STUB! id 7CE468DD</parentName>
+              <pos>
+                <x>-2.86812139</x>
+                <y>-2.546538</y>
+                <z>-0.667592</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_block_D-dfda0fba_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 41BE9A19</name>
+              <parentName>STUB! id 7CE468DD</parentName>
+              <pos>
+                <x>-7.397539</x>
+                <y>-2.546538</y>
+                <z>-2.627436</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_block_D-41be9a19_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 36B9AA8F</name>
+              <parentName>STUB! id 7CE468DD</parentName>
+              <pos>
+                <x>12.8541842</x>
+                <y>-2.546538</y>
+                <z>-2.49678</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_block_D-36b9aa8f_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id AFB0FB35</name>
+              <parentName>STUB! id 7CE468DD</parentName>
+              <pos>
+                <x>5.53743362</x>
+                <y>-2.54653835</y>
+                <z>2.35927916</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_block_D-afb0fb35_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id D8B7CBA3</name>
+              <parentName>STUB! id 7CE468DD</parentName>
+              <pos>
+                <x>9.914418</x>
+                <y>-2.54653788</y>
+                <z>-4.50017643</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_block_D-d8b7cba3_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id B43BF1AA</name>
+              <parentName>STUB! id 7CE468DD</parentName>
+              <pos>
+                <x>9.544226</x>
+                <y>-2.546538</y>
+                <z>-0.9724564</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_block_D-b43bf1aa_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id C33CC13C</name>
+              <parentName>STUB! id 7CE468DD</parentName>
+              <pos>
+                <x>0.812030852</x>
+                <y>-2.54653835</y>
+                <z>1.1833725</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_block_D-c33cc13c_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 5383DCAD</name>
+              <parentName>STUB! id 7CE468DD</parentName>
+              <pos>
+                <x>8.155666</x>
+                <y>-1.2057308</y>
+                <z>1.66365623</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_block_D-5383dcad_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 2484EC3B</name>
+              <parentName>STUB! id 7CE468DD</parentName>
+              <pos>
+                <x>-14.8689718</x>
+                <y>-1.48866379</y>
+                <z>-3.51295662</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_block_D-2484ec3b_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id BD8DBD81</name>
+              <parentName>STUB! id 7CE468DD</parentName>
+              <pos>
+                <x>-9.826645</x>
+                <y>-1.38577914</y>
+                <z>-0.391002685</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_block_D-bd8dbd81_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id CA8A8D17</name>
+              <parentName>STUB! id 7CE468DD</parentName>
+              <pos>
+                <x>-5.252163</x>
+                <y>-1.36005783</y>
+                <z>2.44128466</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_block_D-ca8a8d17_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 54EE18B4</name>
+              <parentName>STUB! id 7CE468DD</parentName>
+              <pos>
+                <x>15.0451479</x>
+                <y>-1.36005747</y>
+                <z>-2.704844</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_block_D-54ee18b4_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 23E92822</name>
+              <parentName>STUB! id 7CE468DD</parentName>
+              <pos>
+                <x>13.7760324</x>
+                <y>-0.8713557</y>
+                <z>-2.11215377</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_block_D-23e92822_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id BAE07998</name>
+              <parentName>STUB! id 7CE468DD</parentName>
+              <pos>
+                <x>11.3673048</x>
+                <y>-0.922798455</y>
+                <z>-0.32606703</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_block_D-bae07998_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id CDE7490E</name>
+              <parentName>STUB! id 7CE468DD</parentName>
+              <pos>
+                <x>4.633226</x>
+                <y>-1.51438534</y>
+                <z>3.984408</z>
+              </pos>
+              <up>
+                <x>1.93814183E-14</x>
+                <y>1</y>
+                <z>-5.96046341E-08</z>
+              </up>
+              <dir>
+                <x>1.08000063E-14</x>
+                <y>5.96046341E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>civhomef1_block_D-cde7490e_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+          </children>
+          <slots />
+        </FPONode>
+      </children>
+      <slots />
+    </FPONode>
+  </children>
+  <slots />
+</FPONode>

@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<FPONode xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <flags>0</flags>
+  <name>root</name>
+  <pos>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </pos>
+  <up>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </up>
+  <dir>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </dir>
+  <meshes />
+  <children>
+    <FPONode>
+      <flags>0</flags>
+      <name>STUB! id FF5F5C6C</name>
+      <parentName>root</parentName>
+      <pos>
+        <x>9.100045E-05</x>
+        <y>-1.10407722</y>
+        <z>-0.949278235</z>
+      </pos>
+      <up>
+        <x>1.19371961E-07</x>
+        <y>-1.19209282E-07</y>
+        <z>1</z>
+      </up>
+      <dir>
+        <x>-3.46201823E-08</x>
+        <y>1</y>
+        <z>1.1920929E-07</z>
+      </dir>
+      <meshes>
+        <FPOmesh>
+          <meshName>hw_tpd_Img0_Lod0</meshName>
+          <lod>0</lod>
+          <variant>0</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>hw_tpd_Img0_Lod1</meshName>
+          <lod>1</lod>
+          <variant>0</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>hw_tpd_Img0_Lod2</meshName>
+          <lod>2</lod>
+          <variant>0</variant>
+        </FPOmesh>
+      </meshes>
+      <children>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id F9BBA1A4</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-3.42092576E-08</x>
+            <y>-0.0433698557</y>
+            <z>1.81085134</z>
+          </pos>
+          <up>
+            <x>4.59497983E-07</x>
+            <y>1</y>
+            <z>3.41119318E-07</z>
+          </up>
+          <dir>
+            <x>6.734157E-09</x>
+            <y>-3.41119318E-07</y>
+            <z>1</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>hw_tpd_TORPEDO_Img0_Lod0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>hw_tpd_TORPEDO_Img0_Lod1</meshName>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>hw_tpd_TORPEDO_Img0_Lod2</meshName>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+      </children>
+      <slots />
+    </FPONode>
+  </children>
+  <slots />
+</FPONode>

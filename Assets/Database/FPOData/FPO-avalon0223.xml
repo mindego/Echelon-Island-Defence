@@ -1,0 +1,1367 @@
+<?xml version="1.0"?>
+<FPONode xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <flags>0</flags>
+  <name>root</name>
+  <pos>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </pos>
+  <up>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </up>
+  <dir>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </dir>
+  <meshes />
+  <children>
+    <FPONode>
+      <flags>0</flags>
+      <name>STUB! id 19FBFBB0</name>
+      <parentName>root</parentName>
+      <pos>
+        <x>140244.813</x>
+        <y>-349803.7</y>
+        <z>323.2435</z>
+      </pos>
+      <up>
+        <x>-4.37113918E-08</x>
+        <y>5.960465E-08</y>
+        <z>1</z>
+      </up>
+      <dir>
+        <x>-4.371139E-08</x>
+        <y>-1</y>
+        <z>5.960465E-08</z>
+      </dir>
+      <meshes />
+      <children>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id AB529584</name>
+          <parentName>STUB! id 19FBFBB0</parentName>
+          <pos>
+            <x>-663.0472</x>
+            <y>-191.543427</y>
+            <z>590.4314</z>
+          </pos>
+          <up>
+            <x>-4.371139E-08</x>
+            <y>5.960465E-08</y>
+            <z>-1</z>
+          </up>
+          <dir>
+            <x>4.371139E-08</x>
+            <y>1</y>
+            <z>5.960465E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>avalon0223_housed968_Im0_Ld0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+          </meshes>
+          <children>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id 259B7D4D</name>
+              <parentName>STUB! id AB529584</parentName>
+              <pos>
+                <x>0.9375</x>
+                <y>-2.6875</y>
+                <z>-2.12210083</z>
+              </pos>
+              <up>
+                <x>1.04216079E-14</x>
+                <y>1</y>
+                <z>-3.28405622E-15</z>
+              </up>
+              <dir>
+                <x>-8.47032947E-22</x>
+                <y>3.28405622E-15</y>
+                <z>1</z>
+              </dir>
+              <meshes />
+              <children />
+              <slots />
+            </FPONode>
+          </children>
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id 610A61BD</name>
+          <parentName>STUB! id 19FBFBB0</parentName>
+          <pos>
+            <x>959.5309</x>
+            <y>0.675157964</y>
+            <z>-1044.0686</z>
+          </pos>
+          <up>
+            <x>-4.371139E-08</x>
+            <y>5.960465E-08</y>
+            <z>-1</z>
+          </up>
+          <dir>
+            <x>4.371139E-08</x>
+            <y>1</y>
+            <z>5.960465E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>avalon0223_housee265_Im0_Ld0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id 0566A4B9</name>
+          <parentName>STUB! id 19FBFBB0</parentName>
+          <pos>
+            <x>947.515259</x>
+            <y>-10.4498444</y>
+            <z>-477.193665</z>
+          </pos>
+          <up>
+            <x>-4.371139E-08</x>
+            <y>5.960465E-08</y>
+            <z>-1</z>
+          </up>
+          <dir>
+            <x>4.371139E-08</x>
+            <y>1</y>
+            <z>5.960465E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>avalon0223_housee225_Im0_Ld0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id 020B60A0</name>
+          <parentName>STUB! id 19FBFBB0</parentName>
+          <pos>
+            <x>931.390259</x>
+            <y>-143.762329</y>
+            <z>-269.693665</z>
+          </pos>
+          <up>
+            <x>-4.371139E-08</x>
+            <y>5.960465E-08</y>
+            <z>-1</z>
+          </up>
+          <dir>
+            <x>4.371139E-08</x>
+            <y>1</y>
+            <z>5.960465E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>avalon0223_housee221_Im0_Ld0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id C0459656</name>
+          <parentName>STUB! id 19FBFBB0</parentName>
+          <pos>
+            <x>931.3278</x>
+            <y>-193.262329</y>
+            <z>-83.6624146</z>
+          </pos>
+          <up>
+            <x>-4.371139E-08</x>
+            <y>5.960465E-08</y>
+            <z>-1</z>
+          </up>
+          <dir>
+            <x>4.371139E-08</x>
+            <y>1</y>
+            <z>5.960465E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>avalon0223_housee217_Im0_Ld0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id C728524F</name>
+          <parentName>STUB! id 19FBFBB0</parentName>
+          <pos>
+            <x>874.2028</x>
+            <y>-237.699814</y>
+            <z>107.368835</z>
+          </pos>
+          <up>
+            <x>0.469471455</x>
+            <y>8.601037E-09</y>
+            <z>-0.8829476</z>
+          </up>
+          <dir>
+            <x>2.92942133E-08</x>
+            <y>0.99999994</y>
+            <z>2.531728E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>avalon0223_housee213_Im0_Ld0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id 3EE68A10</name>
+          <parentName>STUB! id 19FBFBB0</parentName>
+          <pos>
+            <x>799.9216</x>
+            <y>-161.949829</y>
+            <z>305.2751</z>
+          </pos>
+          <up>
+            <x>-4.371139E-08</x>
+            <y>5.960465E-08</y>
+            <z>-1</z>
+          </up>
+          <dir>
+            <x>4.371139E-08</x>
+            <y>1</y>
+            <z>5.960465E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>avalon0223_housee209_Im0_Ld0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id 1B63E69A</name>
+          <parentName>STUB! id 19FBFBB0</parentName>
+          <pos>
+            <x>162.74971</x>
+            <y>-237.699692</y>
+            <z>1042.8064</z>
+          </pos>
+          <up>
+            <x>-4.371139E-08</x>
+            <y>5.960465E-08</y>
+            <z>-1</z>
+          </up>
+          <dir>
+            <x>4.371139E-08</x>
+            <y>1</y>
+            <z>5.960465E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>avalon0223_housee95_Im0_Ld0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id 3750C63B</name>
+          <parentName>STUB! id 19FBFBB0</parentName>
+          <pos>
+            <x>799.218445</x>
+            <y>-114.48101</y>
+            <z>514.556335</z>
+          </pos>
+          <up>
+            <x>-4.371139E-08</x>
+            <y>5.960465E-08</y>
+            <z>-1</z>
+          </up>
+          <dir>
+            <x>4.371139E-08</x>
+            <y>1</y>
+            <z>5.960465E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>avalon0223_housee205_Im0_Ld0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id 303D0222</name>
+          <parentName>STUB! id 19FBFBB0</parentName>
+          <pos>
+            <x>873.3747</x>
+            <y>-178.106018</y>
+            <z>724.806335</z>
+          </pos>
+          <up>
+            <x>-0.669130564</x>
+            <y>-7.65238752E-08</y>
+            <z>-0.74314487</z>
+          </up>
+          <dir>
+            <x>3.316762E-08</x>
+            <y>1</y>
+            <z>-1.32837286E-07</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>avalon0223_housee201_Im0_Ld0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id E4D4C32B</name>
+          <parentName>STUB! id 19FBFBB0</parentName>
+          <pos>
+            <x>865.155945</x>
+            <y>-97.16857</y>
+            <z>996.306335</z>
+          </pos>
+          <up>
+            <x>-4.371139E-08</x>
+            <y>5.960465E-08</y>
+            <z>-1</z>
+          </up>
+          <dir>
+            <x>4.371139E-08</x>
+            <y>1</y>
+            <z>5.960465E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>avalon0223_housee195_Im0_Ld0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id E3B90732</name>
+          <parentName>STUB! id 19FBFBB0</parentName>
+          <pos>
+            <x>691.7809</x>
+            <y>-278.606049</y>
+            <z>-621.631165</z>
+          </pos>
+          <up>
+            <x>0.34202</x>
+            <y>-1.15895425E-07</y>
+            <z>-0.9396927</z>
+          </up>
+          <dir>
+            <x>5.61334623E-08</x>
+            <y>1</y>
+            <z>-1.02902426E-07</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>avalon0223_housee191_Im0_Ld0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id 13C19346</name>
+          <parentName>STUB! id 19FBFBB0</parentName>
+          <pos>
+            <x>608.9684</x>
+            <y>-278.606018</y>
+            <z>-394.068665</z>
+          </pos>
+          <up>
+            <x>0.382683456</x>
+            <y>5.443817E-09</y>
+            <z>-0.9238795</z>
+          </up>
+          <dir>
+            <x>-1.17460908E-09</x>
+            <y>0.99999994</y>
+            <z>5.405806E-09</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>avalon0223_housee187_Im0_Ld0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id 14AC575F</name>
+          <parentName>STUB! id 19FBFBB0</parentName>
+          <pos>
+            <x>567.374634</x>
+            <y>-278.606049</y>
+            <z>-174.5374</z>
+          </pos>
+          <up>
+            <x>-4.371139E-08</x>
+            <y>5.960465E-08</y>
+            <z>-1</z>
+          </up>
+          <dir>
+            <x>4.371139E-08</x>
+            <y>1</y>
+            <z>5.960465E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>avalon0223_housee183_Im0_Ld0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id 73E1A28E</name>
+          <parentName>STUB! id 19FBFBB0</parentName>
+          <pos>
+            <x>630.8122</x>
+            <y>-237.699783</y>
+            <z>67.5876</z>
+          </pos>
+          <up>
+            <x>-0.5372996</x>
+            <y>5.01021979E-08</y>
+            <z>-0.843391538</z>
+          </up>
+          <dir>
+            <x>2.63032653E-08</x>
+            <y>1.00000012</y>
+            <z>4.26486E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>avalon0223_housee179_Im0_Ld0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id 7A57EEA5</name>
+          <parentName>STUB! id 19FBFBB0</parentName>
+          <pos>
+            <x>618.4372</x>
+            <y>-237.699768</y>
+            <z>309.743835</z>
+          </pos>
+          <up>
+            <x>0.580702841</x>
+            <y>-1.51182213E-08</y>
+            <z>-0.8141155</z>
+          </up>
+          <dir>
+            <x>7.25964E-08</x>
+            <y>0.9999999</y>
+            <z>3.3212384E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>avalon0223_housee175_Im0_Ld0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id 7D3A2ABC</name>
+          <parentName>STUB! id 19FBFBB0</parentName>
+          <pos>
+            <x>567.3747</x>
+            <y>-278.606079</y>
+            <z>551.9001</z>
+          </pos>
+          <up>
+            <x>-4.371139E-08</x>
+            <y>5.960465E-08</y>
+            <z>-1</z>
+          </up>
+          <dir>
+            <x>4.371139E-08</x>
+            <y>1</y>
+            <z>5.960465E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>avalon0223_housee171_Im0_Ld0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id 8D42BEC8</name>
+          <parentName>STUB! id 19FBFBB0</parentName>
+          <pos>
+            <x>567.3747</x>
+            <y>-278.606018</y>
+            <z>794.0251</z>
+          </pos>
+          <up>
+            <x>-4.371139E-08</x>
+            <y>5.960465E-08</y>
+            <z>-1</z>
+          </up>
+          <dir>
+            <x>4.371139E-08</x>
+            <y>1</y>
+            <z>5.960465E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>avalon0223_housee167_Im0_Ld0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id 8A2F7AD1</name>
+          <parentName>STUB! id 19FBFBB0</parentName>
+          <pos>
+            <x>527.374634</x>
+            <y>-278.606079</y>
+            <z>-681.4749</z>
+          </pos>
+          <up>
+            <x>0.317304641</x>
+            <y>-9.816105E-08</y>
+            <z>-0.948323667</z>
+          </up>
+          <dir>
+            <x>4.5948628E-08</x>
+            <y>1</y>
+            <z>-8.813588E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>avalon0223_housee163_Im0_Ld0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id 41D7C00C</name>
+          <parentName>STUB! id 19FBFBB0</parentName>
+          <pos>
+            <x>444.5465</x>
+            <y>-278.606018</y>
+            <z>-453.912384</z>
+          </pos>
+          <up>
+            <x>0.32556814</x>
+            <y>-8.14783263E-08</y>
+            <z>-0.945518553</z>
+          </up>
+          <dir>
+            <x>4.47034836E-08</x>
+            <y>0.99999994</y>
+            <z>-7.07805157E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>avalon0223_housee159_Im0_Ld0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id 48618C27</name>
+          <parentName>STUB! id 19FBFBB0</parentName>
+          <pos>
+            <x>381.8434</x>
+            <y>-278.606079</y>
+            <z>-174.5374</z>
+          </pos>
+          <up>
+            <x>-4.371139E-08</x>
+            <y>5.960465E-08</y>
+            <z>-1</z>
+          </up>
+          <dir>
+            <x>4.371139E-08</x>
+            <y>1</y>
+            <z>5.960465E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>avalon0223_housee155_Im0_Ld0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id 4F0C483E</name>
+          <parentName>STUB! id 19FBFBB0</parentName>
+          <pos>
+            <x>332.359039</x>
+            <y>-237.699753</y>
+            <z>67.58761</z>
+          </pos>
+          <up>
+            <x>0.507538259</x>
+            <y>-9.00312855E-08</y>
+            <z>-0.8616292</z>
+          </up>
+          <dir>
+            <x>3.56280623E-08</x>
+            <y>0.99999994</y>
+            <z>-8.350306E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>avalon0223_housee151_Im0_Ld0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id BF74DC4A</name>
+          <parentName>STUB! id 19FBFBB0</parentName>
+          <pos>
+            <x>-0.312860548</x>
+            <y>-270.012268</y>
+            <z>-646.849854</z>
+          </pos>
+          <up>
+            <x>-4.371139E-08</x>
+            <y>5.960465E-08</y>
+            <z>-1</z>
+          </up>
+          <dir>
+            <x>4.371139E-08</x>
+            <y>1</y>
+            <z>5.960465E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>avalon0223_housee147_Im0_Ld0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id B8191853</name>
+          <parentName>STUB! id 19FBFBB0</parentName>
+          <pos>
+            <x>-0.312848181</x>
+            <y>-237.699753</y>
+            <z>-396.631134</z>
+          </pos>
+          <up>
+            <x>-4.371139E-08</x>
+            <y>5.960465E-08</y>
+            <z>-1</z>
+          </up>
+          <dir>
+            <x>4.371139E-08</x>
+            <y>1</y>
+            <z>5.960465E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>avalon0223_housee143_Im0_Ld0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id 178D678A</name>
+          <parentName>STUB! id 19FBFBB0</parentName>
+          <pos>
+            <x>-0.312843025</x>
+            <y>-270.012268</y>
+            <z>-246.318634</z>
+          </pos>
+          <up>
+            <x>-0.07845913</x>
+            <y>-7.587523E-08</y>
+            <z>-0.9969173</z>
+          </up>
+          <dir>
+            <x>4.470348E-08</x>
+            <y>0.99999994</y>
+            <z>-7.962809E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>avalon0223_housee139_Im0_Ld0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id 1E3B2BA1</name>
+          <parentName>STUB! id 19FBFBB0</parentName>
+          <pos>
+            <x>-0.312834024</x>
+            <y>-270.012238</y>
+            <z>-40.3498764</z>
+          </pos>
+          <up>
+            <x>-4.371139E-08</x>
+            <y>5.960465E-08</y>
+            <z>-1</z>
+          </up>
+          <dir>
+            <x>4.371139E-08</x>
+            <y>1</y>
+            <z>5.960465E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>avalon0223_housee135_Im0_Ld0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id 1956EFB8</name>
+          <parentName>STUB! id 19FBFBB0</parentName>
+          <pos>
+            <x>63.7965469</x>
+            <y>-237.699738</y>
+            <z>104.118874</z>
+          </pos>
+          <up>
+            <x>-4.371139E-08</x>
+            <y>5.960465E-08</y>
+            <z>-1</z>
+          </up>
+          <dir>
+            <x>4.371139E-08</x>
+            <y>1</y>
+            <z>5.960465E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>avalon0223_housee131_Im0_Ld0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id E92E7BCC</name>
+          <parentName>STUB! id 19FBFBB0</parentName>
+          <pos>
+            <x>162.74968</x>
+            <y>-237.699768</y>
+            <z>291.837616</z>
+          </pos>
+          <up>
+            <x>-4.371139E-08</x>
+            <y>5.960465E-08</y>
+            <z>-1</z>
+          </up>
+          <dir>
+            <x>4.371139E-08</x>
+            <y>1</y>
+            <z>5.960465E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>avalon0223_housee127_Im0_Ld0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id EE43BFD5</name>
+          <parentName>STUB! id 19FBFBB0</parentName>
+          <pos>
+            <x>338.54657</x>
+            <y>-237.699753</y>
+            <z>309.743866</z>
+          </pos>
+          <up>
+            <x>-0.5000001</x>
+            <y>4.777304E-08</y>
+            <z>-0.8660254</z>
+          </up>
+          <dir>
+            <x>6.871272E-08</x>
+            <y>1.00000012</y>
+            <z>1.54922386E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>avalon0223_housee123_Im0_Ld0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id 25BB0508</name>
+          <parentName>STUB! id 19FBFBB0</parentName>
+          <pos>
+            <x>392.405945</x>
+            <y>-278.606079</y>
+            <z>551.9001</z>
+          </pos>
+          <up>
+            <x>-4.371139E-08</x>
+            <y>5.960465E-08</y>
+            <z>-1</z>
+          </up>
+          <dir>
+            <x>4.371139E-08</x>
+            <y>1</y>
+            <z>5.960465E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>avalon0223_housee119_Im0_Ld0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id 2C0D4923</name>
+          <parentName>STUB! id 19FBFBB0</parentName>
+          <pos>
+            <x>392.405945</x>
+            <y>-278.606018</y>
+            <z>794.0251</z>
+          </pos>
+          <up>
+            <x>-4.371139E-08</x>
+            <y>5.960465E-08</y>
+            <z>-1</z>
+          </up>
+          <dir>
+            <x>4.371139E-08</x>
+            <y>1</y>
+            <z>5.960465E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>avalon0223_housee115_Im0_Ld0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id 2B608D3A</name>
+          <parentName>STUB! id 19FBFBB0</parentName>
+          <pos>
+            <x>392.405975</x>
+            <y>-278.606079</y>
+            <z>1036.1814</z>
+          </pos>
+          <up>
+            <x>-4.371139E-08</x>
+            <y>5.960465E-08</y>
+            <z>-1</z>
+          </up>
+          <dir>
+            <x>4.371139E-08</x>
+            <y>1</y>
+            <z>5.960465E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>avalon0223_housee111_Im0_Ld0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id DB18194E</name>
+          <parentName>STUB! id 19FBFBB0</parentName>
+          <pos>
+            <x>131.827835</x>
+            <y>-237.699753</y>
+            <z>832.525146</z>
+          </pos>
+          <up>
+            <x>0.8703556</x>
+            <y>2.20527827E-08</y>
+            <z>-0.4924237</z>
+          </up>
+          <dir>
+            <x>-1.02289206E-07</x>
+            <y>1</y>
+            <z>-1.36011323E-07</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>avalon0223_housee107_Im0_Ld0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id DC75DD57</name>
+          <parentName>STUB! id 19FBFBB0</parentName>
+          <pos>
+            <x>-0.3128017</x>
+            <y>-237.699783</y>
+            <z>667.337646</z>
+          </pos>
+          <up>
+            <x>-0.522498548</x>
+            <y>7.895764E-08</y>
+            <z>-0.8526402</z>
+          </up>
+          <dir>
+            <x>6.676499E-08</x>
+            <y>1.00000012</y>
+            <z>5.16900762E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>avalon0223_housee103_Im0_Ld0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id 12D5AAB1</name>
+          <parentName>STUB! id 19FBFBB0</parentName>
+          <pos>
+            <x>-106.93779</x>
+            <y>-237.699692</y>
+            <z>909.150146</z>
+          </pos>
+          <up>
+            <x>0.8241262</x>
+            <y>1.68802252E-08</y>
+            <z>-0.5664063</z>
+          </up>
+          <dir>
+            <x>-1.46394218E-15</x>
+            <y>1.00000012</y>
+            <z>2.98023259E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>avalon0223_housee99_Im0_Ld0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+      </children>
+      <slots />
+    </FPONode>
+  </children>
+  <slots />
+</FPONode>

@@ -1,0 +1,600 @@
+<?xml version="1.0"?>
+<FPONode xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <flags>0</flags>
+  <name>root</name>
+  <pos>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </pos>
+  <up>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </up>
+  <dir>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </dir>
+  <meshes />
+  <children>
+    <FPONode>
+      <flags>0</flags>
+      <name>STUB! id FF5F5C6C</name>
+      <parentName>root</parentName>
+      <pos>
+        <x>-11.7321672</x>
+        <y>3.52463865</y>
+        <z>6.6931076</z>
+      </pos>
+      <up>
+        <x>1.2047316E-07</x>
+        <y>-0.0104719251</y>
+        <z>0.999945164</z>
+      </up>
+      <dir>
+        <x>1</x>
+        <y>1.19207463E-07</y>
+        <z>-1.19231359E-07</z>
+      </dir>
+      <meshes>
+        <FPOmesh>
+          <meshName>tube1m_Im0_Ld0</meshName>
+          <lod>0</lod>
+          <variant>0</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>tube1m_Im0_Ld1</meshName>
+          <lod>1</lod>
+          <variant>0</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>tube1m_Im0_Ld2</meshName>
+          <lod>2</lod>
+          <variant>0</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>tube1m_Im2_Ld0</meshName>
+          <lod>0</lod>
+          <variant>2</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>tube1m_Im2_Ld1</meshName>
+          <lod>1</lod>
+          <variant>2</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>tube1m_Im2_Ld2</meshName>
+          <lod>2</lod>
+          <variant>2</variant>
+        </FPOmesh>
+      </meshes>
+      <children>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id B43BF1AA</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-3.192493</x>
+            <y>33.8736725</y>
+            <z>-1.77693653</z>
+          </pos>
+          <up>
+            <x>0.490876645</x>
+            <y>-0.00514075346</y>
+            <z>0.8712139</z>
+          </up>
+          <dir>
+            <x>-0.0104719251</x>
+            <y>-0.9999451</y>
+            <z>-5.48618182E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>tube1m_D-b43bf1aa_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id C33CC13C</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-3.192493</x>
+            <y>33.8736725</y>
+            <z>-1.77693653</z>
+          </pos>
+          <up>
+            <x>0.490876645</x>
+            <y>-0.00514075346</y>
+            <z>0.8712139</z>
+          </up>
+          <dir>
+            <x>-0.0104719251</x>
+            <y>-0.9999451</y>
+            <z>-5.48618182E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>tube1m_D-c33cc13c_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 5383DCAD</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-1.64124262</x>
+            <y>20.2468624</y>
+            <z>-2.73138165</z>
+          </pos>
+          <up>
+            <x>0.490876645</x>
+            <y>-0.00514075346</y>
+            <z>0.8712139</z>
+          </up>
+          <dir>
+            <x>-0.0104719251</x>
+            <y>-0.9999451</y>
+            <z>-5.48618182E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>tube1m_D-5383dcad_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 2484EC3B</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-1.7689718</x>
+            <y>23.9081841</y>
+            <z>-2.63780737</z>
+          </pos>
+          <up>
+            <x>0.490876645</x>
+            <y>-0.00514075346</y>
+            <z>0.8712139</z>
+          </up>
+          <dir>
+            <x>-0.0104719251</x>
+            <y>-0.9999451</y>
+            <z>-5.48618182E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>tube1m_D-2484ec3b_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id BD8DBD81</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-1.35248923</x>
+            <y>9.759516</y>
+            <z>-2.955961</z>
+          </pos>
+          <up>
+            <x>0.490876645</x>
+            <y>-0.00514075346</y>
+            <z>0.8712139</z>
+          </up>
+          <dir>
+            <x>-0.0104719251</x>
+            <y>-0.9999451</y>
+            <z>-5.48618182E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>tube1m_D-bd8dbd81_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id CA8A8D17</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-1.35248923</x>
+            <y>9.759516</y>
+            <z>-2.955961</z>
+          </pos>
+          <up>
+            <x>0.490876645</x>
+            <y>-0.00514075346</y>
+            <z>0.8712139</z>
+          </up>
+          <dir>
+            <x>-0.0104719251</x>
+            <y>-0.9999451</y>
+            <z>-5.48618182E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>tube1m_D-ca8a8d17_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 54EE18B4</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-1.12545013</x>
+            <y>2.89467168</y>
+            <z>-3.124384</z>
+          </pos>
+          <up>
+            <x>0.490876645</x>
+            <y>-0.00514075346</y>
+            <z>0.8712139</z>
+          </up>
+          <dir>
+            <x>-0.0104719251</x>
+            <y>-0.9999451</y>
+            <z>-5.48618182E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>tube1m_D-54ee18b4_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 23E92822</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-1.64124262</x>
+            <y>20.2468624</y>
+            <z>-2.73138165</z>
+          </pos>
+          <up>
+            <x>0.490876645</x>
+            <y>-0.00514075346</y>
+            <z>0.8712139</z>
+          </up>
+          <dir>
+            <x>-0.0104719251</x>
+            <y>-0.9999451</y>
+            <z>-5.48618182E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>tube1m_D-23e92822_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id BAE07998</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-1.45706725</x>
+            <y>15.631834</y>
+            <z>-2.86238718</z>
+          </pos>
+          <up>
+            <x>0.490876645</x>
+            <y>-0.00514075346</y>
+            <z>0.8712139</z>
+          </up>
+          <dir>
+            <x>-0.0104719251</x>
+            <y>-0.9999451</y>
+            <z>-5.48618182E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>tube1m_D-bae07998_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id CDE7490E</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-2.32086086</x>
+            <y>28.298317</y>
+            <z>-2.30095315</z>
+          </pos>
+          <up>
+            <x>0.490876645</x>
+            <y>-0.00514075346</y>
+            <z>0.8712139</z>
+          </up>
+          <dir>
+            <x>-0.0104719251</x>
+            <y>-0.9999451</y>
+            <z>-5.48618182E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>tube1m_D-cde7490e_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id 8743DD93</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-2.708535</x>
+            <y>39.8657036</y>
+            <z>4.68378067</z>
+          </pos>
+          <up>
+            <x>0.9998903</x>
+            <y>-0.0104712574</y>
+            <z>-0.0104712695</z>
+          </up>
+          <dir>
+            <x>0.0104718292</x>
+            <y>0.999945164</y>
+            <z>-2.131066E-07</z>
+          </dir>
+          <meshes />
+          <children>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id 276CD553</name>
+              <parentName>STUB! id 8743DD93</parentName>
+              <pos>
+                <x>-5.406416</x>
+                <y>-0.2193081</y>
+                <z>1.48308289</z>
+              </pos>
+              <up>
+                <x>-7.17078947E-08</x>
+                <y>1</y>
+                <z>1.60367776E-07</z>
+              </up>
+              <dir>
+                <x>-3.57227E-08</x>
+                <y>-1.60367776E-07</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tube1m_trs_hi_Im0_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tube1m_trs_hi_Im0_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tube1m_trs_hi_Im0_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tube1m_trs_hi_Im2_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children>
+                <FPONode>
+                  <flags>1</flags>
+                  <name>STUB! id CDE7490E</name>
+                  <parentName>STUB! id 276CD553</parentName>
+                  <pos>
+                    <x>-3.81091928</x>
+                    <y>2.04039454</y>
+                    <z>-0.791445255</z>
+                  </pos>
+                  <up>
+                    <x>-5.16855664E-07</x>
+                    <y>1</y>
+                    <z>6.57483E-08</z>
+                  </up>
+                  <dir>
+                    <x>7.990374E-08</x>
+                    <y>-6.574826E-08</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>tube1m_trs_hi_D-cde7490e_Im2_Ld0</meshName>
+                      <lod>0</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>1</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>2</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children />
+                  <slots />
+                </FPONode>
+              </children>
+              <slots />
+            </FPONode>
+          </children>
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id 5520F6F8</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-3.03831124</x>
+            <y>0.174975649</y>
+            <z>-2.23684573</z>
+          </pos>
+          <up>
+            <x>0.490876168</x>
+            <y>-0.005140677</y>
+            <z>0.8712142</z>
+          </up>
+          <dir>
+            <x>-0.01047188</x>
+            <y>-0.999945164</y>
+            <z>1.52510315E-09</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>tube1m_turpl_Im0_Ld0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+      </children>
+      <slots />
+    </FPONode>
+  </children>
+  <slots />
+</FPONode>

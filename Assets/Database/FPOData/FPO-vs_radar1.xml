@@ -1,0 +1,1404 @@
+<?xml version="1.0"?>
+<FPONode xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <flags>0</flags>
+  <name>root</name>
+  <pos>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </pos>
+  <up>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </up>
+  <dir>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </dir>
+  <meshes />
+  <children>
+    <FPONode>
+      <flags>0</flags>
+      <name>STUB! id FF5F5C6C</name>
+      <parentName>root</parentName>
+      <pos>
+        <x>-0.006839156</x>
+        <y>0.0209963974</y>
+        <z>1.50338554</z>
+      </pos>
+      <up>
+        <x>2.98023224E-08</x>
+        <y>2.98023259E-08</y>
+        <z>1</z>
+      </up>
+      <dir>
+        <x>1</x>
+        <y>2.98023259E-08</y>
+        <z>-2.98023224E-08</z>
+      </dir>
+      <meshes>
+        <FPOmesh>
+          <meshName>vs_radar1_Im0_Ld0</meshName>
+          <lod>0</lod>
+          <variant>0</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>vs_radar1_Im0_Ld1</meshName>
+          <lod>1</lod>
+          <variant>0</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>vs_radar1_Im0_Ld2</meshName>
+          <lod>2</lod>
+          <variant>0</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>vs_radar1_Im2_Ld0</meshName>
+          <lod>0</lod>
+          <variant>2</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>vs_radar1_Im2_Ld1</meshName>
+          <lod>1</lod>
+          <variant>2</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>vs_radar1_Im2_Ld2</meshName>
+          <lod>2</lod>
+          <variant>2</variant>
+        </FPOmesh>
+      </meshes>
+      <children>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id D61CFBEC</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-0.06832133</x>
+            <y>0.772513866</y>
+            <z>0.0277980641</z>
+          </pos>
+          <up>
+            <x>-8.94069743E-08</x>
+            <y>1</y>
+            <z>-2.8810236E-08</z>
+          </up>
+          <dir>
+            <x>-1.49011612E-08</x>
+            <y>2.88102342E-08</y>
+            <z>1</z>
+          </dir>
+          <meshes />
+          <children>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id DA8F92D8</name>
+              <parentName>STUB! id D61CFBEC</parentName>
+              <pos>
+                <x>1.00051975</x>
+                <y>6.50422525</y>
+                <z>-1.29150188</z>
+              </pos>
+              <up>
+                <x>0.6427877</x>
+                <y>-0.7660444</y>
+                <z>1.05739879E-08</z>
+              </up>
+              <dir>
+                <x>0.7660444</x>
+                <y>0.6427877</y>
+                <z>3.486213E-09</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>vs_radar1_rotor_aerC_Im0_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>vs_radar1_rotor_aerC_Im0_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>vs_radar1_rotor_aerC_Im0_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+              </meshes>
+              <children>
+                <FPONode>
+                  <flags>1</flags>
+                  <name>STUB! id 1D94F94C</name>
+                  <parentName>STUB! id DA8F92D8</parentName>
+                  <pos>
+                    <x>0.7532365</x>
+                    <y>-0.9939211</y>
+                    <z>-1.80511224</z>
+                  </pos>
+                  <up>
+                    <x>1.53067568E-08</x>
+                    <y>1</y>
+                    <z>-8.39729353E-08</z>
+                  </up>
+                  <dir>
+                    <x>5.90807048E-09</x>
+                    <y>8.39729353E-08</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>vs_radar1_rotor_aerC_D23_Im2_Ld0</meshName>
+                      <lod>0</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>1</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>2</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children />
+                  <slots />
+                </FPONode>
+                <FPONode>
+                  <flags>1</flags>
+                  <name>STUB! id 849DA8F6</name>
+                  <parentName>STUB! id DA8F92D8</parentName>
+                  <pos>
+                    <x>1.35042632</x>
+                    <y>-1.37974679</y>
+                    <z>-3.10763</z>
+                  </pos>
+                  <up>
+                    <x>1.53067568E-08</x>
+                    <y>1</y>
+                    <z>-8.39729353E-08</z>
+                  </up>
+                  <dir>
+                    <x>5.90807048E-09</x>
+                    <y>8.39729353E-08</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>vs_radar1_rotor_aerC_D22_Im2_Ld0</meshName>
+                      <lod>0</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>1</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>2</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children />
+                  <slots />
+                </FPONode>
+                <FPONode>
+                  <flags>1</flags>
+                  <name>STUB! id F39A9860</name>
+                  <parentName>STUB! id DA8F92D8</parentName>
+                  <pos>
+                    <x>1.16100538</x>
+                    <y>-2.00262356</y>
+                    <z>-1.43941534</z>
+                  </pos>
+                  <up>
+                    <x>1.53067568E-08</x>
+                    <y>1</y>
+                    <z>-8.39729353E-08</z>
+                  </up>
+                  <dir>
+                    <x>5.90807048E-09</x>
+                    <y>8.39729353E-08</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>vs_radar1_rotor_aerC_D21_Im2_Ld0</meshName>
+                      <lod>0</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>1</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>2</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children />
+                  <slots />
+                </FPONode>
+                <FPONode>
+                  <flags>1</flags>
+                  <name>STUB! id A16B7307</name>
+                  <parentName>STUB! id DA8F92D8</parentName>
+                  <pos>
+                    <x>1.49589622</x>
+                    <y>-2.05026054</y>
+                    <z>-2.42430449</z>
+                  </pos>
+                  <up>
+                    <x>1.53067568E-08</x>
+                    <y>1</y>
+                    <z>-8.39729353E-08</z>
+                  </up>
+                  <dir>
+                    <x>5.90807048E-09</x>
+                    <y>8.39729353E-08</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>vs_radar1_rotor_aerC_D20_Im2_Ld0</meshName>
+                      <lod>0</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>1</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>2</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children />
+                  <slots />
+                </FPONode>
+                <FPONode>
+                  <flags>1</flags>
+                  <name>STUB! id D66C4391</name>
+                  <parentName>STUB! id DA8F92D8</parentName>
+                  <pos>
+                    <x>-3.43949676</x>
+                    <y>-0.7080253</y>
+                    <z>-2.22585273</z>
+                  </pos>
+                  <up>
+                    <x>1.53067568E-08</x>
+                    <y>1</y>
+                    <z>-8.39729353E-08</z>
+                  </up>
+                  <dir>
+                    <x>5.90807048E-09</x>
+                    <y>8.39729353E-08</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>vs_radar1_rotor_aerC_D19_Im2_Ld0</meshName>
+                      <lod>0</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>1</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>2</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children />
+                  <slots />
+                </FPONode>
+                <FPONode>
+                  <flags>1</flags>
+                  <name>STUB! id 46D35E00</name>
+                  <parentName>STUB! id DA8F92D8</parentName>
+                  <pos>
+                    <x>0.15449813</x>
+                    <y>-0.127336934</y>
+                    <z>-1.6851356</z>
+                  </pos>
+                  <up>
+                    <x>1.53067568E-08</x>
+                    <y>1</y>
+                    <z>-8.39729353E-08</z>
+                  </up>
+                  <dir>
+                    <x>5.90807048E-09</x>
+                    <y>8.39729353E-08</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>vs_radar1_rotor_aerC_D18_Im2_Ld0</meshName>
+                      <lod>0</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>1</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>2</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children />
+                  <slots />
+                </FPONode>
+                <FPONode>
+                  <flags>1</flags>
+                  <name>STUB! id 31D46E96</name>
+                  <parentName>STUB! id DA8F92D8</parentName>
+                  <pos>
+                    <x>0.4403565</x>
+                    <y>2.11458135</y>
+                    <z>-2.78679633</z>
+                  </pos>
+                  <up>
+                    <x>1.53067568E-08</x>
+                    <y>1</y>
+                    <z>-8.39729353E-08</z>
+                  </up>
+                  <dir>
+                    <x>5.90807048E-09</x>
+                    <y>8.39729353E-08</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>vs_radar1_rotor_aerC_D17_Im2_Ld0</meshName>
+                      <lod>0</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>1</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>2</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children />
+                  <slots />
+                </FPONode>
+                <FPONode>
+                  <flags>1</flags>
+                  <name>STUB! id A8DD3F2C</name>
+                  <parentName>STUB! id DA8F92D8</parentName>
+                  <pos>
+                    <x>0.936178148</x>
+                    <y>2.74265122</y>
+                    <z>-3.582352</z>
+                  </pos>
+                  <up>
+                    <x>1.53067568E-08</x>
+                    <y>1</y>
+                    <z>-8.39729353E-08</z>
+                  </up>
+                  <dir>
+                    <x>5.90807048E-09</x>
+                    <y>8.39729353E-08</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>vs_radar1_rotor_aerC_D16_Im2_Ld0</meshName>
+                      <lod>0</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>1</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>2</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children />
+                  <slots />
+                </FPONode>
+                <FPONode>
+                  <flags>1</flags>
+                  <name>STUB! id DFDA0FBA</name>
+                  <parentName>STUB! id DA8F92D8</parentName>
+                  <pos>
+                    <x>-1.68879831</x>
+                    <y>-0.7356712</y>
+                    <z>-1.80327141</z>
+                  </pos>
+                  <up>
+                    <x>1.53067568E-08</x>
+                    <y>1</y>
+                    <z>-8.39729353E-08</z>
+                  </up>
+                  <dir>
+                    <x>5.90807048E-09</x>
+                    <y>8.39729353E-08</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>vs_radar1_rotor_aerC_D15_Im2_Ld0</meshName>
+                      <lod>0</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>1</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>2</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children />
+                  <slots />
+                </FPONode>
+                <FPONode>
+                  <flags>1</flags>
+                  <name>STUB! id 41BE9A19</name>
+                  <parentName>STUB! id DA8F92D8</parentName>
+                  <pos>
+                    <x>-0.1976888</x>
+                    <y>-0.7080252</y>
+                    <z>-1.235804</z>
+                  </pos>
+                  <up>
+                    <x>1.53067568E-08</x>
+                    <y>1</y>
+                    <z>-8.39729353E-08</z>
+                  </up>
+                  <dir>
+                    <x>5.90807048E-09</x>
+                    <y>8.39729353E-08</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>vs_radar1_rotor_aerC_D14_Im2_Ld0</meshName>
+                      <lod>0</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>1</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>2</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children />
+                  <slots />
+                </FPONode>
+                <FPONode>
+                  <flags>1</flags>
+                  <name>STUB! id 36B9AA8F</name>
+                  <parentName>STUB! id DA8F92D8</parentName>
+                  <pos>
+                    <x>0.199978754</x>
+                    <y>1.1794548</y>
+                    <z>-2.298297</z>
+                  </pos>
+                  <up>
+                    <x>1.53067568E-08</x>
+                    <y>1</y>
+                    <z>-8.39729353E-08</z>
+                  </up>
+                  <dir>
+                    <x>5.90807048E-09</x>
+                    <y>8.39729353E-08</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>vs_radar1_rotor_aerC_D13_Im2_Ld0</meshName>
+                      <lod>0</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>1</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>2</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children />
+                  <slots />
+                </FPONode>
+                <FPONode>
+                  <flags>1</flags>
+                  <name>STUB! id AFB0FB35</name>
+                  <parentName>STUB! id DA8F92D8</parentName>
+                  <pos>
+                    <x>-0.09540877</x>
+                    <y>0.0349715576</y>
+                    <z>-1.48878479</z>
+                  </pos>
+                  <up>
+                    <x>1.53067568E-08</x>
+                    <y>1</y>
+                    <z>-8.39729353E-08</z>
+                  </up>
+                  <dir>
+                    <x>5.90807048E-09</x>
+                    <y>8.39729353E-08</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>vs_radar1_rotor_aerC_D12_Im2_Ld0</meshName>
+                      <lod>0</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>1</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>2</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children />
+                  <slots />
+                </FPONode>
+                <FPONode>
+                  <flags>1</flags>
+                  <name>STUB! id D8B7CBA3</name>
+                  <parentName>STUB! id DA8F92D8</parentName>
+                  <pos>
+                    <x>0.303485334</x>
+                    <y>0.8578726</y>
+                    <z>-1.95038068</z>
+                  </pos>
+                  <up>
+                    <x>1.53067568E-08</x>
+                    <y>1</y>
+                    <z>-8.39729353E-08</z>
+                  </up>
+                  <dir>
+                    <x>5.90807048E-09</x>
+                    <y>8.39729353E-08</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>vs_radar1_rotor_aerC_D11_Im2_Ld0</meshName>
+                      <lod>0</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>1</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>2</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children />
+                  <slots />
+                </FPONode>
+                <FPONode>
+                  <flags>1</flags>
+                  <name>STUB! id B43BF1AA</name>
+                  <parentName>STUB! id DA8F92D8</parentName>
+                  <pos>
+                    <x>2.56160259</x>
+                    <y>0.222161785</y>
+                    <z>3.70165324</z>
+                  </pos>
+                  <up>
+                    <x>1.53067568E-08</x>
+                    <y>1</y>
+                    <z>-8.39729353E-08</z>
+                  </up>
+                  <dir>
+                    <x>5.90807048E-09</x>
+                    <y>8.39729353E-08</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>vs_radar1_rotor_aerC_D10_Im2_Ld0</meshName>
+                      <lod>0</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>1</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>2</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children />
+                  <slots />
+                </FPONode>
+                <FPONode>
+                  <flags>1</flags>
+                  <name>STUB! id C33CC13C</name>
+                  <parentName>STUB! id DA8F92D8</parentName>
+                  <pos>
+                    <x>1.05316377</x>
+                    <y>-0.551221669</y>
+                    <z>3.205787</z>
+                  </pos>
+                  <up>
+                    <x>1.53067568E-08</x>
+                    <y>1</y>
+                    <z>-8.39729353E-08</z>
+                  </up>
+                  <dir>
+                    <x>5.90807048E-09</x>
+                    <y>8.39729353E-08</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>vs_radar1_rotor_aerC_D09_Im2_Ld0</meshName>
+                      <lod>0</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>1</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>2</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children />
+                  <slots />
+                </FPONode>
+                <FPONode>
+                  <flags>1</flags>
+                  <name>STUB! id 5383DCAD</name>
+                  <parentName>STUB! id DA8F92D8</parentName>
+                  <pos>
+                    <x>0.271033436</x>
+                    <y>-1.3409512</y>
+                    <z>1.07023239</z>
+                  </pos>
+                  <up>
+                    <x>1.53067568E-08</x>
+                    <y>1</y>
+                    <z>-8.39729353E-08</z>
+                  </up>
+                  <dir>
+                    <x>5.90807048E-09</x>
+                    <y>8.39729353E-08</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>vs_radar1_rotor_aerC_D08_Im2_Ld0</meshName>
+                      <lod>0</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>1</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>2</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children />
+                  <slots />
+                </FPONode>
+                <FPONode>
+                  <flags>1</flags>
+                  <name>STUB! id 2484EC3B</name>
+                  <parentName>STUB! id DA8F92D8</parentName>
+                  <pos>
+                    <x>-0.294033825</x>
+                    <y>0.794527948</y>
+                    <z>-0.431499749</z>
+                  </pos>
+                  <up>
+                    <x>1.53067568E-08</x>
+                    <y>1</y>
+                    <z>-8.39729353E-08</z>
+                  </up>
+                  <dir>
+                    <x>5.90807048E-09</x>
+                    <y>8.39729353E-08</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>vs_radar1_rotor_aerC_D07_Im2_Ld0</meshName>
+                      <lod>0</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>1</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>2</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children />
+                  <slots />
+                </FPONode>
+                <FPONode>
+                  <flags>1</flags>
+                  <name>STUB! id BD8DBD81</name>
+                  <parentName>STUB! id DA8F92D8</parentName>
+                  <pos>
+                    <x>0.000330493116</x>
+                    <y>-0.309259266</y>
+                    <z>-0.216726646</z>
+                  </pos>
+                  <up>
+                    <x>1.53067568E-08</x>
+                    <y>1</y>
+                    <z>-8.39729353E-08</z>
+                  </up>
+                  <dir>
+                    <x>5.90807048E-09</x>
+                    <y>8.39729353E-08</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>vs_radar1_rotor_aerC_D06_Im2_Ld0</meshName>
+                      <lod>0</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>1</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>2</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children />
+                  <slots />
+                </FPONode>
+                <FPONode>
+                  <flags>1</flags>
+                  <name>STUB! id CA8A8D17</name>
+                  <parentName>STUB! id DA8F92D8</parentName>
+                  <pos>
+                    <x>-0.25285843</x>
+                    <y>-0.0941313952</y>
+                    <z>1.38198245</z>
+                  </pos>
+                  <up>
+                    <x>1.53067568E-08</x>
+                    <y>1</y>
+                    <z>-8.39729353E-08</z>
+                  </up>
+                  <dir>
+                    <x>5.90807048E-09</x>
+                    <y>8.39729353E-08</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>vs_radar1_rotor_aerC_D05_Im2_Ld0</meshName>
+                      <lod>0</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>1</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>2</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children />
+                  <slots />
+                </FPONode>
+                <FPONode>
+                  <flags>1</flags>
+                  <name>STUB! id 54EE18B4</name>
+                  <parentName>STUB! id DA8F92D8</parentName>
+                  <pos>
+                    <x>0.135530323</x>
+                    <y>-0.7878053</y>
+                    <z>2.553746</z>
+                  </pos>
+                  <up>
+                    <x>1.53067568E-08</x>
+                    <y>1</y>
+                    <z>-8.39729353E-08</z>
+                  </up>
+                  <dir>
+                    <x>5.90807048E-09</x>
+                    <y>8.39729353E-08</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>vs_radar1_rotor_aerC_D04_Im2_Ld0</meshName>
+                      <lod>0</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>1</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>2</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children />
+                  <slots />
+                </FPONode>
+                <FPONode>
+                  <flags>1</flags>
+                  <name>STUB! id 23E92822</name>
+                  <parentName>STUB! id DA8F92D8</parentName>
+                  <pos>
+                    <x>0.440218627</x>
+                    <y>-1.37420189</y>
+                    <z>-0.3599902</z>
+                  </pos>
+                  <up>
+                    <x>1.53067568E-08</x>
+                    <y>1</y>
+                    <z>-8.39729353E-08</z>
+                  </up>
+                  <dir>
+                    <x>5.90807048E-09</x>
+                    <y>8.39729353E-08</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>vs_radar1_rotor_aerC_D03_Im2_Ld0</meshName>
+                      <lod>0</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>1</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>2</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children />
+                  <slots />
+                </FPONode>
+                <FPONode>
+                  <flags>1</flags>
+                  <name>STUB! id BAE07998</name>
+                  <parentName>STUB! id DA8F92D8</parentName>
+                  <pos>
+                    <x>3.646009</x>
+                    <y>0.728248835</y>
+                    <z>3.60442233</z>
+                  </pos>
+                  <up>
+                    <x>1.53067568E-08</x>
+                    <y>1</y>
+                    <z>-8.39729353E-08</z>
+                  </up>
+                  <dir>
+                    <x>5.90807048E-09</x>
+                    <y>8.39729353E-08</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>vs_radar1_rotor_aerC_D02_Im2_Ld0</meshName>
+                      <lod>0</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>1</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>2</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children />
+                  <slots />
+                </FPONode>
+                <FPONode>
+                  <flags>1</flags>
+                  <name>STUB! id CDE7490E</name>
+                  <parentName>STUB! id DA8F92D8</parentName>
+                  <pos>
+                    <x>0.10586866</x>
+                    <y>1.61149681</y>
+                    <z>-1.34354627</z>
+                  </pos>
+                  <up>
+                    <x>1.53067568E-08</x>
+                    <y>1</y>
+                    <z>-8.39729353E-08</z>
+                  </up>
+                  <dir>
+                    <x>5.90807048E-09</x>
+                    <y>8.39729353E-08</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>vs_radar1_rotor_aerC_D01_Im2_Ld0</meshName>
+                      <lod>0</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>1</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>2</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children />
+                  <slots />
+                </FPONode>
+              </children>
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id 3481F3F4</name>
+              <parentName>STUB! id D61CFBEC</parentName>
+              <pos>
+                <x>0.009016188</x>
+                <y>1.27240419</y>
+                <z>-0.0372344367</z>
+              </pos>
+              <up>
+                <x>1</x>
+                <y>-1.49011612E-08</y>
+                <z>1.49011612E-08</z>
+              </up>
+              <dir>
+                <x>1.49011612E-08</x>
+                <y>1</y>
+                <z>2.44249087E-15</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>vs_radar1_rotor_aerA_Im0_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>vs_radar1_rotor_aerA_Im0_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>vs_radar1_rotor_aerA_Im0_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+              </meshes>
+              <children>
+                <FPONode>
+                  <flags>1</flags>
+                  <name>STUB! id B43BF1AA</name>
+                  <parentName>STUB! id 3481F3F4</parentName>
+                  <pos>
+                    <x>-0.5808619</x>
+                    <y>0.0306744855</y>
+                    <z>-0.17489171</z>
+                  </pos>
+                  <up>
+                    <x>1.49011541E-08</x>
+                    <y>1</y>
+                    <z>-8.94069743E-08</z>
+                  </up>
+                  <dir>
+                    <x>2.88102342E-08</x>
+                    <y>8.94069743E-08</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>vs_radar1_rotor_aerA_D10_Im2_Ld0</meshName>
+                      <lod>0</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>1</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>2</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children />
+                  <slots />
+                </FPONode>
+                <FPONode>
+                  <flags>1</flags>
+                  <name>STUB! id C33CC13C</name>
+                  <parentName>STUB! id 3481F3F4</parentName>
+                  <pos>
+                    <x>-0.31635496</x>
+                    <y>0.0306745674</y>
+                    <z>0.2303102</z>
+                  </pos>
+                  <up>
+                    <x>1.49011541E-08</x>
+                    <y>1</y>
+                    <z>-8.94069743E-08</z>
+                  </up>
+                  <dir>
+                    <x>2.88102342E-08</x>
+                    <y>8.94069743E-08</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>vs_radar1_rotor_aerA_D09_Im2_Ld0</meshName>
+                      <lod>0</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>1</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>2</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children />
+                  <slots />
+                </FPONode>
+                <FPONode>
+                  <flags>1</flags>
+                  <name>STUB! id 5383DCAD</name>
+                  <parentName>STUB! id 3481F3F4</parentName>
+                  <pos>
+                    <x>0.612232745</x>
+                    <y>0.030674506</y>
+                    <z>-0.180519342</z>
+                  </pos>
+                  <up>
+                    <x>1.49011541E-08</x>
+                    <y>1</y>
+                    <z>-8.94069743E-08</z>
+                  </up>
+                  <dir>
+                    <x>2.88102342E-08</x>
+                    <y>8.94069743E-08</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>vs_radar1_rotor_aerA_D08_Im2_Ld0</meshName>
+                      <lod>0</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>1</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>2</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children />
+                  <slots />
+                </FPONode>
+                <FPONode>
+                  <flags>1</flags>
+                  <name>STUB! id 2484EC3B</name>
+                  <parentName>STUB! id 3481F3F4</parentName>
+                  <pos>
+                    <x>0.510932267</x>
+                    <y>0.0306745619</y>
+                    <z>0.2809608</z>
+                  </pos>
+                  <up>
+                    <x>1.49011541E-08</x>
+                    <y>1</y>
+                    <z>-8.94069743E-08</z>
+                  </up>
+                  <dir>
+                    <x>2.88102342E-08</x>
+                    <y>8.94069743E-08</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>vs_radar1_rotor_aerA_D07_Im2_Ld0</meshName>
+                      <lod>0</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>1</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>2</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children />
+                  <slots />
+                </FPONode>
+                <FPONode>
+                  <flags>1</flags>
+                  <name>STUB! id BD8DBD81</name>
+                  <parentName>STUB! id 3481F3F4</parentName>
+                  <pos>
+                    <x>0.0204429328</x>
+                    <y>-0.61963135</y>
+                    <z>-0.19576475</z>
+                  </pos>
+                  <up>
+                    <x>1.49011541E-08</x>
+                    <y>1</y>
+                    <z>-8.94069743E-08</z>
+                  </up>
+                  <dir>
+                    <x>2.88102342E-08</x>
+                    <y>8.94069743E-08</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>vs_radar1_rotor_aerA_D06_Im2_Ld0</meshName>
+                      <lod>0</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>1</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>2</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children />
+                  <slots />
+                </FPONode>
+                <FPONode>
+                  <flags>1</flags>
+                  <name>STUB! id CA8A8D17</name>
+                  <parentName>STUB! id 3481F3F4</parentName>
+                  <pos>
+                    <x>0.0204429459</x>
+                    <y>0.513405</y>
+                    <z>0.2198007</z>
+                  </pos>
+                  <up>
+                    <x>1.49011541E-08</x>
+                    <y>1</y>
+                    <z>-8.94069743E-08</z>
+                  </up>
+                  <dir>
+                    <x>2.88102342E-08</x>
+                    <y>8.94069743E-08</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>vs_radar1_rotor_aerA_D05_Im2_Ld0</meshName>
+                      <lod>0</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>1</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>2</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children />
+                  <slots />
+                </FPONode>
+                <FPONode>
+                  <flags>1</flags>
+                  <name>STUB! id 54EE18B4</name>
+                  <parentName>STUB! id 3481F3F4</parentName>
+                  <pos>
+                    <x>0.0204429328</x>
+                    <y>0.7123079</y>
+                    <z>-0.181557447</z>
+                  </pos>
+                  <up>
+                    <x>1.49011541E-08</x>
+                    <y>1</y>
+                    <z>-8.94069743E-08</z>
+                  </up>
+                  <dir>
+                    <x>2.88102342E-08</x>
+                    <y>8.94069743E-08</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>vs_radar1_rotor_aerA_D04_Im2_Ld0</meshName>
+                      <lod>0</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>1</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>2</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children />
+                  <slots />
+                </FPONode>
+                <FPONode>
+                  <flags>1</flags>
+                  <name>STUB! id 23E92822</name>
+                  <parentName>STUB! id 3481F3F4</parentName>
+                  <pos>
+                    <x>0.020442931</x>
+                    <y>0.0125957951</y>
+                    <z>-0.245490074</z>
+                  </pos>
+                  <up>
+                    <x>1.49011541E-08</x>
+                    <y>1</y>
+                    <z>-8.94069743E-08</z>
+                  </up>
+                  <dir>
+                    <x>2.88102342E-08</x>
+                    <y>8.94069743E-08</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>vs_radar1_rotor_aerA_D03_Im2_Ld0</meshName>
+                      <lod>0</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>1</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>2</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children />
+                  <slots />
+                </FPONode>
+                <FPONode>
+                  <flags>1</flags>
+                  <name>STUB! id BAE07998</name>
+                  <parentName>STUB! id 3481F3F4</parentName>
+                  <pos>
+                    <x>0.02044295</x>
+                    <y>-0.477557868</y>
+                    <z>0.358321935</z>
+                  </pos>
+                  <up>
+                    <x>1.49011541E-08</x>
+                    <y>1</y>
+                    <z>-8.94069743E-08</z>
+                  </up>
+                  <dir>
+                    <x>2.88102342E-08</x>
+                    <y>8.94069743E-08</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>vs_radar1_rotor_aerA_D02_Im2_Ld0</meshName>
+                      <lod>0</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>1</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>2</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children />
+                  <slots />
+                </FPONode>
+                <FPONode>
+                  <flags>1</flags>
+                  <name>STUB! id CDE7490E</name>
+                  <parentName>STUB! id 3481F3F4</parentName>
+                  <pos>
+                    <x>0.02044295</x>
+                    <y>0.05166608</y>
+                    <z>0.3618741</z>
+                  </pos>
+                  <up>
+                    <x>1.49011541E-08</x>
+                    <y>1</y>
+                    <z>-8.94069743E-08</z>
+                  </up>
+                  <dir>
+                    <x>2.88102342E-08</x>
+                    <y>8.94069743E-08</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>vs_radar1_rotor_aerA_D01_Im2_Ld0</meshName>
+                      <lod>0</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>1</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>2</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children />
+                  <slots />
+                </FPONode>
+              </children>
+              <slots />
+            </FPONode>
+          </children>
+          <slots />
+        </FPONode>
+      </children>
+      <slots />
+    </FPONode>
+  </children>
+  <slots />
+</FPONode>

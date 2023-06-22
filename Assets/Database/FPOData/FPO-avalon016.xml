@@ -1,0 +1,1807 @@
+<?xml version="1.0"?>
+<FPONode xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <flags>0</flags>
+  <name>root</name>
+  <pos>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </pos>
+  <up>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </up>
+  <dir>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </dir>
+  <meshes />
+  <children>
+    <FPONode>
+      <flags>0</flags>
+      <name>STUB! id CE37140F</name>
+      <parentName>root</parentName>
+      <pos>
+        <x>136747.219</x>
+        <y>-365014.125</y>
+        <z>536.2966</z>
+      </pos>
+      <up>
+        <x>-4.371139E-08</x>
+        <y>5.96046448E-08</y>
+        <z>1</z>
+      </up>
+      <dir>
+        <x>-4.37113954E-08</x>
+        <y>-1</y>
+        <z>5.960464E-08</z>
+      </dir>
+      <meshes>
+        <FPOmesh>
+          <meshName>avalon016_Im0_Ld0</meshName>
+          <lod>0</lod>
+          <variant>0</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <lod>1</lod>
+          <variant>0</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <lod>2</lod>
+          <variant>0</variant>
+        </FPOmesh>
+      </meshes>
+      <children>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id 8CD7D99B</name>
+          <parentName>STUB! id CE37140F</parentName>
+          <pos>
+            <x>-15.0152664</x>
+            <y>81.6755753</y>
+            <z>22.74406</z>
+          </pos>
+          <up>
+            <x>-4.37113918E-08</x>
+            <y>5.960464E-08</y>
+            <z>-1</z>
+          </up>
+          <dir>
+            <x>4.37114061E-08</x>
+            <y>1</y>
+            <z>5.96046377E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>avalon016_hullagh_Im0_Ld0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+          </meshes>
+          <children>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id D70E7F9D</name>
+              <parentName>STUB! id 8CD7D99B</parentName>
+              <pos>
+                <x>-616.75</x>
+                <y>464.65625</y>
+                <z>-328.7077</z>
+              </pos>
+              <up>
+                <x>3.35097652E-14</x>
+                <y>1</y>
+                <z>-6.67541838E-15</z>
+              </up>
+              <dir>
+                <x>2.30881446E-14</x>
+                <y>6.67541838E-15</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>avalon016_hullagh_edchull_Im0_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id DF3E22A9</name>
+              <parentName>STUB! id 8CD7D99B</parentName>
+              <pos>
+                <x>-700.5625</x>
+                <y>-348.09375</y>
+                <z>-93.99365</z>
+              </pos>
+              <up>
+                <x>3.35097652E-14</x>
+                <y>1</y>
+                <z>-6.67541838E-15</z>
+              </up>
+              <dir>
+                <x>2.30881446E-14</x>
+                <y>6.67541838E-15</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>avalon016_hullagh_hulltre_Im0_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id F42BEA0D</name>
+              <parentName>STUB! id 8CD7D99B</parentName>
+              <pos>
+                <x>-299.34375</x>
+                <y>344.6875</y>
+                <z>-147.058044</z>
+              </pos>
+              <up>
+                <x>3.35097652E-14</x>
+                <y>1</y>
+                <z>-6.67541838E-15</z>
+              </up>
+              <dir>
+                <x>2.30881446E-14</x>
+                <y>6.67541838E-15</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>avalon016_hullagh_hullz_Im0_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id 6D22BBB7</name>
+              <parentName>STUB! id 8CD7D99B</parentName>
+              <pos>
+                <x>626.4844</x>
+                <y>-112</y>
+                <z>-147.058044</z>
+              </pos>
+              <up>
+                <x>3.35097652E-14</x>
+                <y>1</y>
+                <z>-6.67541838E-15</z>
+              </up>
+              <dir>
+                <x>2.30881446E-14</x>
+                <y>6.67541838E-15</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>avalon016_hullagh_hully_Im0_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id 1A258B21</name>
+              <parentName>STUB! id 8CD7D99B</parentName>
+              <pos>
+                <x>-317.125</x>
+                <y>282.71875</y>
+                <z>-147.058044</z>
+              </pos>
+              <up>
+                <x>3.35097652E-14</x>
+                <y>1</y>
+                <z>-6.67541838E-15</z>
+              </up>
+              <dir>
+                <x>2.30881446E-14</x>
+                <y>6.67541838E-15</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>avalon016_hullagh_hullx_Im0_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id 8A9A96B0</name>
+              <parentName>STUB! id 8CD7D99B</parentName>
+              <pos>
+                <x>121.171875</x>
+                <y>285.8125</y>
+                <z>-147.058044</z>
+              </pos>
+              <up>
+                <x>0.366501063</x>
+                <y>0.930417657</y>
+                <z>-1.46727553E-14</z>
+              </up>
+              <dir>
+                <x>2.30881462E-14</x>
+                <y>6.67541668E-15</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>avalon016_hullagh_hullw_Im0_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id FD9DA626</name>
+              <parentName>STUB! id 8CD7D99B</parentName>
+              <pos>
+                <x>-668.7656</x>
+                <y>-183.3125</y>
+                <z>-147.058044</z>
+              </pos>
+              <up>
+                <x>3.35097652E-14</x>
+                <y>1</y>
+                <z>-6.67541838E-15</z>
+              </up>
+              <dir>
+                <x>2.30881446E-14</x>
+                <y>6.67541838E-15</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>avalon016_hullagh_hullv_Im0_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id 971F6A1A</name>
+              <parentName>STUB! id 8CD7D99B</parentName>
+              <pos>
+                <x>-349.6875</x>
+                <y>166.375</y>
+                <z>119.574585</z>
+              </pos>
+              <up>
+                <x>3.35097652E-14</x>
+                <y>1</y>
+                <z>-6.67541838E-15</z>
+              </up>
+              <dir>
+                <x>2.30881446E-14</x>
+                <y>6.67541838E-15</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>avalon016_hullagh_hulluio_Im0_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+              </meshes>
+              <children>
+                <FPONode>
+                  <flags>0</flags>
+                  <name>STUB! id 7923E7F8</name>
+                  <parentName>STUB! id 971F6A1A</parentName>
+                  <pos>
+                    <x>3.421875</x>
+                    <y>-36.9375</y>
+                    <z>249.0008</z>
+                  </pos>
+                  <up>
+                    <x>3.35097652E-14</x>
+                    <y>1</y>
+                    <z>-6.67541838E-15</z>
+                  </up>
+                  <dir>
+                    <x>2.30881446E-14</x>
+                    <y>6.67541838E-15</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>avalon016_hullagh_hulluio_hulle_Im0_Ld0</meshName>
+                      <lod>0</lod>
+                      <variant>0</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>1</lod>
+                      <variant>0</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>2</lod>
+                      <variant>0</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children />
+                  <slots />
+                </FPONode>
+                <FPONode>
+                  <flags>0</flags>
+                  <name>STUB! id FAF0623F</name>
+                  <parentName>STUB! id 971F6A1A</parentName>
+                  <pos>
+                    <x>2.234375</x>
+                    <y>-15.71875</y>
+                    <z>192.219</z>
+                  </pos>
+                  <up>
+                    <x>3.35097652E-14</x>
+                    <y>1</y>
+                    <z>-6.67541838E-15</z>
+                  </up>
+                  <dir>
+                    <x>2.30881446E-14</x>
+                    <y>6.67541838E-15</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>avalon016_hullagh_hulluio_hullr_Im0_Ld0</meshName>
+                      <lod>0</lod>
+                      <variant>0</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>1</lod>
+                      <variant>0</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>2</lod>
+                      <variant>0</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children />
+                  <slots />
+                </FPONode>
+              </children>
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id CDB39264</name>
+              <parentName>STUB! id 8CD7D99B</parentName>
+              <pos>
+                <x>782.90625</x>
+                <y>-101.34375</y>
+                <z>-85.64789</z>
+              </pos>
+              <up>
+                <x>3.35097652E-14</x>
+                <y>1</y>
+                <z>-6.67541838E-15</z>
+              </up>
+              <dir>
+                <x>2.30881446E-14</x>
+                <y>6.67541838E-15</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>avalon016_hullagh_hullui_Im0_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id 6494F79C</name>
+              <parentName>STUB! id 8CD7D99B</parentName>
+              <pos>
+                <x>593.90625</x>
+                <y>55</y>
+                <z>-147.058044</z>
+              </pos>
+              <up>
+                <x>3.35097652E-14</x>
+                <y>1</y>
+                <z>-6.67541838E-15</z>
+              </up>
+              <dir>
+                <x>2.30881446E-14</x>
+                <y>6.67541838E-15</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>avalon016_hullagh_hullu_Im0_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id C91FB341</name>
+              <parentName>STUB! id 8CD7D99B</parentName>
+              <pos>
+                <x>741.0156</x>
+                <y>331.46875</y>
+                <z>-37.3481445</z>
+              </pos>
+              <up>
+                <x>3.35097652E-14</x>
+                <y>1</y>
+                <z>-6.67541838E-15</z>
+              </up>
+              <dir>
+                <x>2.30881446E-14</x>
+                <y>6.67541838E-15</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>avalon016_hullagh_hullty_Im0_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id 23DFE21A</name>
+              <parentName>STUB! id 8CD7D99B</parentName>
+              <pos>
+                <x>563.6406</x>
+                <y>287.1875</y>
+                <z>-28.4849243</z>
+              </pos>
+              <up>
+                <x>3.35097652E-14</x>
+                <y>1</y>
+                <z>-6.67541838E-15</z>
+              </up>
+              <dir>
+                <x>2.30881446E-14</x>
+                <y>6.67541838E-15</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>avalon016_hullagh_hulltggf_Im0_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+              </meshes>
+              <children>
+                <FPONode>
+                  <flags>0</flags>
+                  <name>STUB! id 7E4E23E1</name>
+                  <parentName>STUB! id 23DFE21A</parentName>
+                  <pos>
+                    <x>0.04687499</x>
+                    <y>3</y>
+                    <z>136.669617</z>
+                  </pos>
+                  <up>
+                    <x>3.35097652E-14</x>
+                    <y>1</y>
+                    <z>-6.675418E-15</z>
+                  </up>
+                  <dir>
+                    <x>2.30881462E-14</x>
+                    <y>6.675418E-15</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>avalon016_hullagh_hulltggf_hulla_Im0_Ld0</meshName>
+                      <lod>0</lod>
+                      <variant>0</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>1</lod>
+                      <variant>0</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>2</lod>
+                      <variant>0</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children />
+                  <slots />
+                </FPONode>
+              </children>
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id 1393C70A</name>
+              <parentName>STUB! id 8CD7D99B</parentName>
+              <pos>
+                <x>516</x>
+                <y>-31.0625</y>
+                <z>-147.058044</z>
+              </pos>
+              <up>
+                <x>0.008726533</x>
+                <y>0.9999619</y>
+                <z>-6.87664334E-15</z>
+              </up>
+              <dir>
+                <x>2.30881446E-14</x>
+                <y>6.675418E-15</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>avalon016_hullagh_hullt_Im0_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id 8DF752A9</name>
+              <parentName>STUB! id 8CD7D99B</parentName>
+              <pos>
+                <x>-310.921875</x>
+                <y>33.4375</y>
+                <z>-147.058044</z>
+              </pos>
+              <up>
+                <x>3.35097652E-14</x>
+                <y>1</y>
+                <z>-6.67541838E-15</z>
+              </up>
+              <dir>
+                <x>2.30881446E-14</x>
+                <y>6.67541838E-15</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>avalon016_hullagh_hulls_Im0_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id FAF0623F</name>
+              <parentName>STUB! id 8CD7D99B</parentName>
+              <pos>
+                <x>262.140625</x>
+                <y>-64.84375</y>
+                <z>-147.058044</z>
+              </pos>
+              <up>
+                <x>3.35097652E-14</x>
+                <y>1</y>
+                <z>-6.67541838E-15</z>
+              </up>
+              <dir>
+                <x>2.30881446E-14</x>
+                <y>6.67541838E-15</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>avalon016_hullagh_hullr_Im0_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id 2D6116BE</name>
+              <parentName>STUB! id 8CD7D99B</parentName>
+              <pos>
+                <x>-819.8594</x>
+                <y>-34</y>
+                <z>12.5559692</z>
+              </pos>
+              <up>
+                <x>3.35097652E-14</x>
+                <y>1</y>
+                <z>-6.67541838E-15</z>
+              </up>
+              <dir>
+                <x>2.30881446E-14</x>
+                <y>6.67541838E-15</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>avalon016_hullagh_hullqz_Im0_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+              </meshes>
+              <children>
+                <FPONode>
+                  <flags>0</flags>
+                  <name>STUB! id EDC6CD03</name>
+                  <parentName>STUB! id 2D6116BE</parentName>
+                  <pos>
+                    <x>-0.234375015</x>
+                    <y>-0.03125</y>
+                    <z>-155.53183</z>
+                  </pos>
+                  <up>
+                    <x>3.35097652E-14</x>
+                    <y>1</y>
+                    <z>-6.67541838E-15</z>
+                  </up>
+                  <dir>
+                    <x>2.30881446E-14</x>
+                    <y>6.67541838E-15</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>avalon016_hullagh_hullqz_hullaa_Im0_Ld0</meshName>
+                      <lod>0</lod>
+                      <variant>0</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>1</lod>
+                      <variant>0</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>2</lod>
+                      <variant>0</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children />
+                  <slots />
+                </FPONode>
+              </children>
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id 53D06A03</name>
+              <parentName>STUB! id 8CD7D99B</parentName>
+              <pos>
+                <x>-69.21875</x>
+                <y>-92.78125</y>
+                <z>24.04596</z>
+              </pos>
+              <up>
+                <x>3.35097652E-14</x>
+                <y>1</y>
+                <z>-6.67541838E-15</z>
+              </up>
+              <dir>
+                <x>2.30881446E-14</x>
+                <y>6.67541838E-15</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>avalon016_hullagh_hullqw_Im0_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id 63F93385</name>
+              <parentName>STUB! id 8CD7D99B</parentName>
+              <pos>
+                <x>322.46875</x>
+                <y>348.6875</y>
+                <z>-52.3197021</z>
+              </pos>
+              <up>
+                <x>3.35097652E-14</x>
+                <y>1</y>
+                <z>-6.67541838E-15</z>
+              </up>
+              <dir>
+                <x>2.30881446E-14</x>
+                <y>6.67541838E-15</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>avalon016_hullagh_hullq_Im0_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id 14FE0313</name>
+              <parentName>STUB! id 8CD7D99B</parentName>
+              <pos>
+                <x>-159.515625</x>
+                <y>344.6875</y>
+                <z>-147.058044</z>
+              </pos>
+              <up>
+                <x>3.35097652E-14</x>
+                <y>1</y>
+                <z>-6.67541838E-15</z>
+              </up>
+              <dir>
+                <x>2.30881446E-14</x>
+                <y>6.67541838E-15</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>avalon016_hullagh_hullp_Im0_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id 99F60EE6</name>
+              <parentName>STUB! id 8CD7D99B</parentName>
+              <pos>
+                <x>328.296875</x>
+                <y>161.15625</y>
+                <z>-118.394318</z>
+              </pos>
+              <up>
+                <x>0.422618032</x>
+                <y>0.9063079</y>
+                <z>-1.580745E-14</z>
+              </up>
+              <dir>
+                <x>2.30881446E-14</x>
+                <y>6.675418E-15</y>
+                <z>0.99999994</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>avalon016_hullagh_hullo_Im0_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id EEF13E70</name>
+              <parentName>STUB! id 8CD7D99B</parentName>
+              <pos>
+                <x>-485.515625</x>
+                <y>-357.15625</y>
+                <z>-147.058044</z>
+              </pos>
+              <up>
+                <x>3.35097652E-14</x>
+                <y>1</y>
+                <z>-6.67541838E-15</z>
+              </up>
+              <dir>
+                <x>2.30881446E-14</x>
+                <y>6.67541838E-15</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>avalon016_hullagh_hulln_Im0_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id 77F86FCA</name>
+              <parentName>STUB! id 8CD7D99B</parentName>
+              <pos>
+                <x>-212.046875</x>
+                <y>-93.125</y>
+                <z>-57.2798462</z>
+              </pos>
+              <up>
+                <x>3.35097652E-14</x>
+                <y>1</y>
+                <z>-6.67541838E-15</z>
+              </up>
+              <dir>
+                <x>2.30881446E-14</x>
+                <y>6.67541838E-15</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>avalon016_hullagh_hullm_Im0_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id 9E9BCAFF</name>
+              <parentName>STUB! id 8CD7D99B</parentName>
+              <pos>
+                <x>-475.453125</x>
+                <y>410.125</y>
+                <z>-147.058044</z>
+              </pos>
+              <up>
+                <x>3.35097652E-14</x>
+                <y>1</y>
+                <z>-6.67541838E-15</z>
+              </up>
+              <dir>
+                <x>2.30881446E-14</x>
+                <y>6.67541838E-15</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>avalon016_hullagh_hullk_Im0_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id E99CFA69</name>
+              <parentName>STUB! id 8CD7D99B</parentName>
+              <pos>
+                <x>-607.09375</x>
+                <y>348.75</y>
+                <z>-147.058044</z>
+              </pos>
+              <up>
+                <x>3.35097652E-14</x>
+                <y>1</y>
+                <z>-6.67541838E-15</z>
+              </up>
+              <dir>
+                <x>2.30881446E-14</x>
+                <y>6.67541838E-15</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>avalon016_hullagh_hullj_Im0_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id 7095ABD3</name>
+              <parentName>STUB! id 8CD7D99B</parentName>
+              <pos>
+                <x>540.875</x>
+                <y>126.125</y>
+                <z>-118.394318</z>
+              </pos>
+              <up>
+                <x>3.35097652E-14</x>
+                <y>1</y>
+                <z>-6.67541838E-15</z>
+              </up>
+              <dir>
+                <x>2.30881446E-14</x>
+                <y>6.67541838E-15</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>avalon016_hullagh_hulli_Im0_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id ABD6AFC2</name>
+              <parentName>STUB! id 8CD7D99B</parentName>
+              <pos>
+                <x>-162.328125</x>
+                <y>459.1875</y>
+                <z>-112.9877</z>
+              </pos>
+              <up>
+                <x>3.35097652E-14</x>
+                <y>1</y>
+                <z>-6.67541838E-15</z>
+              </up>
+              <dir>
+                <x>2.30881446E-14</x>
+                <y>6.67541838E-15</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>avalon016_hullagh_hullhj_Im0_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id 07929B45</name>
+              <parentName>STUB! id 8CD7D99B</parentName>
+              <pos>
+                <x>-651.3594</x>
+                <y>133.5625</y>
+                <z>-14.3773193</z>
+              </pos>
+              <up>
+                <x>0.760405838</x>
+                <y>0.6494482</y>
+                <z>-2.18916987E-14</z>
+              </up>
+              <dir>
+                <x>2.30881462E-14</x>
+                <y>6.67541753E-15</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>avalon016_hullagh_hullh_Im0_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id 972D86D4</name>
+              <parentName>STUB! id 8CD7D99B</parentName>
+              <pos>
+                <x>-575.0781</x>
+                <y>49.625</y>
+                <z>-37.1743164</z>
+              </pos>
+              <up>
+                <x>0.7547094</x>
+                <y>0.656059265</y>
+                <z>-2.180431E-14</z>
+              </up>
+              <dir>
+                <x>2.30881462E-14</x>
+                <y>6.67541753E-15</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>avalon016_hullagh_hullg_Im0_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id 4BE4FEF1</name>
+              <parentName>STUB! id 8CD7D99B</parentName>
+              <pos>
+                <x>-613.2969</x>
+                <y>466.4375</y>
+                <z>-70.078125</z>
+              </pos>
+              <up>
+                <x>3.35097652E-14</x>
+                <y>1</y>
+                <z>-6.67541838E-15</z>
+              </up>
+              <dir>
+                <x>2.30881446E-14</x>
+                <y>6.67541838E-15</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>avalon016_hullagh_hullfg_Im0_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id E02AB642</name>
+              <parentName>STUB! id 8CD7D99B</parentName>
+              <pos>
+                <x>-510.265625</x>
+                <y>-29.34375</y>
+                <z>-147.058044</z>
+              </pos>
+              <up>
+                <x>-0.45399034</x>
+                <y>0.8910066</y>
+                <z>4.53395349E-15</z>
+              </up>
+              <dir>
+                <x>2.30881446E-14</x>
+                <y>6.67541753E-15</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>avalon016_hullagh_hullf_Im0_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id 0D1449D9</name>
+              <parentName>STUB! id 8CD7D99B</parentName>
+              <pos>
+                <x>-36.9375</x>
+                <y>83.5625</y>
+                <z>75.09125</z>
+              </pos>
+              <up>
+                <x>3.35097652E-14</x>
+                <y>1</y>
+                <z>-6.67541838E-15</z>
+              </up>
+              <dir>
+                <x>2.30881446E-14</x>
+                <y>6.67541838E-15</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>avalon016_hullagh_huller_Im0_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id 7923E7F8</name>
+              <parentName>STUB! id 8CD7D99B</parentName>
+              <pos>
+                <x>128.78125</x>
+                <y>106.25</y>
+                <z>-147.058044</z>
+              </pos>
+              <up>
+                <x>3.35097652E-14</x>
+                <y>1</y>
+                <z>-6.67541838E-15</z>
+              </up>
+              <dir>
+                <x>2.30881446E-14</x>
+                <y>6.67541838E-15</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>avalon016_hullagh_hulle_Im0_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id 0ED5ACE5</name>
+              <parentName>STUB! id 8CD7D99B</parentName>
+              <pos>
+                <x>-767.0469</x>
+                <y>316.40625</y>
+                <z>-147.8577</z>
+              </pos>
+              <up>
+                <x>3.35097652E-14</x>
+                <y>1</y>
+                <z>-6.67541838E-15</z>
+              </up>
+              <dir>
+                <x>2.30881446E-14</x>
+                <y>6.67541838E-15</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>avalon016_hullagh_hulldf_Im0_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id 0E24D76E</name>
+              <parentName>STUB! id 8CD7D99B</parentName>
+              <pos>
+                <x>-340.03125</x>
+                <y>-71.5625</y>
+                <z>-147.058044</z>
+              </pos>
+              <up>
+                <x>3.35097652E-14</x>
+                <y>1</y>
+                <z>-6.67541838E-15</z>
+              </up>
+              <dir>
+                <x>2.30881446E-14</x>
+                <y>6.67541838E-15</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>avalon016_hullagh_hulld_Im0_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id 40E743E4</name>
+              <parentName>STUB! id 8CD7D99B</parentName>
+              <pos>
+                <x>384.734375</x>
+                <y>55</y>
+                <z>-147.058044</z>
+              </pos>
+              <up>
+                <x>3.35097652E-14</x>
+                <y>1</y>
+                <z>-6.67541838E-15</z>
+              </up>
+              <dir>
+                <x>2.30881446E-14</x>
+                <y>6.67541838E-15</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>avalon016_hullagh_hullcol_Im0_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id 904042CD</name>
+              <parentName>STUB! id 8CD7D99B</parentName>
+              <pos>
+                <x>-149.78125</x>
+                <y>-256.40625</y>
+                <z>87.63446</z>
+              </pos>
+              <up>
+                <x>3.35097652E-14</x>
+                <y>1</y>
+                <z>-6.67541838E-15</z>
+              </up>
+              <dir>
+                <x>2.30881446E-14</x>
+                <y>6.67541838E-15</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>avalon016_hullagh_hullc_Im0_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+              </meshes>
+              <children>
+                <FPONode>
+                  <flags>0</flags>
+                  <name>STUB! id 7923E7F8</name>
+                  <parentName>STUB! id 904042CD</parentName>
+                  <pos>
+                    <x>23.546875</x>
+                    <y>-5.34375</y>
+                    <z>-0.3328247</z>
+                  </pos>
+                  <up>
+                    <x>3.35097652E-14</x>
+                    <y>1</y>
+                    <z>-6.67541838E-15</z>
+                  </up>
+                  <dir>
+                    <x>2.30881446E-14</x>
+                    <y>6.67541838E-15</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>avalon016_hullagh_hullc_hulle_Im0_Ld0</meshName>
+                      <lod>0</lod>
+                      <variant>0</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>1</lod>
+                      <variant>0</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>2</lod>
+                      <variant>0</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children />
+                  <slots />
+                </FPONode>
+                <FPONode>
+                  <flags>0</flags>
+                  <name>STUB! id E747725B</name>
+                  <parentName>STUB! id 904042CD</parentName>
+                  <pos>
+                    <x>25.8125</x>
+                    <y>-6.1875</y>
+                    <z>172.047546</z>
+                  </pos>
+                  <up>
+                    <x>3.35097652E-14</x>
+                    <y>1</y>
+                    <z>-6.67541838E-15</z>
+                  </up>
+                  <dir>
+                    <x>2.30881446E-14</x>
+                    <y>6.67541838E-15</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>avalon016_hullagh_hullc_hullb_Im0_Ld0</meshName>
+                      <lod>0</lod>
+                      <variant>0</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>1</lod>
+                      <variant>0</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>2</lod>
+                      <variant>0</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children>
+                    <FPONode>
+                      <flags>0</flags>
+                      <name>STUB! id 7E4E23E1</name>
+                      <parentName>STUB! id E747725B</parentName>
+                      <pos>
+                        <x>32.90625</x>
+                        <y>-10.34375</y>
+                        <z>63.4406128</z>
+                      </pos>
+                      <up>
+                        <x>-0.5735763</x>
+                        <y>0.8191521</y>
+                        <z>7.77463E-15</z>
+                      </up>
+                      <dir>
+                        <x>2.30881462E-14</x>
+                        <y>6.675418E-15</y>
+                        <z>1</z>
+                      </dir>
+                      <meshes>
+                        <FPOmesh>
+                          <meshName>avalon016_hullagh_hullc_hullb_hulla_Im0_Ld0</meshName>
+                          <lod>0</lod>
+                          <variant>0</variant>
+                        </FPOmesh>
+                        <FPOmesh>
+                          <lod>1</lod>
+                          <variant>0</variant>
+                        </FPOmesh>
+                        <FPOmesh>
+                          <lod>2</lod>
+                          <variant>0</variant>
+                        </FPOmesh>
+                      </meshes>
+                      <children />
+                      <slots />
+                    </FPONode>
+                  </children>
+                  <slots />
+                </FPONode>
+              </children>
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id E747725B</name>
+              <parentName>STUB! id 8CD7D99B</parentName>
+              <pos>
+                <x>-736.09375</x>
+                <y>-262.875</y>
+                <z>-147.058044</z>
+              </pos>
+              <up>
+                <x>3.35097652E-14</x>
+                <y>1</y>
+                <z>-6.67541838E-15</z>
+              </up>
+              <dir>
+                <x>2.30881446E-14</x>
+                <y>6.67541838E-15</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>avalon016_hullagh_hullb_Im0_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id 1E7FBC4B</name>
+              <parentName>STUB! id 8CD7D99B</parentName>
+              <pos>
+                <x>-735.6406</x>
+                <y>183.40625</y>
+                <z>-147.857635</z>
+              </pos>
+              <up>
+                <x>3.35097652E-14</x>
+                <y>1</y>
+                <z>-6.67541838E-15</z>
+              </up>
+              <dir>
+                <x>2.30881446E-14</x>
+                <y>6.67541838E-15</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>avalon016_hullagh_hullas_Im0_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id 7E4E23E1</name>
+              <parentName>STUB! id 8CD7D99B</parentName>
+              <pos>
+                <x>-159.21875</x>
+                <y>241.96875</y>
+                <z>-147.058044</z>
+              </pos>
+              <up>
+                <x>3.35097652E-14</x>
+                <y>1</y>
+                <z>-6.67541838E-15</z>
+              </up>
+              <dir>
+                <x>2.30881446E-14</x>
+                <y>6.67541838E-15</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>avalon016_hullagh_hulla_Im0_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+          </children>
+          <slots />
+        </FPONode>
+      </children>
+      <slots />
+    </FPONode>
+  </children>
+  <slots />
+</FPONode>

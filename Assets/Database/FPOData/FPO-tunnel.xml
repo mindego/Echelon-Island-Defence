@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<FPONode xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <flags>0</flags>
+  <name>root</name>
+  <pos>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </pos>
+  <up>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </up>
+  <dir>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </dir>
+  <meshes />
+  <children>
+    <FPONode>
+      <flags>0</flags>
+      <name>STUB! id FF5F5C6C</name>
+      <parentName>root</parentName>
+      <pos>
+        <x>-0.130700812</x>
+        <y>-161.859879</y>
+        <z>-16.6158638</z>
+      </pos>
+      <up>
+        <x>4.37114025E-08</x>
+        <y>1.1920929E-07</y>
+        <z>1</z>
+      </up>
+      <dir>
+        <x>1.94707184E-07</x>
+        <y>1</y>
+        <z>-1.192093E-07</z>
+      </dir>
+      <meshes />
+      <children>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id 6A3F3B4E</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>1.5176749E-05</x>
+            <y>2.12970829</y>
+            <z>-6.96868658</z>
+          </pos>
+          <up>
+            <x>1.947072E-07</x>
+            <y>6.9831195E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>4.37113741E-08</x>
+            <y>1</y>
+            <z>-6.98312E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>tunnel_Road_Im0_Ld0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>tunnel_Road_Im0_Ld1</meshName>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>tunnel_Road_Im0_Ld2</meshName>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id 425F0D24</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>3.224931E-05</x>
+            <y>54.3990555</y>
+            <z>161.047165</z>
+          </pos>
+          <up>
+            <x>1.947072E-07</x>
+            <y>6.9831195E-08</y>
+            <z>1</z>
+          </up>
+          <dir>
+            <x>4.37113741E-08</x>
+            <y>1</y>
+            <z>-6.98312E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>tunnel_Build_Im0_Ld0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>tunnel_Build_Im0_Ld1</meshName>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>tunnel_Build_Im0_Ld2</meshName>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+      </children>
+      <slots />
+    </FPONode>
+  </children>
+  <slots />
+</FPONode>

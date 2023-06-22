@@ -1,0 +1,315 @@
+<?xml version="1.0"?>
+<FPONode xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <flags>0</flags>
+  <name>root</name>
+  <pos>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </pos>
+  <up>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </up>
+  <dir>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </dir>
+  <meshes />
+  <children>
+    <FPONode>
+      <flags>0</flags>
+      <name>STUB! id FF5F5C6C</name>
+      <parentName>root</parentName>
+      <pos>
+        <x>-0.0179529823</x>
+        <y>-0.0209487788</y>
+        <z>4.976682</z>
+      </pos>
+      <up>
+        <x>-4.371139E-08</x>
+        <y>5.96046448E-08</y>
+        <z>1</z>
+      </up>
+      <dir>
+        <x>-4.37113918E-08</x>
+        <y>-1</y>
+        <z>5.960464E-08</z>
+      </dir>
+      <meshes>
+        <FPOmesh>
+          <meshName>c_water_lgt_Im0_Ld0</meshName>
+          <lod>0</lod>
+          <variant>0</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>c_water_lgt_Im0_Ld1</meshName>
+          <lod>1</lod>
+          <variant>0</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>c_water_lgt_Im0_Ld2</meshName>
+          <lod>2</lod>
+          <variant>0</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>c_water_lgt_Im1_Ld0</meshName>
+          <lod>0</lod>
+          <variant>1</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>c_water_lgt_Im1_Ld1</meshName>
+          <lod>1</lod>
+          <variant>1</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>c_water_lgt_Im1_Ld2</meshName>
+          <lod>2</lod>
+          <variant>1</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>c_water_lgt_Im2_Ld0</meshName>
+          <lod>0</lod>
+          <variant>2</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>c_water_lgt_Im2_Ld1</meshName>
+          <lod>1</lod>
+          <variant>2</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <lod>2</lod>
+          <variant>2</variant>
+        </FPOmesh>
+      </meshes>
+      <children>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id BD8DBD81</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-0.002574217</x>
+            <y>5.32584524</y>
+            <z>-3.943866</z>
+          </pos>
+          <up>
+            <x>-4.371139E-08</x>
+            <y>5.96046448E-08</y>
+            <z>-1</z>
+          </up>
+          <dir>
+            <x>4.37113918E-08</x>
+            <y>1</y>
+            <z>5.960464E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>c_water_lgt_D06_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id CA8A8D17</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-0.0517536439</x>
+            <y>5.325845</y>
+            <z>4.05343342</z>
+          </pos>
+          <up>
+            <x>-4.371139E-08</x>
+            <y>5.96046448E-08</y>
+            <z>-1</z>
+          </up>
+          <dir>
+            <x>4.37113918E-08</x>
+            <y>1</y>
+            <z>5.960464E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>c_water_lgt_D05_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 54EE18B4</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>3.37786078</x>
+            <y>5.93345833</y>
+            <z>2.30790424</z>
+          </pos>
+          <up>
+            <x>-4.371139E-08</x>
+            <y>5.96046448E-08</y>
+            <z>-1</z>
+          </up>
+          <dir>
+            <x>4.37113918E-08</x>
+            <y>1</y>
+            <z>5.960464E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>c_water_lgt_D04_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id 23E92822</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>3.54757667</x>
+            <y>5.08477736</y>
+            <z>-1.82180464</z>
+          </pos>
+          <up>
+            <x>-4.371139E-08</x>
+            <y>5.96046448E-08</y>
+            <z>-1</z>
+          </up>
+          <dir>
+            <x>4.37113918E-08</x>
+            <y>1</y>
+            <z>5.960464E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>c_water_lgt_D03_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id BAE07998</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-3.46799231</x>
+            <y>5.394057</y>
+            <z>2.024643</z>
+          </pos>
+          <up>
+            <x>-4.371139E-08</x>
+            <y>5.96046448E-08</y>
+            <z>-1</z>
+          </up>
+          <dir>
+            <x>4.37113918E-08</x>
+            <y>1</y>
+            <z>5.960464E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>c_water_lgt_D02_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>1</flags>
+          <name>STUB! id CDE7490E</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-3.39759541</x>
+            <y>5.47856236</y>
+            <z>-2.25825429</z>
+          </pos>
+          <up>
+            <x>-4.371139E-08</x>
+            <y>5.96046448E-08</y>
+            <z>-1</z>
+          </up>
+          <dir>
+            <x>4.37113918E-08</x>
+            <y>1</y>
+            <z>5.960464E-08</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>c_water_lgt_D01_Im2_Ld0</meshName>
+              <lod>0</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>1</lod>
+              <variant>2</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <lod>2</lod>
+              <variant>2</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+      </children>
+      <slots />
+    </FPONode>
+  </children>
+  <slots />
+</FPONode>

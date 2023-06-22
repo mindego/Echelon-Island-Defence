@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<FPONode xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <flags>0</flags>
+  <name>root</name>
+  <pos>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </pos>
+  <up>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </up>
+  <dir>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </dir>
+  <meshes />
+  <children>
+    <FPONode>
+      <flags>0</flags>
+      <name>STUB! id FF5F5C6C</name>
+      <parentName>root</parentName>
+      <pos>
+        <x>1.27506894E-11</x>
+        <y>0.00525212241</y>
+        <z>-0.0034201392</z>
+      </pos>
+      <up>
+        <x>4.37113918E-08</x>
+        <y>1.78813949E-07</y>
+        <z>1</z>
+      </up>
+      <dir>
+        <x>4.37113918E-08</x>
+        <y>-1</y>
+        <z>1.78813949E-07</z>
+      </dir>
+      <meshes>
+        <FPOmesh>
+          <meshName>vw_umd_Img0_Lod0</meshName>
+          <lod>0</lod>
+          <variant>0</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>vw_umd_Img0_Lod1</meshName>
+          <lod>1</lod>
+          <variant>0</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <lod>2</lod>
+          <variant>0</variant>
+        </FPOmesh>
+      </meshes>
+      <children />
+      <slots />
+    </FPONode>
+  </children>
+  <slots />
+</FPONode>

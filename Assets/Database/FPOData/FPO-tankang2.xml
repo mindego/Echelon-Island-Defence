@@ -1,0 +1,3578 @@
+<?xml version="1.0"?>
+<FPONode xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <flags>0</flags>
+  <name>root</name>
+  <pos>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </pos>
+  <up>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </up>
+  <dir>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </dir>
+  <meshes />
+  <children>
+    <FPONode>
+      <flags>0</flags>
+      <name>STUB! id FF5F5C6C</name>
+      <parentName>root</parentName>
+      <pos>
+        <x>6.24175835</x>
+        <y>5.72375727</y>
+        <z>7.95440674</z>
+      </pos>
+      <up>
+        <x>-0</x>
+        <y>0</y>
+        <z>1</z>
+      </up>
+      <dir>
+        <x>-1</x>
+        <y>-1.1920929E-07</y>
+        <z>0</z>
+      </dir>
+      <meshes>
+        <FPOmesh>
+          <meshName>tankang2_Im0_Ld0</meshName>
+          <lod>0</lod>
+          <variant>0</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>tankang2_Im0_Ld1</meshName>
+          <lod>1</lod>
+          <variant>0</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>tankang2_Im0_Ld2</meshName>
+          <lod>2</lod>
+          <variant>0</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>tankang2_Im1_Ld0</meshName>
+          <lod>0</lod>
+          <variant>1</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>tankang2_Im1_Ld1</meshName>
+          <lod>1</lod>
+          <variant>1</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>tankang2_Im1_Ld2</meshName>
+          <lod>2</lod>
+          <variant>1</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>tankang2_Im2_Ld0</meshName>
+          <lod>0</lod>
+          <variant>2</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>tankang2_Im2_Ld1</meshName>
+          <lod>1</lod>
+          <variant>2</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>tankang2_Im2_Ld2</meshName>
+          <lod>2</lod>
+          <variant>2</variant>
+        </FPOmesh>
+      </meshes>
+      <children>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id A846E2A1</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>0.801854968</x>
+            <y>2.50193787</y>
+            <z>3.07819629</z>
+          </pos>
+          <up>
+            <x>3.55271368E-15</x>
+            <y>1</y>
+            <z>4.23516474E-22</z>
+          </up>
+          <dir>
+            <x>1.50463277E-36</x>
+            <y>-4.23516474E-22</y>
+            <z>1</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>tankang2_Barak_Im0_Ld0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>tankang2_Barak_Im0_Ld1</meshName>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>tankang2_Barak_Im0_Ld2</meshName>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>tankang2_Barak_Im1_Ld0</meshName>
+              <lod>0</lod>
+              <variant>1</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>tankang2_Barak_Im1_Ld1</meshName>
+              <lod>1</lod>
+              <variant>1</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>tankang2_Barak_Im1_Ld2</meshName>
+              <lod>2</lod>
+              <variant>1</variant>
+            </FPOmesh>
+          </meshes>
+          <children>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id E77B11C6</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>10.2769632</x>
+                <y>2.28338242</y>
+                <z>-74.5806961</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-e77b11c6_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 7E72407C</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>56.35345</x>
+                <y>7.315632</y>
+                <z>54.27082</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-7e72407c_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 097570EA</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>4.93020153</x>
+                <y>-1.33354664</y>
+                <z>-74.48976</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-097570ea_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id F731D481</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>-13.7834635</x>
+                <y>3.855956</y>
+                <z>-74.5807</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-f731d481_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 8036E417</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>20.4987144</x>
+                <y>-0.547254562</y>
+                <z>-74.48975</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-8036e417_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 1089F986</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>97.24047</x>
+                <y>4.327734</y>
+                <z>-74.4897461</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-1089f986_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 678EC910</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>-103.420349</x>
+                <y>-1.33355045</y>
+                <z>54.27081</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-678ec910_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id FE8798AA</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>20.9704723</x>
+                <y>7.158369</y>
+                <z>54.27082</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-fe8798aa_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 8980A83C</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>115.181808</x>
+                <y>0.349184036</y>
+                <z>41.2513733</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-8980a83c_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 17E43D9F</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>115.1818</x>
+                <y>0.349184036</y>
+                <z>64.97543</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-17e43d9f_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 60E30D09</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>-114.190689</x>
+                <y>-0.348592758</y>
+                <z>-35.5029144</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-60e30d09_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id F9EA5CB3</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>35.2809334</x>
+                <y>-1.01902866</y>
+                <z>-74.48975</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-f9ea5cb3_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 8EED6C25</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>-114.015945</x>
+                <y>0.3491745</y>
+                <z>41.2513657</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-8eed6c25_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id EE2AE5C0</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>75.06712</x>
+                <y>-1.01902866</y>
+                <z>54.27082</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-ee2ae5c0_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 992DD556</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>6.8861537</x>
+                <y>8.03994751</y>
+                <z>7.41356754</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-992dd556_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 0992C8C7</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>24.174511</x>
+                <y>8.03994751</y>
+                <z>-12.8902</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-0992c8c7_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 7E95F851</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>-18.0412445</x>
+                <y>8.03994751</y>
+                <z>-12.4881477</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-7e95f851_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id E79CA9EB</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>-62.6693268</x>
+                <y>8.03994751</y>
+                <z>-21.93644</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-e79ca9eb_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 909B997D</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>-88.1998138</x>
+                <y>8.03994751</y>
+                <z>17.6659546</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-909b997d_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 0EFF0CDE</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>-94.02959</x>
+                <y>8.03994751</y>
+                <z>-61.1367874</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-0eff0cde_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 79F83C48</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>-59.2518578</x>
+                <y>8.03994751</y>
+                <z>-59.5285645</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-79f83c48_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id E0F16DF2</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>6.48410463</x>
+                <y>8.03994751</y>
+                <z>-69.57994</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-e0f16df2_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 97F65D64</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>-17.639185</x>
+                <y>8.03994751</y>
+                <z>-50.2813</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-97f65d64_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id C507B603</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>76.48245</x>
+                <y>1.18257713</y>
+                <z>-74.4897461</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-c507b603_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id B2008695</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>-114.1907</x>
+                <y>-0.348592758</y>
+                <z>16.4806671</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-b2008695_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 22BF9B04</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>56.353466</x>
+                <y>3.06967258</y>
+                <z>-74.48975</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-22bf9b04_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 55B8AB92</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>91.31767</x>
+                <y>8.03994751</y>
+                <z>28.9235115</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-55b8ab92_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id CCB1FA28</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>61.76663</x>
+                <y>8.03994751</y>
+                <z>29.5265884</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-ccb1fa28_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id BBB6CABE</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>7.48922873</x>
+                <y>8.03994751</y>
+                <z>48.4231567</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-bbb6cabe_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 25D25F1D</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>-114.1033</x>
+                <y>-0.174151421</y>
+                <z>-63.58801</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-25d25f1d_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 52D56F8B</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>-7.38679552</x>
+                <y>8.03994751</y>
+                <z>28.3204155</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-52d56f8b_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id CBDC3E31</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>-54.4272232</x>
+                <y>8.03994751</y>
+                <z>29.5265732</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-cbdc3e31_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id BCDB0EA7</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>91.31768</x>
+                <y>8.03994751</y>
+                <z>-51.2864227</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-bcdb0ea7_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id DC1C8742</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>78.45192</x>
+                <y>8.03994751</y>
+                <z>-11.6840286</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-dc1c8742_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id AB1BB7D4</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>-88.40084</x>
+                <y>8.03994751</y>
+                <z>44.00054</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-ab1bb7d4_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 3BA4AA45</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>-90.8131561</x>
+                <y>8.03994751</y>
+                <z>-1.23062444</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-3ba4aa45_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 4CA39AD3</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>-96.64295</x>
+                <y>8.03994751</y>
+                <z>-36.6114426</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-4ca39ad3_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id D5AACB69</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>115.356537</x>
+                <y>-0.348583221</y>
+                <z>16.4806843</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-d5aacb69_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id A2ADFBFF</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>90.32113</x>
+                <y>4.01322</y>
+                <z>-74.58069</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-a2adfbff_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 3CC96E5C</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>90.1808548</x>
+                <y>7.315632</y>
+                <z>54.2708244</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-3cc96e5c_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 4BCE5ECA</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>19.8603649</x>
+                <y>-3.86355162</y>
+                <z>56.60511</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>1.49011532E-08</y>
+                <z>-1.63912773E-07</z>
+              </up>
+              <dir>
+                <x>1.490117E-08</x>
+                <y>1</y>
+                <z>-1.04308128E-07</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-4bce5eca_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id D2C70F70</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>-90.94534</x>
+                <y>-3.86355734</y>
+                <z>56.60511</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>1.49011532E-08</y>
+                <z>-1.63912773E-07</z>
+              </up>
+              <dir>
+                <x>1.490117E-08</x>
+                <y>1</y>
+                <z>-1.04308128E-07</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-d2c70f70_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id A5C03FE6</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>92.80748</x>
+                <y>-3.86354876</y>
+                <z>56.60512</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>1.49011532E-08</y>
+                <z>-1.63912773E-07</z>
+              </up>
+              <dir>
+                <x>1.490117E-08</x>
+                <y>1</y>
+                <z>-1.04308128E-07</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-a5c03fe6_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 935D1185</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>-54.9334869</x>
+                <y>-3.863555</y>
+                <z>56.605114</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>1.49011532E-08</y>
+                <z>-1.63912773E-07</z>
+              </up>
+              <dir>
+                <x>1.490117E-08</x>
+                <y>1</y>
+                <z>-1.04308128E-07</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-935d1185_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id E45A2113</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>3.26339364</x>
+                <y>-6.376011</y>
+                <z>60.154007</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-e45a2113_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 74E53C82</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>3.263392</x>
+                <y>-5.97578526</y>
+                <z>72.24968</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-74e53c82_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 03E20C14</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>-34.2096634</x>
+                <y>2.07317638</y>
+                <z>63.57814</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-03e20c14_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 9AEB5DAE</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>78.2095</x>
+                <y>-5.97578526</y>
+                <z>72.2496948</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-9aeb5dae_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id EDEC6D38</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>-71.682724</x>
+                <y>-5.97578526</y>
+                <z>72.24967</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-edec6d38_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 7388F89B</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>-71.68272</x>
+                <y>-6.376011</y>
+                <z>60.154</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-7388f89b_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 048FC80D</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>3.26339316</x>
+                <y>2.07317638</y>
+                <z>63.5781441</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-048fc80d_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 9D8699B7</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>-34.2096634</x>
+                <y>-5.97578526</y>
+                <z>72.24968</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-9d8699b7_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id EA81A921</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>-34.2096634</x>
+                <y>-6.376011</y>
+                <z>60.1540031</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-ea81a921_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 8A4620C4</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>40.73645</x>
+                <y>-5.97578526</y>
+                <z>72.24969</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-8a4620c4_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id FD411052</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>78.20951</x>
+                <y>-6.376011</y>
+                <z>60.1540146</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-fd411052_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 6DFE0DC3</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>40.73645</x>
+                <y>2.07317638</y>
+                <z>63.5781479</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-6dfe0dc3_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 1AF93D55</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>115.356544</x>
+                <y>-0.348584175</y>
+                <z>-35.50289</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-1af93d55_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 83F06CEF</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>78.2095</x>
+                <y>2.07317638</y>
+                <z>63.57815</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-83f06cef_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id F4F75C79</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>115.26918</x>
+                <y>0.000299453735</y>
+                <z>-8.813329</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-f4f75c79_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 6A93C9DA</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>76.63971</x>
+                <y>5.74305344</y>
+                <z>-74.58069</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-6a93c9da_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 1D94F94C</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>100.542892</x>
+                <y>3.22693157</y>
+                <z>-74.5806961</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-1d94f94c_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 849DA8F6</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>30.20533</x>
+                <y>8.03994751</y>
+                <z>28.1193924</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-849da8f6_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id F39A9860</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>-77.00105</x>
+                <y>-1.17629051</y>
+                <z>-74.48977</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-f39a9860_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-f39a9860_Im2_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id A16B7307</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>-51.5253143</x>
+                <y>3.226925</y>
+                <z>-74.5807</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-a16b7307_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-a16b7307_Im2_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-a16b7307_Im2_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id D66C4391</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>-50.58176</x>
+                <y>-1.17629051</y>
+                <z>-74.48976</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-d66c4391_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-d66c4391_Im2_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-d66c4391_Im2_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 46D35E00</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>45.97446</x>
+                <y>1.49709511</y>
+                <z>-74.5806961</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-46d35e00_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-46d35e00_Im2_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-46d35e00_Im2_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 31D46E96</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>58.2405624</x>
+                <y>-4.00692463</y>
+                <z>-74.5806961</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-31d46e96_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-31d46e96_Im2_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-31d46e96_Im2_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id A8DD3F2C</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>-92.5695648</x>
+                <y>3.06966782</y>
+                <z>-74.5806961</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-a8dd3f2c_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-a8dd3f2c_Im2_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-a8dd3f2c_Im2_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id DFDA0FBA</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>-29.1947155</x>
+                <y>-1.33354759</y>
+                <z>-74.48976</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-dfda0fba_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-dfda0fba_Im2_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-dfda0fba_Im2_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 41BE9A19</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>-95.87196</x>
+                <y>-1.17629433</y>
+                <z>-74.4897461</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-41be9a19_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-41be9a19_Im2_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-41be9a19_Im2_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 36B9AA8F</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>77.426</x>
+                <y>-6.83756256</y>
+                <z>-74.4897461</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-36b9aa8f_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-36b9aa8f_Im2_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-36b9aa8f_Im2_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id AFB0FB35</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>62.0147438</x>
+                <y>1.81161213</y>
+                <z>-74.5806961</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-afb0fb35_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-afb0fb35_Im2_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-afb0fb35_Im2_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id D8B7CBA3</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>-12.68266</x>
+                <y>-1.49080467</y>
+                <z>-74.48976</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-d8b7cba3_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-d8b7cba3_Im2_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-d8b7cba3_Im2_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id B43BF1AA</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>105.575127</x>
+                <y>-1.01902485</y>
+                <z>54.2708244</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-b43bf1aa_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-b43bf1aa_Im2_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-b43bf1aa_Im2_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id C33CC13C</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>-90.99701</x>
+                <y>7.6301403</y>
+                <z>54.27081</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-c33cc13c_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-c33cc13c_Im2_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-c33cc13c_Im2_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 5383DCAD</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>-55.456768</x>
+                <y>7.78739738</y>
+                <z>54.270813</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-5383dcad_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-5383dcad_Im2_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-5383dcad_Im2_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 2484EC3B</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>-36.11407</x>
+                <y>-0.07548523</y>
+                <z>54.2708168</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-2484ec3b_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-2484ec3b_Im2_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-2484ec3b_Im2_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id BD8DBD81</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>-17.243145</x>
+                <y>7.630144</y>
+                <z>54.2708168</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-bd8dbd81_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-bd8dbd81_Im2_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-bd8dbd81_Im2_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id CA8A8D17</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>1.94228971</x>
+                <y>-1.1762886</y>
+                <z>54.27082</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-ca8a8d17_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-ca8a8d17_Im2_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-ca8a8d17_Im2_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 54EE18B4</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>55.87223</x>
+                <y>-3.86355114</y>
+                <z>56.6051178</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>1.49011532E-08</y>
+                <z>-1.63912773E-07</z>
+              </up>
+              <dir>
+                <x>1.490117E-08</x>
+                <y>1</y>
+                <z>-1.04308128E-07</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-54ee18b4_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-54ee18b4_Im2_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-54ee18b4_Im2_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id 23E92822</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>19.5508862</x>
+                <y>8.03994751</y>
+                <z>-50.6833534</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-23e92822_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-23e92822_Im2_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-23e92822_Im2_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id BAE07998</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>6.082046</x>
+                <y>8.03994751</y>
+                <z>-30.37959</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-bae07998_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-bae07998_Im2_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-bae07998_Im2_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>1</flags>
+              <name>STUB! id CDE7490E</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>66.5913</x>
+                <y>8.03994751</y>
+                <z>-50.28129</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>0</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>0</x>
+                <y>1</y>
+                <z>0</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-cde7490e_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-cde7490e_Im2_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_D-cde7490e_Im2_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id 751AABD2</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>-17.0748844</x>
+                <y>4.27160072</y>
+                <z>57.1337852</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>-1.77635684E-14</y>
+                <z>-1.1920929E-07</z>
+              </up>
+              <dir>
+                <x>-3.55271368E-15</x>
+                <y>1</y>
+                <z>-1.1920929E-07</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_door_Im0_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_door_Im0_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_door_Im0_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_door_Im1_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>1</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_door_Im1_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>1</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_door_Im1_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>1</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_door_Im2_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_door_Im2_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_door_Im2_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>2</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id 629595B3</name>
+              <parentName>STUB! id A846E2A1</parentName>
+              <pos>
+                <x>96.98038</x>
+                <y>21.08708</y>
+                <z>-10.3708277</z>
+              </pos>
+              <up>
+                <x>-1</x>
+                <y>-2.98023259E-08</y>
+                <z>-4.47034836E-08</z>
+              </up>
+              <dir>
+                <x>-2.980233E-08</x>
+                <y>1</y>
+                <z>5.960465E-08</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_Aerial_Im0_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_Aerial_Im0_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_Aerial_Im0_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_Aerial_Im1_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>1</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_Aerial_Im1_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>1</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>tankang2_Barak_Aerial_Im1_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>1</variant>
+                </FPOmesh>
+              </meshes>
+              <children>
+                <FPONode>
+                  <flags>1</flags>
+                  <name>STUB! id 54EE18B4</name>
+                  <parentName>STUB! id 629595B3</parentName>
+                  <pos>
+                    <x>-2.52502465</x>
+                    <y>0.341245621</y>
+                    <z>6.071287</z>
+                  </pos>
+                  <up>
+                    <x>8.940697E-08</x>
+                    <y>1</y>
+                    <z>1.49011585E-08</z>
+                  </up>
+                  <dir>
+                    <x>2.980232E-08</x>
+                    <y>-1.49011612E-08</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>tankang2_Barak_Aerial_D-54ee18b4_Im2_Ld0</meshName>
+                      <lod>0</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>1</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>2</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children />
+                  <slots />
+                </FPONode>
+                <FPONode>
+                  <flags>1</flags>
+                  <name>STUB! id 23E92822</name>
+                  <parentName>STUB! id 629595B3</parentName>
+                  <pos>
+                    <x>3.469965</x>
+                    <y>-0.7548544</y>
+                    <z>-4.669773</z>
+                  </pos>
+                  <up>
+                    <x>8.940697E-08</x>
+                    <y>1</y>
+                    <z>1.49011585E-08</z>
+                  </up>
+                  <dir>
+                    <x>2.980232E-08</x>
+                    <y>-1.49011612E-08</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>tankang2_Barak_Aerial_D-23e92822_Im2_Ld0</meshName>
+                      <lod>0</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>1</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <lod>2</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children />
+                  <slots />
+                </FPONode>
+                <FPONode>
+                  <flags>1</flags>
+                  <name>STUB! id BAE07998</name>
+                  <parentName>STUB! id 629595B3</parentName>
+                  <pos>
+                    <x>-2.89883423</x>
+                    <y>0.410871834</y>
+                    <z>-4.669773</z>
+                  </pos>
+                  <up>
+                    <x>8.940697E-08</x>
+                    <y>1</y>
+                    <z>1.49011585E-08</z>
+                  </up>
+                  <dir>
+                    <x>2.980232E-08</x>
+                    <y>-1.49011612E-08</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>tankang2_Barak_Aerial_D-bae07998_Im2_Ld0</meshName>
+                      <lod>0</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <meshName>tankang2_Barak_Aerial_D-bae07998_Im2_Ld1</meshName>
+                      <lod>1</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <meshName>tankang2_Barak_Aerial_D-bae07998_Im2_Ld2</meshName>
+                      <lod>2</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children />
+                  <slots />
+                </FPONode>
+                <FPONode>
+                  <flags>1</flags>
+                  <name>STUB! id CDE7490E</name>
+                  <parentName>STUB! id 629595B3</parentName>
+                  <pos>
+                    <x>3.09615779</x>
+                    <y>-0.17319724</y>
+                    <z>6.071287</z>
+                  </pos>
+                  <up>
+                    <x>8.940697E-08</x>
+                    <y>1</y>
+                    <z>1.49011585E-08</z>
+                  </up>
+                  <dir>
+                    <x>2.980232E-08</x>
+                    <y>-1.49011612E-08</y>
+                    <z>1</z>
+                  </dir>
+                  <meshes>
+                    <FPOmesh>
+                      <meshName>tankang2_Barak_Aerial_D-cde7490e_Im2_Ld0</meshName>
+                      <lod>0</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <meshName>tankang2_Barak_Aerial_D-cde7490e_Im2_Ld1</meshName>
+                      <lod>1</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                    <FPOmesh>
+                      <meshName>tankang2_Barak_Aerial_D-cde7490e_Im2_Ld2</meshName>
+                      <lod>2</lod>
+                      <variant>2</variant>
+                    </FPOmesh>
+                  </meshes>
+                  <children />
+                  <slots />
+                </FPONode>
+              </children>
+              <slots />
+            </FPONode>
+          </children>
+          <slots />
+        </FPONode>
+      </children>
+      <slots>
+        <FPOSlot>
+          <slotId>0</slotId>
+          <name>624771048</name>
+          <pos>
+            <x>-17.0371017</x>
+            <y>-7.15493059</y>
+            <z>58.1143723</z>
+          </pos>
+          <up>
+            <x>-2.75320758E-07</x>
+            <y>1</y>
+            <z>3.01422119E-07</z>
+          </up>
+          <dir>
+            <x>1.20613208E-07</x>
+            <y>-3.014221E-07</y>
+            <z>1</z>
+          </dir>
+          <flags>7078005</flags>
+        </FPOSlot>
+        <FPOSlot>
+          <slotId>1</slotId>
+          <name>2475262413</name>
+          <pos>
+            <x>-17.0307312</x>
+            <y>-6.508279</y>
+            <z>-16.6850758</z>
+          </pos>
+          <up>
+            <x>-2.51561261E-07</x>
+            <y>1</y>
+            <z>2.85219869E-07</z>
+          </up>
+          <dir>
+            <x>9.909043E-08</x>
+            <y>-2.85219841E-07</y>
+            <z>1</z>
+          </dir>
+          <flags>105</flags>
+        </FPOSlot>
+      </slots>
+    </FPONode>
+  </children>
+  <slots />
+</FPONode>

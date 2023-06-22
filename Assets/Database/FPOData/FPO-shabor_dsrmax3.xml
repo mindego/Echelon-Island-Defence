@@ -1,0 +1,338 @@
+<?xml version="1.0"?>
+<FPONode xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <flags>0</flags>
+  <name>root</name>
+  <pos>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </pos>
+  <up>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </up>
+  <dir>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </dir>
+  <meshes />
+  <children>
+    <FPONode>
+      <flags>0</flags>
+      <name>STUB! id FF5F5C6C</name>
+      <parentName>root</parentName>
+      <pos>
+        <x>-1.47725487</x>
+        <y>-1.36968791</y>
+        <z>2.86415052</z>
+      </pos>
+      <up>
+        <x>0.0049427175</x>
+        <y>0.00174538593</y>
+        <z>0.9999863</z>
+      </up>
+      <dir>
+        <x>8.77888E-06</x>
+        <y>-0.9999985</y>
+        <z>0.00174536381</z>
+      </dir>
+      <meshes>
+        <FPOmesh>
+          <meshName>shabor_dsrmax3_Im0_Ld0</meshName>
+          <lod>0</lod>
+          <variant>0</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>shabor_dsrmax3_Im0_Ld1</meshName>
+          <lod>1</lod>
+          <variant>0</variant>
+        </FPOmesh>
+        <FPOmesh>
+          <meshName>shabor_dsrmax3_Im0_Ld2</meshName>
+          <lod>2</lod>
+          <variant>0</variant>
+        </FPOmesh>
+      </meshes>
+      <children>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id 951C11A9</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>4.10862732</x>
+            <y>0.0219315644</y>
+            <z>-2.68903565</z>
+          </pos>
+          <up>
+            <x>-0.3109736</x>
+            <y>-0.34997943</y>
+            <z>-0.8836344</z>
+          </up>
+          <dir>
+            <x>-0.918985963</x>
+            <y>0.3478537</y>
+            <z>0.185640991</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>shabor_dsrmax3_RLeg_Im0_Ld0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>shabor_dsrmax3_RLeg_Im0_Ld1</meshName>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>shabor_dsrmax3_RLeg_Im0_Ld2</meshName>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id 25DA3105</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>2.82125139</x>
+            <y>-1.85634613</y>
+            <z>-0.8098365</z>
+          </pos>
+          <up>
+            <x>5.64443035E-08</x>
+            <y>0.0017452226</y>
+            <z>-0.99999845</z>
+          </up>
+          <dir>
+            <x>-0.995751739</x>
+            <y>-0.09207844</y>
+            <z>-0.000160753829</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>shabor_dsrmax3_Lleg_Im0_Ld0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>shabor_dsrmax3_Lleg_Im0_Ld1</meshName>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>shabor_dsrmax3_Lleg_Im0_Ld2</meshName>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id EE3F39BF</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-0.163525432</x>
+            <y>-0.004118</y>
+            <z>0.344333857</z>
+          </pos>
+          <up>
+            <x>-0.995751739</x>
+            <y>-0.09207847</y>
+            <z>-0.0001608307</z>
+          </up>
+          <dir>
+            <x>-1.28045386E-07</x>
+            <y>-0.00174528279</y>
+            <z>0.9999985</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>shabor_dsrmax3_TurretTM_Im0_Ld0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>shabor_dsrmax3_TurretTM_Im0_Ld1</meshName>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>shabor_dsrmax3_TurretTM_Im0_Ld2</meshName>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+          </meshes>
+          <children>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id EBBB5205</name>
+              <parentName>STUB! id EE3F39BF</parentName>
+              <pos>
+                <x>-0.0367080644</x>
+                <y>3.88661122</y>
+                <z>0.162045956</z>
+              </pos>
+              <up>
+                <x>-1.48444528E-08</x>
+                <y>1</y>
+                <z>-8.424369E-08</z>
+              </up>
+              <dir>
+                <x>-2.513643E-10</x>
+                <y>8.424369E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>shabor_dsrmax3_TurretTM_gunA_Im0_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>shabor_dsrmax3_TurretTM_gunA_Im0_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>shabor_dsrmax3_TurretTM_gunA_Im0_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id 72B203BF</name>
+              <parentName>STUB! id EE3F39BF</parentName>
+              <pos>
+                <x>-0.5910183</x>
+                <y>-5.14308453</y>
+                <z>2.44307518</z>
+              </pos>
+              <up>
+                <x>0.6427876</x>
+                <y>0.7660445</y>
+                <z>-6.120206E-08</z>
+              </up>
+              <dir>
+                <x>6.1083675E-08</x>
+                <y>2.86383344E-08</y>
+                <z>1.00000012</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>shabor_dsrmax3_TurretTM_gunB_Im0_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>shabor_dsrmax3_TurretTM_gunB_Im0_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>shabor_dsrmax3_TurretTM_gunB_Im0_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+            <FPONode>
+              <flags>0</flags>
+              <name>STUB! id 05B53329</name>
+              <parentName>STUB! id EE3F39BF</parentName>
+              <pos>
+                <x>-2.06271863</x>
+                <y>-3.9103775</y>
+                <z>2.44321132</z>
+              </pos>
+              <up>
+                <x>0.6427876</x>
+                <y>0.7660445</y>
+                <z>-6.12020656E-08</z>
+              </up>
+              <dir>
+                <x>6.108367E-08</x>
+                <y>2.863834E-08</y>
+                <z>1</z>
+              </dir>
+              <meshes>
+                <FPOmesh>
+                  <meshName>shabor_dsrmax3_TurretTM_gunC_Im0_Ld0</meshName>
+                  <lod>0</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>shabor_dsrmax3_TurretTM_gunC_Im0_Ld1</meshName>
+                  <lod>1</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+                <FPOmesh>
+                  <meshName>shabor_dsrmax3_TurretTM_gunC_Im0_Ld2</meshName>
+                  <lod>2</lod>
+                  <variant>0</variant>
+                </FPOmesh>
+              </meshes>
+              <children />
+              <slots />
+            </FPONode>
+          </children>
+          <slots />
+        </FPONode>
+        <FPONode>
+          <flags>0</flags>
+          <name>STUB! id E73440A0</name>
+          <parentName>STUB! id FF5F5C6C</parentName>
+          <pos>
+            <x>-0.856316</x>
+            <y>-3.96321559</y>
+            <z>4.69314528</z>
+          </pos>
+          <up>
+            <x>5.64443035E-08</x>
+            <y>0.0017452226</y>
+            <z>-0.99999845</z>
+          </up>
+          <dir>
+            <x>-0.995751739</x>
+            <y>-0.09207844</y>
+            <z>-0.000160753829</z>
+          </dir>
+          <meshes>
+            <FPOmesh>
+              <meshName>shabor_dsrmax3_glass_Im0_Ld0</meshName>
+              <lod>0</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>shabor_dsrmax3_glass_Im0_Ld1</meshName>
+              <lod>1</lod>
+              <variant>0</variant>
+            </FPOmesh>
+            <FPOmesh>
+              <meshName>shabor_dsrmax3_glass_Im0_Ld2</meshName>
+              <lod>2</lod>
+              <variant>0</variant>
+            </FPOmesh>
+          </meshes>
+          <children />
+          <slots />
+        </FPONode>
+      </children>
+      <slots />
+    </FPONode>
+  </children>
+  <slots />
+</FPONode>
